@@ -1,0 +1,12 @@
+[Character A] talks to [Character B].
+[Character A] talks to [Character B] with smile.
+[Character A] talks to [Character B] with smile and blushed.
+[Character A] holds [Character B]'s hand.
+[Character A] holds [Character B]'s hand with full-face blushed.
+[Character A] hugs [Character B].
+[Character A] hugs [Character B] with full-face blushed.
+[Character A] hugs [Character B] with full-face blushed and drool.
+[Character A] kisses [Character B].
+[Character A] kisses [Character B] with full-face blushed and drool.
+[Character A] has french kisses [Character B] with full-face blushed and drool.
+[Character A] has french kisses [Character B] with full-face blushed, drool and ahegao.
