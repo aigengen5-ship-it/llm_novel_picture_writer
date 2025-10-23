@@ -1,30 +1,30 @@
-우유부단
-소심함
-대범함
-쾌활함
-냉정함
-열정적
-시니컬함
-낙천적
-비관적
-고집셈
-다혈질
-침착함
-명랑함
-까칠함
-엉뚱함
-사려 깊음
-충동적
-이성적
-감성적
-과묵함
-수다스러움
-호기심 많음
-의심 많음
-책임감 강함
-무책임함
-순수함
-능글맞음
-허세 가득함
-겸손함
-오만함
+indecisiveness
+shyness
+boldness
+cheerfulness
+coldness
+passionate
+cynicism
+optimism
+pessimism
+stubbornness
+irritability
+composure
+jolliness
+prickliness
+eccentricity
+thoughtfulness
+impulsiveness
+rationality
+emotionality
+taciturnity
+talkativeness
+curiosity
+skepticism
+responsibility
+irresponsibility
+innocence
+slyness
+vanity
+humility
+arrogance

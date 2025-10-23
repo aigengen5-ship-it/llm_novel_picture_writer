@@ -42,6 +42,11 @@ client_id = str(uuid.uuid4())  # Generate a unique client ID
 ws = websocket.WebSocket()
 ws.connect(f"ws://127.0.0.1:8188/ws?clientId={client_id}")
 
+def lower_conv(temp):
+    temp = temp.replace(".", "")
+    temp = temp.lower()
+    return temp
+
 def queue_prompt(prompt):
     p = {"prompt": prompt, "client_id": client_id}
     data = json.dumps(p).encode('utf-8')
@@ -147,7 +152,7 @@ def comfyui_run():
 
     # ComfyUI Image Gen
     startnum = 4
-    comfyui_image_gen(eventtag + "_", base_prompt + "," + pro_prompt + "," + corr_prompt, 5)
+    comfyui_image_gen(eventtag + "_", base_prompt + "," + pro_prompt + "," , 5)
     eventnum += 1
 
     return

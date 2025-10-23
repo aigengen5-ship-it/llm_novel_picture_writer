@@ -8,7 +8,7 @@ Here is Character A information.
 -Relationship with Character B: [REL]
 -Appearance: [APPEARANCE]
 -Personality(MBTI): [PERSONALITY]
--Speaking Style: [SPEAK]
+-Speaking Style: [SPEAKING]
 -Addtional Personality: [PERSONALITY3]
 
 Here is Character B information.
@@ -25,7 +25,7 @@ Please think novel base using the information as below. Don't print it
 -Story theme: [THEME]
 -Use Japanese light novel literary style. Use first-person perspective. 
 
-Write Exposition using above 500 words. Write in Korean. 
+Write Exposition about 500 words in Korean, reflecting all of the following:
 -Describe personality by describing [Character A]'s inner thoughts(Explain based on MBTI, but never use this word directly)
 -Describe [Character A]'s appearance.
 -Describe [Character B]'s appearance.
@@ -38,7 +38,7 @@ Write Exposition using above 500 words. Write in Korean.
 -Print out [Character A]'s character sheet in English.
 ##HARDSTOP##comfyui
 
-Write Episode 1 using above 500 words. Write in Korean.
+Write Episode 1 about 500 words in Korean, reflecting all of the following:
 -[TRIGGER]
 -Describe [Character A]'s reaction and mologue.
 -[Character A] is resisting the conditions of falling love.
@@ -48,7 +48,7 @@ Write Episode 1 using above 500 words. Write in Korean.
 -Print out [Character A]'s character sheet in English.
 ##HARDSTOP##comfyui
 
-Write Episode 2 using above 500 words. Write in Korean.
+Write Episode 2 about 500 words in Korean, reflecting all of the following:
 -After 1 week later, [EPISODE1]
 -[Character A]'s will and resistance is weaken. Think and write [Character A]'s reaction and thought.
 -Tag of appearance change of [Character A]: [CHANGE1]
@@ -62,7 +62,7 @@ Write Episode 2 using above 500 words. Write in Korean.
 -Print out [Character A]'s character sheet in English. Emphasis body/soul changes.
 ##HARDSTOP##comfyui
 
-Write Episode 3 using above 500 words. Cover whole descriptions as below.
+Write Episode 3 about 500 words in Korean, reflecting all of the following:
 -[Character A]'s costume: [CLOTH1]
 -[Character A]'s will and resistance is remaind half. Think and write [Character A]'s reaction and thought.
 -[EPISODE2]
@@ -77,7 +77,7 @@ Write Episode 3 using above 500 words. Cover whole descriptions as below.
 -Print out [Character A]'s character sheet in English. Emphasis body/soul changes.
 ##HARDSTOP##comfyui
 
-Write Episode 4 using above 500 words. Cover whole descriptions as below.
+Write Episode 4 about 500 words in Korean, reflecting all of the following:
 -[Character A]'s costume: [CLOTH2]
 -[Character A]'s will and resistance is almost fading away. Think and write [Character A]'s reaction and thought.
 -[BACKGROUND3]
@@ -98,7 +98,7 @@ Write Episode 4 using above 500 words. Cover whole descriptions as below.
 -Print out [Character A]'s character sheet in English. Emphasis body/soul changes.
 ##HARDSTOP##comfyui
 
-Write Episode 5 using above 500 words. Cover whole descriptions as below.
+Write Episode 5 about 500 words in Korean, reflecting all of the following:
 -[Character A]'s costume: [CLOTH3]
 -[Character A]'s will and resistance is fading away perfectly. Think and write [Character A]'s reaction and thought.
 -Tags of fully in love appearance of [Character A]: [CHANGE3]
@@ -116,7 +116,7 @@ Write Episode 5 using above 500 words. Cover whole descriptions as below.
 -Print out [Character A]'s character sheet in English. Emphasis body/soul changes.
 ##HARDSTOP##comfyui
 
-Write Resolution using above 500 words. Cover whole descriptions as below.
+Write Resolution about 500 words in Korean, reflecting all of the following:
 -[ENDING2]
 -Now [Character A] is a loyal and obscene lover. 
 -[Character A] proudly displays her lovely side in front of others.
