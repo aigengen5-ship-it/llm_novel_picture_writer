@@ -8,6 +8,7 @@ Here is Character A information.
 -Relationship with Character B: [REL]
 -Appearance: [APPEARANCE]
 -Personality(MBTI): [PERSONALITY]
+-Speaking Style: [SPEAK]
 -Addtional Personality: [PERSONALITY3]
 
 Here is Character B information.
@@ -22,7 +23,7 @@ Here is Character B information.
 Please think novel base using the information as below. Don't print it
 -Plots are Exposition, Episode 1, Episode 2, Episode 3, Episode 4, Episode 5 and Resolution
 -Story theme: [THEME]
--Use Japanese light novel literary style. Use variable words comes from Japanese light novels.
+-Use Japanese light novel literary style. Use first-person perspective. 
 
 Write Exposition using above 500 words. Write in Korean. 
 -Describe personality by describing [Character A]'s inner thoughts(Explain based on MBTI, but never use this word directly)

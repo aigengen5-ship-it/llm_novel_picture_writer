@@ -1,4 +1,5 @@
 {
+    "comfyuidir":   "/home/chris/AI/ComfyUI/output/",
     "debug":        3,
     "model":        0,
     "gguf_q8":      1,

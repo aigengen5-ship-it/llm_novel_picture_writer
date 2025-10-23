@@ -120,30 +120,35 @@ def comfyui_run():
     eventtag = eventname[eventnum]
     print("##" + eventtag + " Image Generation...")
 
-    order = "Print current love level from 0% to 100%. Keep output format as 'Value:50%'"
+    order = "Print " + name + "'s love level from 0% to 100%. Keep output format as 'Value:50%'"
     temp = add_user_msg(order,"NONE")
     numbers = int(re.sub(r'[^0-9]', '', temp))
 
-    order = "Based on current love leveli, think/determine each six elements. Print them 1 line with comma written in English format."
-    order += "-header(fixed value as 'tag1')\n"
-    order += "-protagonist's costume(Describe costume's details, color. Describes accessories if necessary)\n"
-    order += "-protagonist's location(use simple common 1~3 words, never use character B name)\n"
-    order += "-protagonist's expressions(smile, sad, anger, calm, tear, embarrassed, full-face blush, seductive_smile, ahegao, drool, orgasm, etc)\n"
-    order += "-protagonist's pose(default is standing and add details)\n\n"
-    order += "-footer(fixed value as '#tag1')\n"
-    order += "Here is the output format for reference.\n"
-    order += "(tag1), (white police uniform with badge), (street), (smile, full-face blush), (standing with arm folded), (#tag1)"
-    pro_prompt = add_user_msg(order, "tag1")
-    pro_prompt = pro_prompt.replace("(tag1),","")
-    pro_prompt = pro_prompt.replace("(#tag1)","")
-    pro_prompt = pro_prompt.replace("(","")
-    pro_prompt = pro_prompt.replace(")","")
+    order = "Based on current love level, think and answer each questions. Answer format is adjective + noun(example:white dress, dark street)\n"
+    order += "Print 1 line(item is separated by comma) of " + name +"'s costume (Describe costume's details, color. Describes accessories if necessary)."
+    dress = add_user_msg(order, "tag1")
+    dress = lower_conv(dress)
 
-    corr_prompt = ""
+    order = "Print 1 line(item is separated by comma) of " + name + "'s location(The descriptive style is adjective + noun. For example: dirty room"
+    location = add_user_msg(order, "tag1")
+    location = lower_conv(location)
+
+    order = "Print 1 line(item is separated by comma) of " + name + "'s expressions(For example: smile, sad, anger, calm, tear, embarrassed, full-face blush, seductive_smile, ahegao, drool, orgasm..)"
+    expression = add_user_msg(order, "tag1")
+    expression = lower_conv(expression)
+
+    order = "Print 1 line(item is separated by comma) of " + name + "s pose(default is standing and add details)"
+    pose = add_user_msg(order, "tag1")
+    pose = lower_conv(pose)
+
+    #stand_prom = ",straight-on:2.0, standing:2.0, full body:3.0, looking_at_viewer, front shot:3.0," + abnormal_tag + "," + dress + "," + expression 
+    pro_prompt = dress + "," + location + "," + expression + "," + pose + "," 
+    #stand_prom = stand_prom.replace(",,",",")
 
     # ComfyUI Image Gen
     startnum = 4
     comfyui_image_gen(eventtag + "_", base_prompt + "," + pro_prompt + "," + corr_prompt, 5)
+    eventnum += 1
 
     return
 
@@ -237,10 +242,6 @@ def add_user_msg(order, passmsg):
         flag = 1
     if json_value["bypass_flag"] == 1:
         flag = 1
-
-    print("## ORDER ##")
-    print(order)
-    print("## ORDEREND ##")
 
     while (flag == 0):
         if (temp.find(passmsg) > -1):
@@ -445,6 +446,7 @@ change3 = change3.replace("\n", "")
 
 # Udpate ending2
 ending1  = random_prompt("./data/ending2.txt", -1)
+speaking  = random_prompt("./data/speaking.txt", -1)
 
 #msgout = add_user_msg(order, "YES")
 
@@ -511,6 +513,7 @@ for line in setup_line:
         line = line.replace("[CHANGE2]", change2)
         line = line.replace("[CHANGE3]", change3)
         line = line.replace("[ENDING2]", ending1)
+        line = line.replace("[SPEAKING]", speaking)
         # Update name
         line = line.replace("[Character B]", name2)
         line = line.replace("[Character A]", name)
@@ -531,8 +534,8 @@ while True:
         time.sleep(50)
 
 # File move
-os.mkdir("/home/chris/AI/ComfyUI/output/"+output_date)
-os.system("mv /home/chris/AI/ComfyUI/output/*.png /home/chris/AI/ComfyUI/output/" + output_date)
+os.mkdir( json_data["comfyuidir"] + output_date)
+os.system("mv " + json_data["comfyuidir"] + "*.png " + json_data["comfyuidir"] + output_date)
 
 exit()
 
