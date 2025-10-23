@@ -1,0 +1,51 @@
+Middle school student, 15, 15
+High school student, 16, 18
+Middle school student council president, 14, 15
+middle school disciplinary committee member (Japanese manga style), 14, 15
+High school student council president, 16, 18
+High school disciplinary committee member (Japanese manga style), 16, 18
+University student, 20, 24
+Idol, 15, 30
+Magical girl, 15, 32
+Clergyman/Priestess, 15, 32
+Paladin, 15, 32
+Shrine maiden (Miko), 15, 32
+Priest, 15, 32
+Feminist, 15, 32
+Sports team captain, 15, 32
+Maid, 15, 32
+Journalist, 25, 32
+Doctor, 25, 32
+Nurse, 25, 32
+Scientist, 25, 32
+Actor/Actress, 15, 32
+Florist, 15, 32
+Police officer, 25, 32
+Tutor, 18, 32
+Teacher, 22, 32
+Astronaut, 22, 32
+Chef, 22, 32
+Architect, 22, 32
+Social media influencer, 22, 32
+Lawyer, 25, 32
+Engineer, 25, 32
+Librarian, 25, 32
+Firefighter, 25, 32
+Pilot, 25, 32
+Yoga instructor, 25, 32
+Model, 15, 32
+Artist, 15, 32
+Choreographer, 25, 32
+Bakery worker, 25, 32
+Veterinarian, 25, 32
+Marine biologist, 25, 32
+Sushi chef, 25, 32
+Professional gamer, 15, 32
+Urban planner, 25, 32
+Wildlife photographer, 25, 32
+Wizard/Mage, 15, 32
+Voice actor (dubbing), 15, 32
+Cybersecurity expert, 15, 32
+Special forces operative, 18, 32
+Android, 18, 32
+power ranger crew, 18, 32

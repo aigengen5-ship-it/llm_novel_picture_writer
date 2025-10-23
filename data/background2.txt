@@ -1,0 +1,7 @@
+[Character A] has a great fondness for [Character B].
+[Character A] has a good relationship with [Character B].
+[Character A] has an okay relationship with [Character B].
+[Character A] has an okay relationship with [Character B].
+[Character A] has a bad relationship with [Character B].
+[Character A] wants to have a good relationship with [Character B].
+[Character A] has no particular interest in [Character B].

@@ -1,0 +1,5 @@
+lmstudio
+requests
+uuid
+datetime
+websocket-client

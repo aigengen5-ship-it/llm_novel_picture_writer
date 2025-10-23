@@ -1,0 +1,18 @@
+middle school student, 14, 16, NONE
+high school student, 16, 18, NONE
+university student, 18, 22, NONE
+teacher, 18, 22, NONE
+otaku, 15, 25, NONE
+office worker, 35, 45, NONE
+homeless, 35, 45, NONE
+office worker, 15, 35, NONE
+enchanter/Charmer, 15, 35, NONE
+clergyman/Priestess, 35, 35, NONE
+yakuza boss, 35, 35, NONE
+young yakuza boss, 15, 20, NONE
+cult leader, 35, 35, NONE
+demon who lives while hiding his identity, 15, 200
+slime who lives while hiding his identity, 15, 200
+vampire who lives while hiding his identity, 15, 200
+villain of an evil organization who lives while hiding his identity, 15, 60
+tentacle monster who lives while hiding his identity, 25, 55

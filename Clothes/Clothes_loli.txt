@@ -1,0 +1,21 @@
+sports bra
+camisole
+camisole, see-through
+t-shirt, short sleeves
+t-shirt, short sleeves, oversized clothes, loose clothes
+sleeveless shirt
+tank top
+sports bra, navel, stomach, one breast out
+camisole, navel, stomach, one breast out
+camisole, see-through, navel, stomach, one breast out
+t-shirt, short sleeves, navel, stomach, one breast out
+t-shirt, short sleeves, oversized clothes, loose clothes, navel, stomach, one breast out
+sleeveless shirt, navel, stomach, one breast out
+tank top, navel, stomach, one breast out
+sports bra, navel, stomach, breasts out, nipples
+camisole, navel, stomach, breasts out, nipples
+camisole, see-through, navel, stomach, breasts out, nipples
+t-shirt, short sleeves, navel, stomach, breasts out, nipples
+t-shirt, short sleeves, oversized clothes, loose clothes, navel, stomach, breasts out, nipples
+sleeveless shirt, navel, stomach, breasts out, nipples
+tank top, navel, stomach, breasts out, nipples

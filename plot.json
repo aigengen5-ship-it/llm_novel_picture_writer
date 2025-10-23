@@ -1,0 +1,20 @@
+{
+    "debug":        3,
+    "model":        0,
+    "gguf_q8":      1,
+    "sdxl":         "wai",
+    "artist":       -1,
+    "freckles":     1,
+    "glasses":      2,
+    "hairacc":      5,
+    "theme":        1,
+    "job":          0,
+    "job2":         0,
+    "sex":          "female",
+    "sex2":          "male",
+    "bypass_flag": 1,
+    "imagenum":   3,
+    "review":     "no",
+    "relation":    -1,
+    "trigger":   -1
+}

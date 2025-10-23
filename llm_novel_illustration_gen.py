@@ -11,6 +11,10 @@ import websocket
 import datetime
 from urllib import request
 
+# JSON read
+with open('plot.json') as f:
+    json_value = json.load(f)
+
 # Global variable
 event_tag = []
 event_tag.append(["date", 20 ])
@@ -18,7 +22,8 @@ event_tag.append(["hold hands", 40 ])
 event_tag.append(["hug", 60 ])
 event_tag.append(["kiss", 80 ])
 event_tag.append(["french_kill", 100])
-sex = ""
+sex  = json_value["sex"]
+sex2 = json_value["sex2"]
 artist_prompt = ""
 age_prompt = ""
 eventnum = 0
@@ -37,10 +42,6 @@ client_id = str(uuid.uuid4())  # Generate a unique client ID
 ws = websocket.WebSocket()
 ws.connect(f"ws://127.0.0.1:8188/ws?clientId={client_id}")
 
-# JSON read
-with open('plot.json') as f:
-    json_value = json.load(f)
-
 def queue_prompt(prompt):
     p = {"prompt": prompt, "client_id": client_id}
     data = json.dumps(p).encode('utf-8')
@@ -51,7 +52,6 @@ def queue_prompt(prompt):
 
 def comfyui_base_gen(sex, age, json_value):
     age_prompt = ""
-    #quality_prompt = "masterpiece,amazing quality, very aesthetic, absurdres, newest,finely detailed,colorful, blurry background:2.0, 1girl, solo, black outline,medium_shot,hair top:2.5, full head:2.5, looking_at_viewer,"
     quality_prompt = "masterpiece,amazing quality, very aesthetic, absurdres, newest,finely detailed,colorful, blurry background:2.0, 1girl, solo, medium_shot,hair top:2.5, full head:2.5, looking_at_viewer,"
 
     # Artist select
@@ -117,8 +117,6 @@ def comfyui_run():
     global base_prompt
     global name
 
-    if (eventnum == 0):
-        add_system_msg("data_comfyui/comfyui_tag.txt")
     eventtag = eventname[eventnum]
     print("##" + eventtag + " Image Generation...")
 
@@ -340,12 +338,6 @@ if json_value["model"] == 0:        # GEMMA
 with open(sys.argv[1], 'r', encoding='utf-8') as f1:
     setup_line = f1.readlines()
 
-with open(sys.argv[2], 'r', encoding='utf-8') as f2:
-    dialog_line = f2.readlines()
-
-with open(sys.argv[3], 'r', encoding='utf-8') as f3:
-    story_line = f3.readlines()
-
 # Default setuptest2/test2/
 result_out = ""
 try:
@@ -385,9 +377,12 @@ episode3a = ""
 episode4a = ""
 episode5a = ""
 episode5 = ""
-
-theme = random_prompt("./data/theme.txt", json_value["theme"])
-appearance  = random_prompt("/home/chris/AI/Danbooru-Character-Appearance-Generator/appearance_roll.txt", -1)
+loveevent1 = random_event("./data/love_event.txt", 0,4)
+loveevent2 = random_event("./data/love_event.txt", 5,9)
+loveevent3 = random_event("./data/love_event.txt", 10,14)
+loveevent4 = random_event("./data/love_event.txt", 15,19)
+theme       = random_prompt("./data/theme.txt", json_value["theme"])
+appearance  = random_prompt("./data/appearance_roll.txt", -1)
 job         = random_prompt("./data/job.txt",  json_value["job"]-1)
 job2        = random_prompt("./data/job2.txt", json_value["job2"]-1)
 background1 = random_prompt("./data/background1.txt", -1)
@@ -409,11 +404,11 @@ cloth3      = random_prompt("./data_comfyui/Clothes/Clothes_NSFW.txt", -1)
 
 # Final form
 
-epi_name = "./data/episode_default.txt"
-episode1    = random_event(epi_name, 0,7)
-episode2    = random_event(epi_name, 8,15)
-episode3    = random_event(epi_name, 16,22)
-episode4    = random_event(epi_name, 23,31)
+epi_name = "./data/episode_mild.txt"
+episode1    = random_event(epi_name, 0, 3)
+episode2    = random_event(epi_name, 2, 6)
+episode3    = random_event(epi_name, 5, 9)
+episode4    = random_event(epi_name, 8,11)
 
 # Story name with tag
 story = "./result/story_" + output_date + ".txt"
@@ -434,6 +429,11 @@ name2 = temp[7]
 rel = temp[8]
 rel2 = temp[9]
 
+if (sex == "male"):
+    sel_mode = 1
+else:
+    sel_mode = 0
+
 # Update tag
 temp = random_prompt_list("./data/love_tag.txt")
 change1  = temp[0].split(",")[sel_mode]
@@ -446,18 +446,11 @@ change3 = change3.replace("\n", "")
 # Udpate ending2
 ending1  = random_prompt("./data/ending2.txt", -1)
 
-if (json_value["rag_diag"] == "yes"):
-    rag_diag = "-Update remembered dialogs based on their relationship\n"
-    # Dialog 입력
-    order = "Remember situation and lovely dialogs. Situation and lovely dialog is spliited by ##. Print ## YES ##."
-    for line in dialog_line:
-        order += line 
-
 #msgout = add_user_msg(order, "YES")
-
 
 # Base image
 base_prompt, chr_prompt,artist_prompt,age_prompt = comfyui_base_gen(sex, age, json_value)
+
 
 order = ""
 for line in setup_line:
@@ -493,6 +486,10 @@ for line in setup_line:
         line = line.replace("[BACKGROUND2]", background2)
         line = line.replace("[BACKGROUND1]", background1)
         line = line.replace("[TRIGGER]", trigger)
+        line = line.replace("[LOVEEVENT1]", loveevent1)
+        line = line.replace("[LOVEEVENT2]", loveevent2)
+        line = line.replace("[LOVEEVENT3]", loveevent3)
+        line = line.replace("[LOVEEVENT4]", loveevent4)
         line = line.replace("[EPISODE1]", episode1)
         line = line.replace("[EPISODE2]", episode2)
         line = line.replace("[EPISODE3]", episode3)
@@ -524,15 +521,14 @@ f4.close()
 
 # Wait until all queue is empty
 while True:
+    ws.connect(f"ws://127.0.0.1:8188/ws?clientId={client_id}")
     out = ws.recv()
-    print(out)
     if out.find('{"queue_remaining": 0}') > -1:
         time.sleep(60)
         break
     else:
         # Binary data (preview images)
-        print("Waiting...")
-        time.sleep(10)
+        time.sleep(50)
 
 # File move
 os.mkdir("/home/chris/AI/ComfyUI/output/"+output_date)
