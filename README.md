@@ -28,14 +28,44 @@ While you are free to modify and redistribute this program, we provide it "as is
 
 **Configuration:**
 
-All settings can be modified within the `plot.json` file.
-Please fix plot.json line 2 to sync with your Comfyui environment.
+All settings can be modified within the `plot.json` file as below.
+1) Please fix plot.json line 2 to sync with your Comfyui environment.
+2) If you don't have enough VRAM, comfyuirun == False will store prompt into ./result directory.
+3) debug is reserved
+4) Do not change line 5-7
+5) artist value is matched with data_comfyui/ura_artist_300.txt line numbers. Value 0 is 'random selection'
+6) freckles value indicates the random possibility(0: 0%, 10:100%)
+7) glasses value indicates the random possibility(0: 0%, 10:100%)
+8) hairacc value indicates the number of hair accessories.
+9) theme value(for main story) is matched with data/theme.txt line number. Value 0 is 'random selection'. 
+10) job value(for protagonist) is matched with data/job.txt line number. Value 0 is 'random selection'. 
+11) job2 value(for counterpart) is matched with data/job2.txt line number. Value 0 is 'random selection'
+12) Do not touch line 15-19.
+13) relation value is matched with data/relationship.txt line number. Value 0 is 'random selection'.
+14) trigger value is matched with data/trigger.txt line number. Value 0 is 'random selection'
+
+  1 {
   2     "comfyuidir":   "YOUR COMFYUI OUTPUT DIRECTORY",
-
-Default Character A/B's jobs are random. You can determine dedicate jobs by change the number from 0 to any number(refer data/job.txt or data/job2.txt)
-Detailed descriptions will be added.
-
+  3     "comfyuirun":   "False",
+  4     "debug":        3,
+  5     "model":        0,
+  6     "gguf_q8":      1,
+  7     "sdxl":         "wai",
+  8     "artist":       0,
+  9     "freckles":     1,
+ 10     "glasses":      2,
+ 11     "hairacc":      5,
+ 12     "theme":        2,
+ 13     "job":          0,
+ 14     "job2":         0,
+ 15     "sex":          "female",
+ 16     "sex2":         "male",
+ 17     "bypass_flag":  1,
+ 18     "imagenum":     3,
+ 19     "review":       "no",
+ 20     "relation":     0,
+ 21     "trigger":      0
+ 22 }
  
 **Next Fix:**
-There will be additional control for model selection(in plot.json)
-
+Add more details.
