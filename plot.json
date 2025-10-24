@@ -16,6 +16,6 @@
     "bypass_flag": 1,
     "imagenum":   3,
     "review":     "no",
-    "relation":    -1,
-    "trigger":   -1
+    "relation":    0,
+    "trigger":   0 
 }
