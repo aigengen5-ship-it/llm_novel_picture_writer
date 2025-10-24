@@ -32,5 +32,10 @@ All settings can be modified within the `plot.json` file.
 Please fix plot.json line 2 to sync with your Comfyui environment.
   2     "comfyuidir":   "YOUR COMFYUI OUTPUT DIRECTORY",
 
+Default Character A/B's jobs are random. You can determine dedicate jobs by change the number from 0 to any number(refer data/job.txt or data/job2.txt)
+Detailed descriptions will be added.
 
+ 
+**Next Fix:**
+There will be additional control for model selection(in plot.json)
 
