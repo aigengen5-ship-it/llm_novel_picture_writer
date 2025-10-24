@@ -60,7 +60,7 @@ def comfyui_base_gen(sex, age, json_value):
     quality_prompt = "masterpiece,amazing quality, very aesthetic, absurdres, newest,finely detailed,colorful, blurry background:2.0, 1girl, solo, medium_shot,hair top:2.5, full head:2.5, looking_at_viewer,"
 
     # Artist select
-    artist_prompt = random_prompt("data_comfyui/ura_artist_300.txt", json_value["artist"]) + ","
+    artist_prompt = random_prompt("data_comfyui/ura_artist_300.txt", json_value["artist"] - 1) + ","
    
     # Hair color
     chr_prompt = "(" + random_prompt("data_comfyui/Hair_04.Color.txt", -1) + ","
@@ -219,9 +219,13 @@ def comfyui_image_gen(name, full_prompt, res):
     print()
 
     for i in range(0,1):
-       prompt["11"]["inputs"]["seed"] = rand.randint(0, 18446744073709551615)
+        prompt["11"]["inputs"]["seed"] = rand.randint(0, 18446744073709551615)
        #prompt["24"]["inputs"]["seed"] = rand.randint(0, 18446744073709551615)
-       queue_prompt(prompt)
+
+        if json_value["comfyuirun"] == "False":
+            f5.write(full_prompt+"\n")
+        else:
+            queue_prompt(prompt)
 
     return
 
@@ -387,7 +391,7 @@ loveevent1 = random_event("./data/love_event.txt", 0,4)
 loveevent2 = random_event("./data/love_event.txt", 5,9)
 loveevent3 = random_event("./data/love_event.txt", 10,14)
 loveevent4 = random_event("./data/love_event.txt", 15,19)
-theme       = random_prompt("./data/theme.txt", json_value["theme"])
+theme       = random_prompt("./data/theme.txt", json_value["theme"]-1)
 appearance  = random_prompt("./data/appearance_roll.txt", -1)
 job         = random_prompt("./data/job.txt",  json_value["job"]-1)
 job2        = random_prompt("./data/job2.txt", json_value["job2"]-1)
@@ -395,7 +399,7 @@ background1 = random_prompt("./data/background1.txt", -1)
 background2 = random_prompt("./data/background2.txt", -1)
 background3 = random_prompt("./data/background3.txt", -1)
 background4 = random_prompt("./data/background4.txt", -1)
-trigger     = random_prompt("./data/trigger.txt", json_value["trigger"])
+trigger     = random_prompt("./data/trigger.txt", json_value["trigger"]-1)
 feedback1   = random_prompt("./data/feedback1.txt", -1)
 feedback2   = random_prompt("./data/feedback2.txt", -1)
 feedback3   = random_prompt("./data/feedback3.txt", -1)
@@ -419,6 +423,10 @@ episode4    = random_event(epi_name, 8,11)
 # Story name with tag
 story = "./result/story_" + output_date + ".txt"
 f4 = open(story, 'w', encoding='utf-8') 
+
+if json_value["comfyuirun"] == "False":
+    promptout = "./result/prompt_" + output_date + ".txt"
+    f5 = open(promptout, 'w', encoding='utf-8') 
 
 pos = random_prompt("./data/relationship.txt", -1)
 pos2 = pos
@@ -527,20 +535,24 @@ for line in setup_line:
 
 f4.close()
 
-# Wait until all queue is empty
-while True:
-    ws.connect(f"ws://127.0.0.1:8188/ws?clientId={client_id}")
-    out = ws.recv()
-    if out.find('{"queue_remaining": 0}') > -1:
-        time.sleep(60)
-        break
-    else:
-        # Binary data (preview images)
-        time.sleep(50)
+if json_value["comfyuirun"] == "False":
+    f5.close()
 
-# File move
-os.mkdir( json_data["comfyuidir"] + output_date)
-os.system("mv " + json_data["comfyuidir"] + "*.png " + json_data["comfyuidir"] + output_date)
+# Wait until all queue is empty
+if json_value["comfyuirun"] == "True":
+    while True:
+        ws.connect(f"ws://127.0.0.1:8188/ws?clientId={client_id}")
+        out = ws.recv()
+        if out.find('{"queue_remaining": 0}') > -1:
+            time.sleep(60)
+            break
+        else:
+            # Binary data (preview images)
+            time.sleep(50)
+    
+    # File move
+    os.mkdir( json_value["comfyuidir"] + output_date)
+    os.system("mv " + json_value["comfyuidir"] + "*.png " + json_value["comfyuidir"] + output_date)
 
 exit()
 
