@@ -1,5 +1,5 @@
 {
-    "comfyuidir":   "/home/chris/AI/ComfyUI/output/",
+    "comfyuidir":   "YOUR COMFYUI OUTPUT DIRECTORY",
     "debug":        3,
     "model":        0,
     "gguf_q8":      1,

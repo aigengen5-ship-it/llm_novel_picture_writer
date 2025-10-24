@@ -339,7 +339,7 @@ output_date = datetime.datetime.now().strftime("%Y_%m_%d__%H_%M")
 
 if json_value["model"] == 0:        # GEMMA
     system_line = "모든 대답은 한글로 할 것."
-    model_name ="gemma-3-27b-it-abliterated"
+    model_name ="google/gemma-3-27b"
 
 with open(sys.argv[1], 'r', encoding='utf-8') as f1:
     setup_line = f1.readlines()
