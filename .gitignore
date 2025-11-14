@@ -3,3 +3,4 @@ copy.scr
 *.log
 venv/
 result/
+/__pycache__
