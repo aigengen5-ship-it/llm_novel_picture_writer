@@ -15,6 +15,7 @@ from urllib import request
 # Global setup
 event_done = [0] * 16
 abnormal_tag = ""
+output_date = datetime.datetime.now().strftime("%Y_%m_%d__%H_%M")
 
 def lower_conv(temp):
     temp = temp.replace(".", "")
@@ -208,6 +209,7 @@ def comfyui_run(chat,model,json_value,eventnum, eventname, base_prompt, name, co
     return corr_table
 
 def comfyui_image_gen(json_value, name, full_prompt, res):
+    global output_date
     resol = [""] * 9
     resol[0] = '1536 x 640   (landscape)'
     resol[1] = '1344 x 768   (landscape)'
@@ -311,7 +313,6 @@ def comfyui_image_gen(json_value, name, full_prompt, res):
     print()
 
     if json_value["noimage"] == "yes":
-        output_date = datetime.datetime.now().strftime("%Y_%m_%d__%H_%M")
         promptout = "./result/prompt_" + output_date + ".txt"
         f5 = open(promptout, 'a', encoding='utf-8') 
         f5.write(full_prompt + "\n")
