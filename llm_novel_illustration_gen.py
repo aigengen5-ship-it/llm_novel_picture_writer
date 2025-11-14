@@ -159,10 +159,6 @@ story = "./result/story_" + output_date + ".txt"
 story = story.replace(" ", "_")
 f4 = open(story, 'w', encoding='utf-8') 
 
-if json_value["comfyuirun"] == "False":
-    promptout = "./result/prompt_" + output_date + ".txt"
-    f5 = open(promptout, 'w', encoding='utf-8') 
-
 pos = random_prompt("./data/relationship.txt", -1)
 pos2 = pos
 

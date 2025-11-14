@@ -310,6 +310,13 @@ def comfyui_image_gen(json_value, name, full_prompt, res):
     print(full_prompt)
     print()
 
+    if json_value["noimage"] == "yes":
+        output_date = datetime.datetime.now().strftime("%Y_%m_%d__%H_%M")
+        promptout = "./result/prompt_" + output_date + ".txt"
+        f5 = open(promptout, 'a', encoding='utf-8') 
+        f5.write(full_prompt + "\n")
+        f5.close()
+
     for i in range(0,1):
         a = rand.randint(0, 18446744073709551615)
         b = rand.randint(0, 18446744073709551615)

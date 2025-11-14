@@ -5,7 +5,7 @@
     "language":     "Korean",
     "debug":        3,
     "focus":        "[Character A]",
-    "noimage":      "no",
+    "noimage":      "yes",
     "model":        0,
     "gguf_q8":      1,
     "sdxl":         "kweb",
