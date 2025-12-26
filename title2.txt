@@ -1,0 +1,360 @@
+간호사가,Nurse,24,32,pink medical scrubs,crocs,clipboard,pediatric ward
+간호사가,Nurse,24,32,sci-fi medical suit,holographic interface,futuristic laboratory
+간호사가,Nurse,24,32,vintage 1950s nurse uniform,white cap,cape,retro hospital
+간호사가,Nurse,24,32,white nurse uniform,stethoscope,nurse cap,hospital hallway
+검사가,Prosecutor,28,38,beige trench coat,scarf,holding case file,rainy street
+검사가,Prosecutor,28,38,formal business suit,prosecutor badge,court background
+검사가,Prosecutor,28,38,formal winter coat,leather gloves,entering courthouse
+검사가,Prosecutor,28,38,white dress shirt,rolled up sleeves,loosened tie,messy desk,late night
+검성이,Sword Saint,25,39,ceremonial white hakama,meditation pose,dojo background
+검성이,Sword Saint,25,39,dragon scale light armor,magical aura,dual swords,mountain peak
+검성이,Sword Saint,25,39,sword saint,asian traditional warrior robe,katana,aura
+검성이,Sword Saint,25,39,tattered master robes,wandering warrior,bamboo hat,bamboo forest
+공작 영애가,Duke's Daughter,16,22,equestrian riding habit,holding whip,boots,rose garden
+공작 영애가,Duke's Daughter,16,22,silk nightgown,candle light,antique bedroom,balcony
+공작 영애가,Duke's Daughter,16,22,villainess noble lady,rococo style extravagant dress,fan,jewelry
+공작 영애가,Duke's Daughter,16,22,winter fur cloak,muff,snowy mansion garden
+공주가,Princess,15,21,battle dress,silver breastplate,royal tabard,sword at waist
+공주가,Princess,15,21,commoner disguise,brown cloak,hood up,marketplace
+공주가,Princess,15,21,princess,pink royal dress,tiara,castle background
+공주가,Princess,15,21,pure white wedding dress,cathedral veil,political marriage ceremony
+과외 선생님이,Tutor,20,26,denim pants,white t-shirt,ponytail,casual study room
+과외 선생님이,Tutor,20,26,strict black suit,bun hair,pointer stick,serious expression
+과외 선생님이,Tutor,20,26,summer dress,straw hat,holding iced coffee,cafe tutoring
+과외 선생님이,Tutor,20,26,tight pencil skirt,blouse,glasses,teaching stick
+귀족 부인이,Noble Lady,24,35,hunting outfit,musket,riding boots,forest
+귀족 부인이,Noble Lady,24,35,noble woman,victorian dress,feather hat,elegant atmosphere
+귀족 부인이,Noble Lady,24,35,opera evening gown,opera glasses,jewelry,theater box
+귀족 부인이,Noble Lady,24,35,silk kimono,hair stick,folding fan
+기상캐스터가,Weather Caster,24,32,casual blouse,jeans,outdoor weather reporting
+기상캐스터가,Weather Caster,24,32,halloween costume,witch hat,studio broadcast
+기상캐스터가,Weather Caster,24,32,weather caster,sheath dress,blazer,microphone,weather map
+기상캐스터가,Weather Caster,24,32,yellow raincoat,holding umbrella,rain storm background
+길드 마스터가,Guild Master,28,39,authoritative leather coat,guild badge,desk work
+길드 마스터가,Guild Master,28,39,elegant evening dress,holding wine glass,banquet
+길드 마스터가,Guild Master,28,39,heavy fur coat,smoking pipe,map on table
+길드 마스터가,Guild Master,28,39,retired adventurer gear,scar,eyepatch,training grounds
+네크로맨서가,Necromancer,18,30,black hooded robe,skull accessories,dark aura,purple magic
+네크로맨서가,Necromancer,18,30,bone armor,skeleton minions,green flame
+네크로맨서가,Necromancer,18,30,gothic lolita dress,parasol,cemetery background
+네크로맨서가,Necromancer,18,30,tattered grey robes,bandages,ancient ruins
+누나가,Older Sister,20,28,business suit,tired face,loosening blouse,coming home
+누나가,Older Sister,20,28,gym clothes,yoga pants,sports bra,drinking water
+누나가,Older Sister,20,28,oversized hoodie,dolphin shorts,messy hair,living room
+누나가,Older Sister,20,28,summer bikini,sunglasses,beach background
+대마법사가,Archmage,25,39,ancient greek style tunic,white hair,library background
+대마법사가,Archmage,25,39,grand wizard robe,pointy hat,magic staff,magic circle
+대마법사가,Archmage,25,39,modern casual clothes,hidden identity,magic spark from finger
+대마법사가,Archmage,25,39,starry night patterned robe,floating books,galaxy background
+도서위원이,Library Committee Member,15,18,oversized knitted sweater,long skirt,sorting books on ladder
+도서위원이,Library Committee Member,15,18,school uniform,armband,holding books,library background
+도서위원이,Library Committee Member,15,18,summer school uniform,short sleeves,sweating,quiet room
+도서위원이,Library Committee Member,15,18,winter school uniform,muffler,reading near window
+드루이드가,Druid,18,30,animal fur cloak,antlers on head,surrounded by animals
+드루이드가,Druid,18,30,floral dress,vines wrapped around arms,blooming flowers
+드루이드가,Druid,18,30,nature themed clothes,leaf ornaments,leather armor,forest
+드루이드가,Druid,18,30,tribal tattoos,leather bikini armor,spear,jungle
+모델이,Model,18,28,casual airport fashion,sunglasses,trench coat,paparazzi
+모델이,Model,18,28,gothic makeup,black leather outfit,moody lighting,studio
+모델이,Model,18,28,high fashion avant-garde outfit,runway,spotlight
+모델이,Model,18,28,swimsuit,tropical beach,magazine photoshoot
+모험가가,Adventurer,18,32,heavy plate armor,helmet under arm,victory pose
+모험가가,Adventurer,18,32,leather armor,backpack,cloak,fantasy world background
+모험가가,Adventurer,18,32,light cloth armor,thief style,dagger,tavern background
+모험가가,Adventurer,18,32,winter gear,thick fur hood,snowshoes,snowy mountain
+무녀가,Shrine Maiden,16,24,casual kimono,sweeping shrine grounds with broom
+무녀가,Shrine Maiden,16,24,ceremonial dance outfit,holding bells (kagura suzu),falling cherry blossoms
+무녀가,Shrine Maiden,16,24,red hakama,white kimono top,shinto shrine background
+무녀가,Shrine Maiden,16,24,school uniform with hakama skirt,school bag,modern fusion
+문학 소녀가,Literature Girl,15,18,braided hair,glasses,school uniform,reading book,autumn
+문학 소녀가,Literature Girl,15,18,duffle coat,scarf,reading on park bench,winter
+문학 소녀가,Literature Girl,15,18,sailor uniform,library desk,stack of books,sunset
+문학 소녀가,Literature Girl,15,18,summer dress,straw hat,reading under tree
+미망인이,Widow,26,39,black mourning dress,black veil,funeral background
+미망인이,Widow,26,39,formal suit,signing documents,inheritance office
+미망인이,Widow,26,39,luxurious sleepwear,drinking wine alone,moonlit window
+미망인이,Widow,26,39,simple linen dress,gardening,melancholic expression
+반장이,Class President,15,18,cultural festival t-shirt,headband,busy classroom
+반장이,Class President,15,18,gym uniform,whistle,organizing students,sports day
+반장이,Class President,15,18,neat school uniform,glasses,armband,classroom
+반장이,Class President,15,18,school swimsuit,pool cleaning,holding deck brush
+발레리나가,Ballerina,18,26,black swan costume,dramatic makeup,dark feathers
+발레리나가,Ballerina,18,26,casual hoodie over leotard,tying toe shoes,resting
+발레리나가,Ballerina,18,26,practice clothes,leotard,leg warmers,dance studio mirror
+발레리나가,Ballerina,18,26,white tutu,ballet shoes,stage lights
+발키리가,Valkyrie,22,35,golden armor,spear of light,clouds background
+발키리가,Valkyrie,22,35,modern casual clothes,glowing eyes,hidden power
+발키리가,Valkyrie,22,35,nordic tribal dress,fur cloak,snowy battlefield
+발키리가,Valkyrie,22,35,winged helmet,silver plate armor,spear,wings
+변호사가,Lawyer,26,38,casual blouse,reading glasses,stack of papers,late night office
+변호사가,Lawyer,26,38,interview outfit,microphone press,confident smile
+변호사가,Lawyer,26,38,sharp business suit,lawyer badge,court
+변호사가,Lawyer,26,38,stylish trench coat,leather briefcase,walking to court
+비서가,Secretary,22,32,casual friday outfit,jeans,blazer,coffee break
+비서가,Secretary,22,32,evening party dress,attending with boss,clutch bag
+비서가,Secretary,22,32,messy hair,unbuttoned blouse,overtime work,dark office
+비서가,Secretary,22,32,white blouse,tight black skirt,glasses,clipboard,office
+사서가,Librarian,22,35,apron over clothes,dust mask,holding feather duster
+사서가,Librarian,22,35,cardigan,long skirt,glasses,bookshelves
+사서가,Librarian,22,35,casual weekend clothes,reading in cafe,glasses
+사서가,Librarian,22,35,gothic victorian dress,antique library,mysterious atmosphere
+사제가,Priest,20,35,battle cleric armor,mace,shield,healing light
+사제가,Priest,20,35,corrupted priest outfit,dark colors,ominous smile
+사제가,Priest,20,35,travel clothes,cloak,holding staff,walking on road
+사제가,Priest,20,35,white cleric robe,holy symbol,stole
+상인이,Merchant,20,39,arabian night style silk clothes,turban,desert market
+상인이,Merchant,20,39,modern business suit,sharp calculator,negotiation table
+상인이,Merchant,20,39,steampunk inventor merchant,goggles,mechanical backpack
+상인이,Merchant,20,39,traveling clothes,large backpack,fantasy town
+새어머니가,Stepmother,30,39,apron,cooking,unexpectedly kind,kitchen
+새어머니가,Stepmother,30,39,elegant but strict dress,arms crossed
+새어머니가,Stepmother,30,39,luxurious fur coat,jewelry,haughty expression
+새어머니가,Stepmother,30,39,villainess dress,holding fan,dark plotting room
+선생님이,Teacher,24,35,office suit,holding textbook,chalkboard
+선생님이,Teacher,24,35,science lab coat,holding beaker,safety glasses,chemistry lab
+선생님이,Teacher,24,35,swimsuit,whistle,school trip at beach
+선생님이,Teacher,24,35,tracksuit,drinking beer,izakaya,after work
+성녀가,Saintess,16,25,corrupted saintess,black dress,red eyes,dark magic
+성녀가,Saintess,16,25,prisoner outfit,chains,dungeon,fallen saint
+성녀가,Saintess,16,25,pure white holy dress,veil,praying hands,church background
+성녀가,Saintess,16,25,travel robe,hood hiding face,healing commoners
+성우가,Voice Actor,20,30,casual clothes,headphones,microphone,recording studio
+성우가,Voice Actor,20,30,fancy dress,holding trophy,award ceremony
+성우가,Voice Actor,20,30,mask and hat,incognito,walking on street
+성우가,Voice Actor,20,30,radio booth,headphones,laughing,script
+소꿉친구가,Childhood Friend,16,22,apron,cooking breakfast,wake up gesture
+소꿉친구가,Childhood Friend,16,22,oversized t-shirt,playing video games,messy room
+소꿉친구가,Childhood Friend,16,22,school uniform,loose socks,school bag
+소꿉친구가,Childhood Friend,16,22,yukata,holding fireworks,summer festival
+소환사가,Summoner,16,28,futuristic commander suit,holographic summoning,robot minions
+소환사가,Summoner,16,28,robe with summoning patterns,holding grimoire,summoning circle
+소환사가,Summoner,16,28,school uniform,magic circle on ground,summoning creature on roof
+소환사가,Summoner,16,28,tribal shaman outfit,bone accessories,spirit wolf
+쇼호스트가,Show Host,25,35,bright colored suit,presenting product,tv studio
+쇼호스트가,Show Host,25,35,elegant blouse,cooking demo,apron,kitchen set
+쇼호스트가,Show Host,25,35,fitness gear,demonstrating exercise machine,sweating
+쇼호스트가,Show Host,25,35,seasonal holiday costume,holding product,santa hat
+수녀가,Nun,20,35,casual sleepwear,praying by bedside,candle
+수녀가,Nun,20,35,combat nun uniform,gun,leather straps,battlefield
+수녀가,Nun,20,35,gardening clothes,straw hat,watering flowers,church garden
+수녀가,Nun,20,35,traditional black and white nun habit,cross necklace
+수영 선수가,Swimmer,18,26,bikini,tanning,lounge chair,outdoor pool
+수영 선수가,Swimmer,18,26,casual summer clothes,wet hair,drying with towel
+수영 선수가,Swimmer,18,26,competitive swimsuit,swimming cap,goggles,pool
+수영 선수가,Swimmer,18,26,team track jacket,medal around neck,podium
+스트리머가,Streamer,18,26,cooking stream apron,holding knife,messy kitchen
+스트리머가,Streamer,18,26,gaming headset,gaming chair,cute hoodie,rgb lighting
+스트리머가,Streamer,18,26,horror game reaction,scared face,dark room
+스트리머가,Streamer,18,26,maid costume,cat ears,microphone,cosplay stream
+스파이가,Spy,22,35,black tactical bodysuit,gun holster,night city
+스파이가,Spy,22,35,leather biker suit,motorcycle helmet,night chase
+스파이가,Spy,22,35,red cocktail dress,high slit,holding champagne,casino
+스파이가,Spy,22,35,waiter uniform,listening device,serving tray,disguise
+승무원이,Flight Attendant,22,32,airline uniform,scarf,flight attendant hat,airport
+승무원이,Flight Attendant,22,32,casual layover clothes,sightseeing,camera,foreign street
+승무원이,Flight Attendant,22,32,emergency safety gear,life vest,serious expression
+승무원이,Flight Attendant,22,32,traditional dress,welcoming bow,specific airline
+아나운서가,Announcer,24,32,field reporter outfit,rain coat,microphone,wind blowing
+아나운서가,Announcer,24,32,pastel suit,neat hair,news desk
+아나운서가,Announcer,24,32,radio DJ casual clothes,headphones,warm lighting
+아나운서가,Announcer,24,32,sports caster polo shirt,stadium background
+아르바이트생이,Part-timer,18,25,cafe apron,white shirt,holding tray
+아르바이트생이,Part-timer,18,25,fast food uniform,cap,headset,handing over burger
+아르바이트생이,Part-timer,18,25,gas station jumpsuit,holding nozzle,wiping car window
+아르바이트생이,Part-timer,18,25,mascot costume,head off,sweating,resting
+아이돌이,Idol,16,24,airport fashion,mask,cap,waving hand
+아이돌이,Idol,16,24,flashy stage costume,glitter,microphone,concert stage
+아이돌이,Idol,16,24,practice room outfit,sweatpants,crop top,mirror selfie
+아이돌이,Idol,16,24,school uniform style stage costume,mic stand,winking
+안경 소녀가,Glasses Girl,15,24,librarian style,heaps of books,looking over glasses
+안경 소녀가,Glasses Girl,15,24,red rimmed glasses,sweater,books
+안경 소녀가,Glasses Girl,15,24,removing glasses,wiping lens,blurry eyes
+안경 소녀가,Glasses Girl,15,24,scientist coat,adjusting glasses,shiny reflection
+안드로이드가,Android,18,25,battle mode,arm cannon,damaged skin revealing metal
+안드로이드가,Android,18,25,human disguise,slightly uncanny expression,city crowd
+안드로이드가,Android,18,25,maid uniform,mechanical parts exposed,charging cable
+안드로이드가,Android,18,25,mechanical joints,glowing lines on skin,futuristic bodysuit
+암살자가,Assassin,18,35,black hooded cloak,face mask,dual daggers
+암살자가,Assassin,18,35,modern tactical gear,sniper rifle,lying prone,rooftop
+암살자가,Assassin,18,35,ninja outfit,mesh armor,katana,rooftop,night
+암살자가,Assassin,18,35,school uniform,hidden knife,innocent smile,blood stain
+약혼녀가,Fiancee,20,30,apron,practicing cooking,bandaged finger
+약혼녀가,Fiancee,20,30,beautiful engagement dress,engagement ring,romantic atmosphere
+약혼녀가,Fiancee,20,30,casual date clothes,holding hands,park date
+약혼녀가,Fiancee,20,30,wedding dress fitting,looking in mirror,blushing
+엔지니어가,Engineer,22,35,casual hoodie,laptop,server room,messy cables
+엔지니어가,Engineer,22,35,dirty overalls,grease on face,holding wrench,garage
+엔지니어가,Engineer,22,35,futuristic mechanic suit,robotic arm,repairing spaceship
+엔지니어가,Engineer,22,35,work jumpsuit,hard hat,tool belt,factory
+엘프가,Elf,18,39,dark elf leather armor,white hair,dark skin,cave background
+엘프가,Elf,18,39,green tunic,leaf patterns,long pointed ears,forest
+엘프가,Elf,18,39,high elf royal robe,jewelry,magic staff,throne
+엘프가,Elf,18,39,modern casual clothes,trying to hide ears with hat,city cafe
+여기사가,Female Knight,20,30,broken armor,bandaged wounds,determined look,battlefield
+여기사가,Female Knight,20,30,formal ball gown,sword still at waist,party
+여기사가,Female Knight,20,30,silver plate armor,sword,cape,battlefield
+여기사가,Female Knight,20,30,training clothes,wooden sword,sweating,training grounds
+여대생이,Female College Student,19,24,clubbing outfit,mini skirt,neon lights,dancing
+여대생이,Female College Student,19,24,exam period look,hoodie,glasses,energy drink,library
+여대생이,Female College Student,19,24,graduation gown,mortarboard hat,holding bouquet,diploma
+여대생이,Female College Student,19,24,varsity jacket,jeans,backpack,campus
+여동생이,Little Sister,14,18,cute pajamas,hugging plushie
+여동생이,Little Sister,14,18,gothic lolita fashion,pouting,rebellious phase
+여동생이,Little Sister,14,18,oversized shirt,eating toast,morning dining table
+여동생이,Little Sister,14,18,sundress,straw hat,holding ice cream,summer date
+여사장(CEO)이,Female CEO,28,39,bathrobe,drinking wine,luxury hotel suite,night view
+여사장(CEO)이,Female CEO,28,39,casual jeans and blazer,presentation stage,steve jobs style
+여사장(CEO)이,Female CEO,28,39,golf wear,holding golf club,green field
+여사장(CEO)이,Female CEO,28,39,luxury power suit,arms crossed,high-rise office view
+여신이,Goddess,20,39,dark goddess black dress,purple flames,destruction background
+여신이,Goddess,20,39,greek white toga,golden accessories,halo,divine light
+여신이,Goddess,20,39,modern clothes,glowing aura,convenience store,descended to earth
+여신이,Goddess,20,39,nature goddess,dress made of leaves and flowers,forest animals
+여왕이,Queen,25,39,battle armor,sword,leading army,horse
+여왕이,Queen,25,39,hunting gear,falcon on arm,royal forest
+여왕이,Queen,25,39,nightgown,brush,looking at mirror,royal bedroom
+여왕이,Queen,25,39,royal majestic gown,crown,scepter,throne
+여전사가,Female Warrior,20,35,futuristic power armor,heavy gun,alien planet
+여전사가,Female Warrior,20,35,gladiator armor,shield,arena background,cheering crowd
+여전사가,Female Warrior,20,35,mercenary leather gear,counting coins,tavern table
+여전사가,Female Warrior,20,35,tribal fur armor,war paint,muscular
+여형사가,Female Detective,25,35,stakeout casual clothes,eating donut,car interior
+여형사가,Female Detective,25,35,suit,gun holster,badge,crime scene
+여형사가,Female Detective,25,35,swat team tactical gear,helmet,breaching door
+여형사가,Female Detective,25,35,undercover dress,hidden gun,bar counter
+연구원이,Researcher,24,35,casual sweater,messy desk,coffee mugs,writing thesis
+연구원이,Researcher,24,35,futuristic scientist,holographic display,cybernetic implants
+연구원이,Researcher,24,35,hazmat suit,yellow protective gear,biohazard lab
+연구원이,Researcher,24,35,white lab coat,safety goggles,holding test tube,laboratory
+연금술사가,Alchemist,18,30,explosion aftermath,soot on face,failed experiment
+연금술사가,Alchemist,18,30,robe,potion belt,goggles,alchemy table
+연금술사가,Alchemist,18,30,steampunk outfit,gears,brass goggles,workshop
+연금술사가,Alchemist,18,30,travelling merchant pack,selling potions,market
+옆집 여자가,Woman Next Door,22,32,casual loungewear,messy bun,holding trash bag
+옆집 여자가,Woman Next Door,22,32,moving boxes,packing tape,casual jeans
+옆집 여자가,Woman Next Door,22,32,office uniform,holding mail,meeting in hallway
+옆집 여자가,Woman Next Door,22,32,sportswear,jogging,waving hand
+왕비가,Queen Consort,25,39,elegant royal dress,crown,palace garden
+왕비가,Queen Consort,25,39,mourning dress,black veil,royal funeral
+왕비가,Queen Consort,25,39,simple disguise,visiting orphanage,kind smile
+왕비가,Queen Consort,25,39,villainess style,black dress,poison bottle,smirk
+외교관이,Diplomat,28,39,formal suit,sash,international conference
+외교관이,Diplomat,28,39,traditional dress,international party,hanbok or kimono
+외교관이,Diplomat,28,39,travel clothes,airport,luggage,passport
+외교관이,Diplomat,28,39,trench coat,secret meeting,park bench,spy vibe
+요리사가,Chef,22,35,campfire cooking,adventurer clothes,roasting meat
+요리사가,Chef,22,35,patissier uniform,holding cake,sweet shop
+요리사가,Chef,22,35,sushi chef uniform,headband,sharp knife,sushi counter
+요리사가,Chef,22,35,white chef jacket,apron,toque hat,kitchen
+용사가,Hero,16,25,casual modern clothes,confused face,city,reverse isekai
+용사가,Hero,16,25,corrupted hero armor,black and red spikes,dark sword
+용사가,Hero,16,25,shining armor,holy sword,hero's cape
+용사가,Hero,16,25,villager clothes,farm tool,peaceful village,before awakening
+유부녀가,Married Woman,28,39,bathrobe,facial mask pack,relaxing on sofa
+유부녀가,Married Woman,28,39,elegant suit,parent-teacher conference,school hallway
+유부녀가,Married Woman,28,39,knitted sweater,long skirt,wedding ring,apron
+유부녀가,Married Woman,28,39,supermarket fashion,eco bag,choosing vegetables
+의사가,Doctor,28,38,military doctor uniform,field hospital,treating soldier
+의사가,Doctor,28,38,plague doctor mask,black robe,medieval street
+의사가,Doctor,28,38,surgical scrubs,mask,surgical cap,operating room
+의사가,Doctor,28,38,white medical coat,stethoscope around neck,hospital
+일진이,Delinquent,15,19,gym clothes,skip class,rooftop,smoking or lollipop
+일진이,Delinquent,15,19,leather jacket,motorcycle,holding helmet
+일진이,Delinquent,15,19,modified school uniform,piercings,rebellious look
+일진이,Delinquent,15,19,sukajan jacket,chewing gum,squatting pose,alleyway
+작가가,Writer,24,35,messy clothes,beret,glasses,holding pen,manuscripts
+작가가,Writer,24,35,modern hipster cafe look,laptop,coffee,thinking
+작가가,Writer,24,35,surrounded by crumpled papers,dark room,desk lamp only
+작가가,Writer,24,35,traditional kimono,writing brush,tatami room
+접수원이,Receptionist,20,28,bunny girl costume,trays,cards,casino receptionist
+접수원이,Receptionist,20,28,futuristic spaceport uniform,holographic screen,aliens
+접수원이,Receptionist,20,28,guild receptionist uniform,bow tie,counter
+접수원이,Receptionist,20,28,hotel concierge suit,luggage cart,grand lobby
+정령사가,Elementalist,18,30,desert dancer outfit,fire spirits,oasis
+정령사가,Elementalist,18,30,floating clothes,elemental effects,fire water wind
+정령사가,Elementalist,18,30,miner clothes,earth spirits,crystals,cave
+정령사가,Elementalist,18,30,winter clothes,ice spirits,snowy field
+지휘관이,Commander,25,39,desert camouflage,tactical vest,radio,tent
+지휘관이,Commander,25,39,military officer uniform,military cap,cape,medals
+지휘관이,Commander,25,39,naval captain uniform,white hat,binoculars,sea background
+지휘관이,Commander,25,39,sci-fi commander suit,tactical map,spaceship bridge
+천사가,Angel,18,30,biblically accurate angel,many eyes,wheels,surreal
+천사가,Angel,18,30,casual hoodie,wings hiding,eating fast food,disguise
+천사가,Angel,18,30,fallen angel,black wings,chains,dark sky
+천사가,Angel,18,30,white wings,white robe,halo,sky background
+체조 선수가,Gymnast,16,22,leotard,rhythmic gymnastics ribbon
+체조 선수가,Gymnast,16,22,rhythmic gymnastics outfit,hoop and ball,spotlight
+체조 선수가,Gymnast,16,22,school uniform,flexibility show,classroom
+체조 선수가,Gymnast,16,22,tracksuit,stretching,gym mats
+츤데레가,Tsundere,15,20,casual clothes,handing over chocolate,looking away,blushing
+츤데레가,Tsundere,15,20,maid outfit,angry face,it's not for you gesture
+츤데레가,Tsundere,15,20,school uniform,arms crossed,blushing,angry face
+츤데레가,Tsundere,15,20,winter coat,scarf,waiting in snow,tapping foot
+코스어가,Cosplayer,18,28,armor making process,eva foam,glue gun,messy room
+코스어가,Cosplayer,18,28,elaborate anime costume,colorful wig,colored contacts
+코스어가,Cosplayer,18,28,magical girl costume,wand,posing,convention hall
+코스어가,Cosplayer,18,28,succubus costume,wings,horns,studio shooting
+큐레이터가,Curator,26,35,black turtleneck,glasses,explaining painting,gallery
+큐레이터가,Curator,26,35,evening gown,gallery opening party,champagne
+큐레이터가,Curator,26,35,smart casual blazer,museum pass,art gallery
+큐레이터가,Curator,26,35,working clothes,white gloves,handling artifacts,storage
+통솔자가,Leader,25,39,charismatic uniform,pointing forward,flag
+통솔자가,Leader,25,39,gang leader suit,sunglasses,tattoos,luxury car
+통솔자가,Leader,25,39,revolutionary leader outfit,beret,megaphone,crowd
+통솔자가,Leader,25,39,tribal chief gear,feathers,staff,jungle village
+통역사가,Interpreter,24,35,business suit,headset,notepad,conference room
+통역사가,Interpreter,24,35,smart casual,earpiece,taking notes,interview
+통역사가,Interpreter,24,35,tour guide outfit,flag,leading tourists,historic site
+통역사가,Interpreter,24,35,war zone journalist fixer,bulletproof vest,notepad
+퇴마사가,Exorcist,20,35,modern priest outfit,holding cross
+퇴마사가,Exorcist,20,35,shrine maiden outfit,paper talismans,sealing spirit
+퇴마사가,Exorcist,20,35,suit and sunglasses,holy water shotgun,urban fantasy
+퇴마사가,Exorcist,20,35,vatican secret agent,trench coat,crucifix,rain
+파일럿이,Pilot,24,35,fighter jet g-suit,helmet,oxygen mask,cockpit
+파일럿이,Pilot,24,35,mecha pilot suit,tight bodysuit,neural interface
+파일럿이,Pilot,24,35,pilot uniform,aviator sunglasses,peaked cap,cockpit
+파일럿이,Pilot,24,35,vintage aviator,leather jacket,scarf,biplane
+팔라딘(성기사)이,Paladin,22,35,casual training clothes,wooden sword,church courtyard
+팔라딘(성기사)이,Paladin,22,35,ceremonial dress uniform,cape,receiving medal
+팔라딘(성기사)이,Paladin,22,35,corrupted black armor,cursed sword,red eyes
+팔라딘(성기사)이,Paladin,22,35,heavy white plate armor,shield with cross,holy light
+풍기위원장이,Disciplinary Committee Chair,16,18,kendo uniform,bamboo sword,dojo
+풍기위원장이,Disciplinary Committee Chair,16,18,strict school uniform,armband,clipboard
+풍기위원장이,Disciplinary Committee Chair,16,18,swimsuit,armband,blowing whistle,pool side
+풍기위원장이,Disciplinary Committee Chair,16,18,winter coat,checking skirt length,school gate
+프로그래머가,Programmer,22,35,cyberpunk hacker,vr goggles,neon keyboard
+프로그래머가,Programmer,22,35,hoodie,glasses,dark circles,multiple monitors
+프로그래머가,Programmer,22,35,sleeping bag,under desk,office background
+프로그래머가,Programmer,22,35,tech company t-shirt,jeans,backpack,electric scooter
+피겨 스케이팅 선수가,Figure Skater,16,24,gala show outfit,jeans and t-shirt,spotlight
+피겨 스케이팅 선수가,Figure Skater,16,24,kiss and cry zone,holding teddy bear,team jacket
+피겨 스케이팅 선수가,Figure Skater,16,24,sparkly skating dress,ice skates,ice rink
+피겨 스케이팅 선수가,Figure Skater,16,24,training gear,black leggings,fleece jacket,ice rink
+피아니스트가,Pianist,20,35,casual practice clothes,messy bun,sheet music,home
+피아니스트가,Pianist,20,35,elegant evening gown,playing piano,concert hall
+피아니스트가,Pianist,20,35,jazz club outfit,cocktail dress,smoke,dim light
+피아니스트가,Pianist,20,35,street piano performance,casual winter clothes,crowd
+학생회장이,Student Council President,16,18,blazer over shoulders,arms crossed,student council room
+학생회장이,Student Council President,16,18,cultural festival maid outfit,embarrassed,serving tea
+학생회장이,Student Council President,16,18,pristine school uniform,student council armband
+학생회장이,Student Council President,16,18,swimsuit,organizing beach event,clipboard
+함장이,Captain,25,39,airship captain,goggles,leather coat,clouds
+함장이,Captain,25,39,pirate captain,tricorne hat,hook hand,parrot,ship deck
+함장이,Captain,25,39,sci-fi captain uniform,peaked cap,spaceship bridge
+함장이,Captain,25,39,submarine captain,sweater,hat,periscope,red light
+헌터가,Hunter,20,35,ghillie suit,sniper rifle,forest camouflage
+헌터가,Hunter,20,35,modern tactical gear,fantasy weapon,dungeon background
+헌터가,Hunter,20,35,monster hunter armor,giant sword,made of monster parts
+헌터가,Hunter,20,35,vampire hunter,long leather coat,crossbow,gothic city
+현자가,Sage,20,39,forest hermit,rags,wooden staff,hut
+현자가,Sage,20,39,hooded robe,mystical veil,holding scroll
+현자가,Sage,20,39,modern librarian,hidden magic power,organizing ancient scrolls
+현자가,Sage,20,39,young girl appearance,ancient eyes,floating in air
+화가가,Painter,20,35,digital artist setup,pen tablet,dual monitors,dark room
+화가가,Painter,20,35,paint-stained apron,beret,holding palette and brush,easel
+화가가,Painter,20,35,street artist,spray cans,gas mask,graffiti wall
+화가가,Painter,20,35,traditional ink painter,hanbok,brush,drawing orchid
+황녀가,Imperial Princess,16,24,casual disguise,cloak,eating street food,market
+황녀가,Imperial Princess,16,24,imperial dress,sash,ornate jewelry,palace
+황녀가,Imperial Princess,16,24,military dress uniform,sash,medals,inspecting troops
+황녀가,Imperial Princess,16,24,prisoner of war,tattered dress,chains,dungeon cell

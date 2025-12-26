@@ -1,0 +1,49 @@
+#hip_size
+narrow hips, boyish figure, skinny
+narrow hips, slender
+small hips, slim hips
+average hips, medium hips
+wide_hips
+huge ass
+#body_size
+loli,child, aged down
+loli,aged down
+NONE
+milf,aged up
+mature female, milf,mom, aged up,curvy
+#breasts_special
+NONE
+asymmetrical_breasts
+bouncing_breasts
+breasts_apart
+hanging_breasts
+perky_breasts
+sagging_breasts
+unaligned_breasts
+#breasts_size
+flat_chest
+small_breasts
+medium_breasts
+large_breasts
+huge_breasts
+gigantic_breasts
+#makeup
+NONE
+applying_makeup
+eyeshadow
+eyeliner
+mascara
+rouge=(makeup)
+lipstick
+lipgloss
+lip_balm
+#heart
+NONE
+heart shaped_pupils
+heart shaped_pupils, hearts
+#piercing
+NONE
+tongue_piercing
+nose_piercing
+ear_piercing
+collarbone piercing

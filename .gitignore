@@ -4,3 +4,6 @@ copy.scr
 venv/
 result/
 /__pycache__
+data_extended/
+llm_def_extended.py
+config_extended.py
