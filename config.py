@@ -79,7 +79,7 @@ def body_init(sex, json_value):
     hair_style += random_prompt("data_comfyui/hairstatus.txt", -1) + ","
     
     # Face 
-    eye_color += random_prompt("data_comfyui/Eye_Color.txt", -1) + ","
+    eye_color = random_prompt("data_comfyui/Eye_Color.txt", -1) + ","
 
     # Update face
     face_style = ""
@@ -193,7 +193,7 @@ def character_sheet(sex, age, title1, title2, name):
     character_sheet += character_sheet_add
 
     comfyui_prompt = hair_color + ","
-    comfyui_prompt += hair_style + ","
+    comfyui_prompt += hair_style + "," + eye_color + ","
     comfyui_prompt += body_dic["breasts_size"][breasts_size].replace("NONE", "") + ","
     #comfyui_prompt += body_dic["hip_size"][hip_size].replace("NONE", "") + ","
     comfyui_prompt += body_dic["body_size"][body_size].replace("NONE", "") + ","
@@ -217,9 +217,9 @@ def character_update():
         
         # Comfyui undress level
         if (love_value == 40):
-            clothes_level = "undressing:0.5, clothes_down:0.5, showing_underwear:0.5"
+            clothes_level = "showing_bra,"
         elif (love_value == 60):
-            clothes_level = "undressing, clothes_down, showing_underwear, breasts_out"
+            clothes_level = "clothes_down, showing_underwear,"
 
 def random_prompt(wildcard, mynumber):
     with open(wildcard, 'r', encoding='utf-8') as r1:

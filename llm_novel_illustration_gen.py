@@ -28,6 +28,19 @@ else:
     import config
 
 ###########################################
+# DEF(like function)
+###########################################
+def openpose_flow(prompt, tag):
+    config.openpose_set()
+    order = "Analyze this SDXL prompt and fix duplicated or unnecesarry ones. Remove pose/motion prompt. Write updated prompt only.\n\n" + job_clothes + "," + prompt
+    dummy, full_response = openAI_response(client_rp, system_line_1chat_eng, order ,2, 1)
+    updated_prompt = full_response.strip() 
+    if updated_prompt[len(updated_prompt)-1] == ".":
+        updated_prompt = updated_prompt[:len(updated_prompt)-1]
+    updated_prompt += "," + config.openpose_prom    
+    comfyui_run_openpose(json_value, tag, base_prompt, updated_prompt)
+
+###########################################
 # Code start
 ###########################################
 
@@ -302,34 +315,10 @@ base_prompt = comfyui_base_gen(sex, age, json_value, artist_prompt, comfyui_prom
 #comfyui_run_normal(json_value, "level1", base_prompt, job_clothes + "," + prompt1_1)
 
 # Test
-config.openpose_set()
-order = "Analyze this SDXL prompt and fix duplicated or unnecesarry ones. Remove pose/motion prompt. Write updated prompt only.\n\n" + job_clothes + "," + prompt3_1
-dummy, full_response = openAI_response(client_rp, system_line_1chat_eng, order ,2, 1)
-updated_prompt = full_response.strip() 
-if updated_prompt[len(updated_prompt)-1] == ".":
-    updated_prompt = updated_prompt[:len(updated_prompt)-1]
-updated_prompt += "," + config.openpose_prom    
-
-comfyui_run_openpose(json_value, "level3", base_prompt, updated_prompt)
-
-config.openpose_set()
-order = "Analyze this SDXL prompt and fix duplicated or unnecesarry ones. Remove pose/motion prompt. Write updated prompt only.\n\n" + job_clothes + "," + prompt4_1
-dummy, full_response = openAI_response(client_rp, system_line_1chat_eng, order ,2, 1)
-# Clean
-for temp in full_response.splitlines():
-    if (re.match(r'[a-zA-Z]', temp) and temp.find(job_clothes[:5]) > -1):
-        updated_prompt = temp.strip()
-        break
-
-if updated_prompt[len(updated_prompt)-1] == ".":
-    updated_prompt = updated_prompt[:len(updated_prompt)-1]
-updated_prompt += "," + config.openpose_prom    
-
-comfyui_run_openpose(json_value, "level4", base_prompt, updated_prompt)
-#comfyui_run_simple(json_value, "level3", base_prompt, job_clothes + "," + prompt3_1)
-#comfyui_run_simple(json_value, "level4", base_prompt, job_clothes + "," + prompt4_1)
-#comfyui_run_simple(json_value, "level5", base_prompt, job_clothes + "," + prompt_end)
-#comfyui_run_openpose(json_value, "level5_openpose_", base_prompt, job_clothes + "," + prompt_end)
+openpose_flow(prompt1_1, "LV1")
+openpose_flow(prompt2_1, "LV2")
+openpose_flow(prompt3_1, "LV3")
+openpose_flow(prompt4_1, "LV4")
 
 # Character setup
 order = "아래 여주인공의 캐릭터 시트를 기억한 후 여주인공 대화, 속마음 작성에 꼭 참고할 것." + "\n\n" + character_sheet

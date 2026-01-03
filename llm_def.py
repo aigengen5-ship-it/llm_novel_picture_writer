@@ -58,6 +58,7 @@ def openAI_translate(client, messages_history, user_input, quite):
     if (quite == 0):
         print(full_response)
         print() # 줄바꿈
+        print() # 줄바꿈
     return messages_translate, full_response
 
 def openAI_order(client, messages_history, user_input, quite):
@@ -409,6 +410,8 @@ def comfyui_image_gen(json_value, name, full_prompt, res, openpose):
     prompt["8"]["inputs"]["dimensions"] = resol[int(res)]
     prompt["59"]["inputs"]["filename_prefix"] = nametag + "_3d_"
 
+    print()
+    print("### Comfyu Prompt ###")
     print(full_prompt)
     print()
 
