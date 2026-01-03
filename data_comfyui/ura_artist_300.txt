@@ -443,3 +443,6 @@ artist:nikorashi-ka, artist: ratatatat74, artist:yamamoto_souichirou:0.2
 dayama, (mokottsu:0.3), (rindou (rindou annon):0.5),  zhibuji loom, nonoyama,ricochet-gou,gin_mitsu, (gogalking:0.7), (alp:0.7),
 (artist:SOS adult:0.7), (artist:yamamoto_souichirou:0.4), (artist:nikorashi-ka:0.2)
 (artist:inoino)
+artist:33_gaff, artist:akaiha_(akaihasugk), artist:amakusa_(hidorozoa), artist:barry_nah, artist:c.cu, artist:clarevoir, artist:daizu_(melon-lemon), artist:ebiblue, artist:ginseng_(xin)
+(artist:shigure ui, artist:ningen mame:1.2), artist:haruba negi, artist:hito komoru, artist:pic postcard, (artist:inotukuhito, artist:ribiadan, artist:wujurana, artist:ouchi kaeru, artist:satou kibi:1.1), (artist:satou kibi, artist:xia \(ryugo\), artist:beudelb:0.8), (artist:kamizuki shiki, artist:araragi ayune, artist:mikami mika, artist:mamaloni:1.05), (artist:junsuina fujunbutsu, artist:shigure ui, artist:yukiu con:1.2), (artist:wantan meo, artist:5saiji:1.2), large eyes
+(kaninn:0.8),(kimura takahiro:0.5),(yamamoto doujin:0.6),(sakura no tomoru hi e:0.3),(poriuretan:0.6),(hiro \(dismaless\):0.3),(kat \(bu-kunn\):0.2),(wlop:0.1),[(zankuro:0.01):0.1],1girl,aged up,mature female,curvy,

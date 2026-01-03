@@ -3,3 +3,4 @@ requests
 uuid
 datetime
 websocket-client
+openai

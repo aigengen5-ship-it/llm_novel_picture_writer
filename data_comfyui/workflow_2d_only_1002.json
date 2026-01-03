@@ -27,7 +27,7 @@
   },
   "4": {
     "inputs": {
-      "ckpt_name": "waiNSFWIllustrious_v150.safetensors"
+      "ckpt_name": "waiIllustriousSDXL_v150.safetensors"
     },
     "class_type": "CheckpointLoaderSimple",
     "_meta": {
@@ -49,7 +49,7 @@
   },
   "6": {
     "inputs": {
-      "vae_name": "sdxl_vae_fp16.safetensors"
+      "vae_name": "sdxl.vae.safetensors"
     },
     "class_type": "VAELoader",
     "_meta": {
@@ -166,7 +166,7 @@
   "13": {
     "inputs": {
       "switch_1": "Off",
-      "lora_name_1": "Nagi_Ichi_Style_ILXL.safetensors",
+      "lora_name_1": "None",
       "model_weight_1": 0.8,
       "clip_weight_1": 1,
       "switch_2": "Off",

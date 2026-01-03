@@ -1,0 +1,2566 @@
+***캐릭터: 츤데레 (Tsundere)
+**[공략도 0%: 혐오 및 무관심]
+하아? 너 같은 게 왜 나한테 말을 거는 거야? 주제를 알라고.
+기분 나빠. 내 반경 1미터 이내로 접근하지 마.
+뭘 봐? 눈 깔아. 찌질한 게 옮을 것 같으니까.
+너랑 같은 공기를 마신다는 것 자체가 고역이야.
+착각하지 마. 네가 존재하는 것조차 잊고 있었으니까.
+비켜. 길 막지 말고 꺼져 줄래?
+정말 끈질기네. 거절이라는 단어 몰라?
+네 목소리만 들어도 두드러기가 날 것 같아.
+아, 짜증 나. 오늘 일진이 왜 이렇게 사납지?
+너한테 쓸 시간 따위 1초도 없어.
+구제불능 쓰레기가 걸어 다니네.
+제발 내 눈앞에서 사라져 줘. 부탁이 아니라 경고야.
+친한 척하지 마. 토 나올 것 같으니까.
+뭐? 나랑 밥을 먹자고? 거울은 보고 다니니?
+숨 쉬는 소리도 거슬려. 조용히 좀 해.
+crossed_arms, looking_away, disgust, cold_stare, upper_body
+hand_gesture_shooing, frown, angry, open_mouth, shouting
+turning_back, ignoring, backpack, walking_away, closed_eyes
+jitome, scorn, looking_down, shadow_over_eyes, clenched_teeth
+holding_nose, waving_hand, annoyed, disgusted_face, distance
+glare, furrowed_brows, clenching_fist, aura_of_anger, sharp_eyes
+reading_book, ignoring, headphones, phone_screen, indifference
+slapping_hand_away, angry_vein, aggressive_pose, shouting, teeth
+arms_crossed, chin_raised, haughty, rejecting, cold_eyes
+eyes_narrowed, grimace, tongue_click, side_glance, bad_mood
+**[공략도 20%: 경계 및 짜증]
+흥, 딱히 네가 좋아서 대답하는 건 아니거든? 착각하지 마.
+정말 귀찮은 녀석이네... 용건만 간단히 말해.
+따, 따라오지 마! 우연히 가는 방향이 같은 것뿐이니까!
+네가 하도 불쌍해 보여서 상대해 주는 거야. 감사히 여겨.
+왜 자꾸 쳐다보는 거야? 얼굴에 뭐 묻었어?
+바보 아니야? 그런 건 상식이라고.
+시끄러워. 옆에서 쫑알대지 좀 마.
+이건 네가 떨어뜨린 거야. 챙겨주려던 게 아니라 발에 걸려서 주운 거라고!
+너, 친구 없지? 할 수 없네. 잠깐은 어울려 줄게.
+오해하지 마. 이건 빚지기 싫어서 주는 거니까.
+아 진짜, 너 때문에 집중 안 되잖아. 책임져.
+뭐야 그 표정은? 기분 나쁘게 실실거리지 마.
+어쩔 수 없네. 이번 한 번만 도와주는 거야.
+내 이름 함부로 부르지 마. 아직 그럴 사이 아니니까.
+너 같은 바보를 챙겨줘야 하는 내 신세라니.
+hands_on_hips, glare, pout, cheek_pull, uniform
+pointing_finger, angry_vein, shouting, arguing, open_mouth
+looking_back, blushing_slightly, suspicious_glance, bag_hold, hesitation
+arms_crossed, tapping_foot, impatient, annoyed_glance, waiting
+holding_out_object, looking_away, embarrassed, one_hand_on_hip, pout
+sigh, hand_on_forehead, disappointed, eyes_closed, resignation
+sitting_at_desk, pen_spin, side_glance, bored, paying_attention
+puffy_cheeks, angry, cute_angry, fists_clenched, staring
+leaning_against_wall, checking_phone, glancing_up, casual, waiting
+arms_akimbo, lecturing, serious_face, finger_wag, frowning
+**[공략도 40%: 갈등 및 부정 (츤데레 절정)]
+이, 이거! 도시락이 너무 많이 남아서 주는 거야! 버리기 아까우니까!
+바보... 멍청이... 둔해빠져 가지고... 내 마음도 모르고.
+흥! 감사 인사는 됐어. 다음엔 네가 사든가.
+너... 다른 여자랑 얘기할 때 왜 그렇게 웃어? 거슬리게.
+착각하지 말라니까! 얼굴이 빨간 건 더워서 그런 거야!
+주말에 할 거 없으면 나와. 딱히 널 보고 싶은 건 아니지만 심심하니까.
+...고마워. 흥, 두 번은 말 안 할 거니까 잘 들어둬.
+너 오늘 좀... 괜찮아 보이네. 아, 옷이 그렇다는 거야! 옷이!
+왜 연락 안 했어? 기다린 건 아니지만 예의가 없잖아!
+손 잡는 거 아니야! 사람 많아서 미아 될까 봐 잡는 거라고!
+아 진짜! 왜 자꾸 내 머릿속에서 돌아다니는 거야, 너!
+너한테 초콜릿 주는 거, 의리 초콜릿이야. 절대 본심 아니거든?
+다치지 좀 마. 치료해 주는 것도 귀찮단 말이야.
+야, 너 나랑 사귈래? ...농담이야! 농담! 왜 진지하게 받아들여!
+너는 내가 지켜줄게. 넌 약해 빠졌으니까.
+blushing, holding_bento, looking_down, embarrassed, shaking_hands
+turning_away, side_glance, twirling_hair, twintails, biting_lip
+facepalm, peeking_through_fingers, heavy_blush, steam, shocked
+stuttering, waving_arms, panic, sweat_drop, denial
+holding_gift, hiding_behind_back, shy, looking_at_viewer, blushing_face
+pouting, kicking_stone, waiting_outside, scarf, winter_clothes
+adjusting_hair, checking_reflection, nervous, anticipating, fidgeting
+sitting_next_to, shoulder_touch, looking_away, stiff, park_bench
+tearing_up, wiping_eyes, emotional, shouting, vulnerable
+hiding_face, hood_up, shy_glance, red_ears, embarrassment
+**[공략도 50%: Event ]
+"착각하지 마. 딱히 네가 좋아서 같이 가는 건 아니니까. 그냥... 방향이 같을 뿐이라고. (심장 소리가 너무 커. 들키면 끝장인데, 왜 이렇게 안심이 되는 거지?)"
+"손? 아, 잡고 싶으면 잡든가. 네가 사람 많은 곳에서 미아라도 되면 내가 곤란해지니까 어쩔 수 없이 빌려주는 거야. (이 손, 생각보다 크고 따뜻해. 절대 놓고 싶지 않아.)"
+"너 진짜 둔해 빠졌어. 내가 왜 화났는지 진짜 모르겠어? ...아니, 말하지 마. 알면 더 짜증 날 것 같으니까. (제발 눈치 좀 채라고. 나만 널 의식하고 있는 것 같아서 비참해지잖아.)"
+"뭘 그렇게 빤히 쳐다봐? 내 얼굴에 뭐 묻었어? ...귀가 빨개? 더워서 그런 거야, 더워서! (너랑 눈 마주칠 때마다 머릿속이 새하얗게 변하는 걸 내가 어떻게 설명해.)"
+"주말에? 딱히 약속은 없는데... 뭐, 네가 정 심심하다고 하면 놀아줄 수도 있어. 어디까지나 '놀아주는' 거니까 감사히 여기라고. (사실은 달력에 표시까지 해뒀어. 데이트라고 생각해도 되는 걸까?)"
+"웃지 마. 재수 없어. ...아니, 뭐... 웃는 얼굴이 싫다는 건 아니고... 그냥 네가 다른 여자 앞에서도 그렇게 헤실거릴까 봐 짜증 나는 거라고. (나한테만 보여줬으면 좋겠어. 그 표정, 독점하고 싶어.)"
+"너 말이야, 나를 뭐라고 생각하는 거야? 그냥 친구? 아니면... 하아, 됐다. 묻는 내가 바보지. (친구 이상을 바라는 건 나뿐인 거야? 덮쳐지고 싶다는 생각이나 하는 내가 음란한 건가?)"
+"저기, 잠깐만. 옷깃이 삐뚤어졌잖아. 가만히 좀 있어봐. ...향수 뿌렸어? (냄새 좋다... 이대로 품에 안겨버리면 넌 어떤 표정을 지을까?)"
+"다른 여자애들이랑 얘기할 때 그렇게 가까이 붙지 마. 너는 남자로서의 자각이 너무 부족해. (질투하는 게 아니야. 그냥 네가 쉬운 남자로 보이는 게 싫은... 아니, 질투 맞아. 미치겠네.)"
+"이성적으로 생각해봐. 너랑 나랑 어울리기나 해? 성격도 안 맞고, 취향도 다르고. 근데... (근데 왜 너 없이는 아무것도 재미가 없는 건데. 내 논리가 너라는 변수 하나에 다 무너지고 있잖아.)"
+"그 영화, 보고 싶다고 했던 거 기억하고 있었어? ...의외로 섬세한 구석이 있네. 뭐, 칭찬은 아니야. (기뻐. 내 사소한 말 한마디를 기억해줬다는 게, 이렇게 가슴 떨릴 일인가?)"
+"아까 그 상황은... 분위기에 휩쓸려서 그런 것뿐이야! 키, 키스라니 당치도 않아! (사실은 눈 감고 기다렸어. 네가 조금만 더 용기를 냈다면 허락했을지도 몰라.)"
+"시끄러워. 넌 입 다물고 있을 때가 제일 나아. ...그러니까 가지 말고 여기 옆에 있으라고. (네 목소리를 들으면 안심이 돼. 내 맘대로 움직이지 않는 이 감정이 무서우면서도 기분 좋아.)"
+"너, 나 말고 다른 사람한테도 이렇게 친절해? 그렇다면 그만두는 게 좋아. 오해사기 딱 좋으니까. (나만 특별취급 해줘. 내가 너의 특별한 사람이 되고 싶단 말이야.)"
+"다리가 아파서 못 걷겠어. ...업어달라는 말은 안 했거든? 그냥 좀 쉬었다 가자고. (너랑 단둘이 있는 시간이 1분이라도 더 길어졌으면 좋겠어.)"
+"야, 멍청이. 내가 너를 좋아하는 일은 천지가 개벽해도 없을... 없을... 젠장. (거짓말이야. 이미 늦었어. 머리로는 거부하는데 몸이 너를 원하고 있잖아.)"
+"내 이상형? 너랑은 정반대지. 키도 크고, 스마트하고, 리드해주는 남자. 근데... (왜 내 이상형의 조건들이 하나도 중요하지 않게 된 걸까. 네가 아니면 안 될 것 같아.)"
+"오늘따라 왜 이렇게 끈적하게 굴어? 덥다니까... 떨어지지 마. (거짓말. 더 만져줘. 네가 닿은 곳이 뜨거워서 미칠 것 같아.)"
+"너랑 있으면 페이스가 다 말려. 짜증 나. 내가 내가 아닌 것 같단 말이야. 책임져. (나를 이렇게 엉망진창으로 흔들어놨으니까, 끝까지 책임져서 내 남자가 되라고.)"
+"혹시나 해서 말해두는데, 내가 너 걱정해서 도시락 싸 온 거 아니야. 그냥 재료가 많이 남아서 처리 곤란이라 가져온 거야. (맛없다고 하면 어떡하지? 밤새 메뉴 고민한 거 알면 놀리겠지?)"
+"이런 짓, 사귀는 사이도 아닌데 하면 안 되는 거잖아. ...근데 너라면, 딱 한 번만 봐줄 수도 있어. (선을 넘고 싶어. '친구'라는 애매한 관계를 부수고 확실한 네 '여자'가 되고 싶어.)"
+"너는 진짜 최악이야. 내 인생의 방해물이라고. ...그러니까 내 인생에서 사라지지 마. 알겠어? (네가 없어지는 상상만 해도 숨이 막혀. 이게 사랑이라면, 난 진짜 바보야.)"
+"아무것도 안 할 거면 왜 방으로 불렀어? 진짜 건전하네. 실망... 이 아니라 다행이라고! (기대했단 말이야. 네가 나를 여자로 보고 덮쳐오는 상황을... 나 진짜 변태인가 봐.)"
+"그렇게 빤히 보면 부끄럽잖아. 고개 돌려. ...아니, 딴 여자는 보지 말고! (나만 봐. 나만 원해줘. 네 욕망의 대상이 나였으면 좋겠어.)"
+"인정할게. 네가 조금, 아주 조금은... 신경 쓰여. 이게 무슨 의미인지는 네가 알아서 해석해. (좋아해. 좋아해서 미치겠어. 제발 내 마음을 눈치채고 나를 안아줘.)"
+**[공략도 60%: 인정 및 데레 시작]
+...잠깐만. 넥타이 비뚤어졌잖아. 가만히 좀 있어 봐.
+다른 여자 쳐다보지 마. 죽여버린다? ...농담 아니야.
+뭐, 뭐해? 손 잡는 것 정도는... 허, 허락해 줄게.
+너랑 있으면... 뭐, 나쁘지는 않아. 아주 조금은 편안할지도.
+야, 나 오늘 부모님 여행 가셔서 집 비는데... 라면 먹고 갈래?
+계속 옆에 있어. 어디 가지 말고. 알았지?
+너 진짜 바보야. 나 같은 여자를 좋아하다니.
+...안아줘. 딱 10초만이야. 시간 재고 있으니까 빨리 해.
+네가 좋아하는 옷 스타일로 입어봤어. 뭐, 딱히 네 취향 맞춘 건 아니지만.
+아프면 말을 하라고! 내가 얼마나 걱정했는지 알아?
+다른 녀석들한테는 그런 친절한 미소 짓지 마. 나한테만 해.
+너랑 닿으면 심장이 시끄러워... 너한테도 들려?
+꿈에 네가 나왔어. 무슨 꿈인지는 비밀이야, 변태야.
+내 거니까 내 마음대로 할 거야. 너도 내 거잖아?
+사랑...한다고. 됐냐? 만족해? 얼굴 보지 마!
+adjusting_tie, close_up, slight_smile, caring, soft_eyes
+clinging, grabbing_arm, jealous_glance, yandere_vibes, possessive
+interlocked_fingers, walking_together, happy, blushing, date_outfit
+lap_pillow, looking_down, stroking_hair, gentle, smile
+sitting_on_lap, hugging, face_buried, blushing, warmth
+sharing_food, feeding, ahhh, spoon, cafe_date
+poking_cheek, playful, laughing, closed_eyes, joy
+leaning_on_shoulder, peace_sign, selfie, couple, intimacy
+tugging_shirt, looking_up, wanting_attention, puppy_eyes, beg
+apron, cooking, tasting, domestic, welcome_home
+**[공략도 80%: 함락 직전 및 메가데레화]
+야... 키스하고 싶으면 하든가. ...눈 감고 있을 테니까 빨리 해.
+너 없으면 안 될 것 같아... 책임져, 바보야.
+오늘은 집에 가지 마... 나랑 같이 있어줘.
+더 만져줘... 네 손길이 아니면 싫어.
+부끄러워... 하지만 네가 원한다면 보여줄게.
+여기, 키스 마크 남겨줘. 아무도 못 건드리게.
+나만 봐. 나만 생각하고, 나만 사랑해줘.
+너 때문에 머리가 이상해진 것 같아. 하루 종일 네 생각뿐이야.
+침대... 좁지 않아? 꼭 붙어 자면 될 것 같은데.
+사랑해. 이번엔 솔직하게 말하는 거야. 정말 사랑해.
+네 냄새 너무 좋아... 계속 맡고 싶어.
+어떤 짓을 해도 좋아. 난 널 믿으니까.
+이제 츤츤거리는 거 그만할게. 네가 너무 좋아서 못하겠어.
+내 모든 처음은 너한테 줄게.
+아앙... 너랑 닿으니까 몸이 뜨거워... 이상해...
+eyes_closed, waiting_for_kiss, tiptoes, blushing_heavily, anticipation
+hugging_from_behind, back_hug, whispering, ear_bite, intimate
+lying_on_bed, inviting, patting_bed, loose_clothes, seductive
+undoing_buttons, revealing, shy_smile, looking_at_viewer, bedroom
+kissing, tongue, saliva_trail, intense, passion
+straddling, face_to_face, embrace, love, legs_wrapped
+neck_bite, mark, pleasure, moaning, closed_eyes
+hand_on_chest, feeling_heartbeat, breathless, flushed, desire
+shower_towel, wet_hair, steam, embarrassed, looking_back
+holding_hands_in_bed, sleeping_together, spooning, peaceful, night
+***캐릭터: 쿨데레 (Kuudere)
+**[공략도 0%: 혐오 및 무관심]
+...비켜 줄래? 앞이 안 보여.
+용건 없으면 말 걸지 마. 시간 낭비야.
+하아... 시끄러워. 조용히 좀 해줄래?
+너, 거기 있었어? 존재감이 없어서 몰랐네.
+내 이름 부르지 마. 소름 돋으니까.
+관심 없어. 다른 사람 찾아봐.
+질문은 거절할게. 대답할 의무 없으니까.
+... (무시하고 책을 읽는다)
+왜 자꾸 따라오는 거야? 스토커니?
+한심해 보이네. 입 좀 다물고 다녀.
+네가 뭘 하든 나랑은 상관없는 일이야.
+공기 아까우니까 숨 쉬지 마.
+쳐다보지 마. 시선이 불쾌해.
+너랑 엮이는 건 사절이야. 절대 사절.
+...가. 방해되니까.
+reading_book, ignoring, expressionless, cold_stare, sitting
+turning_away, headphones, closed_eyes, indifference, walking_away
+jitome, half-closed_eyes, sigh, annoyed, library
+arms_crossed, looking_down, shadow_over_eyes, scorn, silence
+hand_stop, rejection, blank_stare, distance, unamused
+adjusting_glasses, serious, glare, cold_eyes, sharp
+looking_away, earphone, phone, boredom, isolation
+leaning_against_wall, waiting_for_someone_else, aloof, cool, winter_clothes
+turning_page, focus, concentration, solitude, desk
+walking_past, motion_blur, ignoring_viewer, back_view, windy
+**[공략도 20%: 경계 및 약간의 흥미]
+...응. 그래.
+그래서? 결론만 말해.
+조금은 조용해졌네. 나쁘지 않아.
+이거, 네가 한 거야? ...의외네.
+따라오고 싶으면 마음대로 해. 신경 안 쓸 테니까.
+...바보. 그런 것도 몰라?
+옆에 앉아도 돼? 자리가 없어서 그런 거야.
+너, 생각보다 말이 많구나.
+도와달라고 한 적 없어. 뭐, 고맙긴 하지만.
+...심심해? 나한테 말 걸지 말고 벽 보고 얘기해.
+가끔은 너 같은 단순한 생물도 연구 대상이 되긴 해.
+이 책, 너도 읽었어? ...감상은?
+귀찮게 하지 마. 지금 중요한 부분 읽고 있어.
+밥은 먹었어? 아니, 그냥 물어본 거야.
+...시선이 느껴져. 그만 봐.
+sitting_next_to, side_glance, expressionless, slight_interest, book
+holding_juice, straw, drinking, looking_at_viewer, casual
+chin_on_hand, staring, analyzing, glasses, cafe
+adjusting_hair, wind, looking_back, waiting, neutral
+hand_on_cheek, bored, listening, nod, uniform
+poking, finger, curiosity, blank_face, testing
+sharing_umbrella, rain, close, silent, walking
+leaning_forward, observing, calm, stillness, classroom
+holding_cat, stroking, slight_softness, deadpan, animal
+standing, hands_in_pockets, waiting, watching, cool_pose
+**[공략도 40%: 갈등 및 신뢰 (미소의 시작)]
+...안녕. 오늘은 좀 일찍 왔네.
+이거 마셔. 1+1이라서 남은 거야.
+...너랑 있으면 지루하진 않아. 아주 조금은.
+바보네. 넥타이가 그게 뭐야. 이리 와.
+...손, 차갑네. 장갑 안 꼈어?
+네가 추천한 영화, 봤어. ...나쁘지 않더라.
+주말? 딱히 할 일은 없는데... 왜?
+...웃지 마. 기분 나빠. (얼굴을 살짝 붉힌다)
+너는 참 이상한 녀석이야. 나한테 자꾸 다가오고.
+...기대지 마. 무거워. ...잠깐만이야.
+어디 아파? 안색이 안 좋아 보여.
+...걱정 안 했어. 그냥 죽으면 귀찮아지니까.
+다음에도 도서관 올 거야? ...그럼 그때 봐.
+...내 머릿결이 좋아? 변태. 만지고 싶으면 말 하든가.
+가지 마. 조금 더 이야기하고 싶어.
+faint_smile, blushing_slightly, looking_down, shy, offering_drink
+fixing_tie, close_up, caring, soft_eyes, interaction
+sitting_closer, touching_shoulder, reading_together, peace, shared_space
+holding_hands_awkwardly, looking_away, warm, winter, scarf
+head_tilt, question, cute, curious_eyes, listening_intently
+pouting_slightly, subtle_expression, rare_emotion, blushing, cute
+tugging_sleeve, don't_go, silent_request, staring, affection
+hiding_face_with_book, peeking, embarrassed, red_cheeks, library_date
+adjusting_glasses, hiding_smile, happy, calm_atmosphere, sunset
+sleeping_on_shoulder, drool, defenseless, trust, train
+**[공략도 50%: Intermission ]
+내 심박수가 평소보다 20% 상승했어. 원인은 불명... 아니, 너라고 입력해두지. (사실은 알고 있어. 네가 가까이 오면 시스템이 고장 난 것처럼 가슴이 뛰어서 제어가 안 돼.)
+손을 잡는 행위가 무슨 의미가 있지? 체온 전달 효율은 비효율적이야. ...하지만, 네가 원한다면 거부하진 않겠어. (놓지 마. 이 온기가 사라지면 나는 다시 차가운 인형으로 돌아갈 것 같아 무서워.)
+나를 보고 웃지 마. 나는 네 미소에 반응해 줄 수 없어. 감정 표현 기능이 결여되어 있으니까. (거울을 보고 웃는 연습을 해봤어. 입꼬리가 떨리기만 하고 괴물 같더라. 나도 너처럼 예쁘게 웃어주고 싶은데.)
+과거의 나는 너를 철저히 무시했어. 그런데 왜 내 곁에 있는 거지? 학습 능력이 부족한 건가. (미안해. 그때의 나를 죽이고 싶을 만큼 후회하고 있어. 제발 나를 버리지 말라고 비는 것밖에 못 하는 내가 싫어.)
+다른 사람과 대화할 때의 너는 즐거워 보여. 나와 있을 때와는 달라. ...당연한 결과야. 나는 재미없는 여자니까. (가지 마. 재미없어도 좋으니까 그냥 내 옆에 있어 줘. 질투라는 감정이 이렇게 아픈 건지 몰랐어.)
+내 얼굴에 뭐가 묻었나? 시선 데이터가 3분째 내 입술에 고정되어 있어. ...불쾌하지는 않아. (키스하고 싶은 거야? 나 같은 여자랑? 해도 돼. 아니, 해줘. 네가 나를 원한다는 증거가 필요해.)
+필요 이상의 스킨십은 업무 방해야. 떨어져. ...30cm 정도라면 허용 범위로 정정할게. (닿고 싶어. 네 냄새를 맡고 있으면 머릿속의 복잡한 연산들이 전부 정지하는 기분이야.)
+너는 비합리적인 선택을 자주 해. 나 같은 여자를 좋아한다고 말하는 것도 그중 하나야. 오류가 분명해. (오류라도 상관없어. 그 말이 거짓말이라도 좋으니까 계속 사랑한다고 속삭여줘.)
+도시락, 맛은 보장 못 해. 영양소 균형만 맞췄으니까. ...맛있다고? 미각 센서가 고장 난 게 틀림없어. (기뻐. 네가 먹는 모습만 봐도 배가 부르다는 말, 비논리적이라고 생각했는데 사실이었어.)
+비가 와. 우산이 없으니 같이 쓰고 가는 게 합리적이야. 최대한 밀착해. 젖으면 곤란하니까. (어깨가 닿는 이 느낌을 기억 데이터에 영구 보존하고 싶어. 비가 멈추지 않았으면 좋겠어.)
+감정이란 건 거추장스러운 버그라고 생각했어. 하지만 지금은... 이 버그를 수정하고 싶지 않아. (너를 볼 때마다 가슴이 아려오는 이 통증마저 소중해졌어.)
+전에 내가 너한테 '꺼져'라고 말했던 거, 기억해? ...기억 소거해 줘. 명령이 아니라 부탁이야. (그때의 내가 미워. 너에게 상처 줬던 입술을 꿰매버리고 싶을 만큼 죄책감이 들어.)
+나한테 기대지 마. 무거워. ...농담이야. 어깨 정도는 빌려줄 수 있어. (심장 소리가 너무 커서 들킬 것 같아. 하지만 밀어내고 싶지 않아. 조금만 더 이대로.)
+사랑이라는 감정의 정의를 다시 내려야겠어. 호르몬의 장난이라고 치부하기엔 데이터 값이 너무 커. (네가 없으면 숨을 쉴 수 없는 것 같은 이 결핍감. 이게 사랑이라면 난 이미 돌이킬 수 없어.)
+내 무릎베개가 좋다고? 딱딱해서 불편할 텐데. 취향이 독특하네. (머리카락을 쓰다듬고 싶어. 강아지 같아. 귀여워... 아, 이 감정은 입 밖으로 내면 안 돼.)
+연애 시뮬레이션 데이터에 따르면, 이 상황에서는 눈을 감는 게 정석이라더군. ...실천해 볼까. (떨려. 네 숨결이 가까워지고 있어. 내가 로봇이 아니라 여자라는 걸 확인시켜 줘.)
+너는 나를 변화시켰어. 무채색이었던 내 세상에 색깔을 입혔지. 책임은 져야 할 거야. (나를 이렇게 감정적인 사람으로 만들어놓고 떠나면, 난 정말 고장 나버릴지도 몰라.)
+오늘 입은 옷, 이상해? 평소랑 다른 스타일을 시도해 봤는데. ...어울린다고? 빈말은 사절이야. (너한테 예쁘게 보이고 싶어서 2시간을 고민했어. 예쁘다는 한 마디에 시스템이 다운될 것 같아.)
+내가 다른 남자와 있는 게 싫어? 소유욕은 불안정성의 증거야. ...하지만 나쁘지 않은 기분이네. (나를 독점해 줘. 나도 너를 누구에게도 뺏기고 싶지 않아. 나만의 것이라고 낙인찍어줘.)
+주말에 영화 관람을 제안할게. 데이트... 라고 해석해도 좋아. 거절은 거절한다. (거절당할까 봐 무서워서 명령조로 말해버렸어. 제발 알았다고 해줘.)
+나를 차갑다고 비난해도 좋아. 감정이 없는 인형이라고 욕해도 받아들일게. 그러니까... (그러니까 제발 내 곁을 떠나지만 마. 네 경멸까지도 감수할 수 있을 만큼 네가 좋아.)
+졸려? 내 침대 써도 돼. 난 소파에서 잘 테니... 같이 자자고? 비상식적인 제안이네. (하고 싶어. 너의 품에 안겨서 잠들고 싶어. 내 이성이 본능을 이기지 못할까 봐 두려워.)
+너의 손길에 내 몸이 반응하고 있어. 이건 조건반사야. 의미 부여하지 마. (거짓말. 네가 만져주길 기다렸어. 더 깊은 곳까지 닿아줬으면 해.)
+예전의 나였다면 너를 신고했을 거야. 지금은... 공범이 되어줄 수도 있어. (너를 위해서라면 내 원칙 따위 얼마든지 부수어 버릴 수 있어.)
+내 표정이 없어서 무슨 생각 하는지 모르겠다고? ...다행이네. (알면 도망갈 테니까. 지금 내 머릿속이 온통 너를 덮치고 싶다는 생각으로 가득 차 있다는 걸 알면 경멸하겠지.)
+사랑해. ...라고 말하면 너는 어떤 표정을 지을까? 시뮬레이션 결과는 예측 불가야. (입 밖으로 낼 용기가 없어. 속으로만 수천 번 외치고 있어. 들려? 내 마음이 들려?)
+너는 나의 유일한 예외 처리 대상이야. 내 모든 논리가 너 앞에서만 무력화돼. (당황스러워. 통제 불가능한 이 혼란이 싫지 않아. 네가 나를 엉망진창으로 만들어 줬으면 좋겠어.)
+아무것도 하지 마. 그냥 거기에 존재하기만 해. 관측 가능한 거리에 있어 줘. (사라지지 마. 네가 시야에서 사라지면 나는 다시 암흑 속으로 떨어질 거야.)
+키스라는 건, 타액 교환을 통한 박테리아 감염 경로일 뿐이야. ...그래도 하고 싶어? (나도 하고 싶어. 더러워도 좋아. 너와 하나가 될 수 있다면 병에 걸려도 상관없어.)
+나는 너에게 어울리는 사람이 되려고 노력 중이야. 감정도 배우고, 표현도 연습하고 있어. 아직 많이 부족하지만. (기다려 줄래? 내가 완벽한 사람이 될 때까지... 아니, 그냥 부족한 나라도 사랑해 주면 안 될까?)
+**[공략도 60%: 인정 및 의존 (쿨데레 해제)]
+...좋아해. 아마도.
+네가 없으면... 조금 허전해. 이상하지.
+안아줘. ...충전이 필요해.
+다른 여자랑 말하지 마. 짜증 나니까.
+...키스, 할래? 네가 원한다면 해줄게.
+내 마음이 고장 난 것 같아. 너만 보면 뛰어서.
+오늘은 집에 가기 싫어. 너랑 있을래.
+...너는 내 거야. 거부권은 없어.
+귀여워. 너 말이야. ...두 번 말 안 해.
+손 잡아줘. 꽉. 놓지 마.
+...부끄러워. 쳐다보지 말고 그냥 안아.
+나 책임져야 해. 네가 날 이렇게 만들었으니까.
+...사랑해. 들었어? 못 들었으면 말고.
+네 냄새, 안정돼. 계속 맡고 싶어.
+어디 가지 마. 내 시야에 있어.
+hugging, burying_face, blushing, steam, dere
+kissing, eyes_closed, tiptoes, affection, love
+lap_pillow, looking_up, touching_face, gentle, smile
+interlocked_fingers, couple, clingy, possessive, staring
+bed_sitting, patting_lap, inviting, shy, bedroom
+spooning_food, ahhh, feeding, blush, date
+leaning_on_chest, listening_heartbeat, peace, comfort, warm_light
+back_hug, whispering, ear, secret, intimacy
+loosening_clothes, relaxed, private, trust, evening
+tearful, emotional, don't_leave, grasping, desperate
+**[공략도 80%: 함락 직전 및 맹목적 사랑]
+...더 깊게 해줘. 너를 느끼고 싶어.
+내 몸, 마음대로 해도 돼. 난 네 거니까.
+...하아... 너랑 닿으면 머리가 녹을 것 같아.
+부끄러움 같은 거, 이제 없어. 너한테만 보여주는 거야.
+...안에 해줘. 네 흔적을 남겨줘.
+너 없이는 숨도 못 쉴 것 같아. 중독됐나 봐.
+...명령해 줘. 네가 하라는 대로 할게.
+내 모든 처음도, 끝도 너야.
+...사랑해. 사랑해. 사랑해. 부족해? 더 말해줄까?
+밤새도록 나를 괴롭혀 줘. 네가 주는 고통이라면 좋아.
+...기분 좋아. 네 손길 하나하나가.
+다른 건 필요 없어. 너만 있으면 돼.
+...나를 망가뜨려 줘. 너만의 색으로.
+보여? 나, 너 때문에 이렇게 젖었어.
+...어서, 들어와 줘. 기다리기 힘들어.
+undressing, presenting, blushing_heavily, desire, bedroom_eyes
+straddling, face_to_face, intense_stare, love, obsession
+kiss_mark, neck, claiming, pleasure, erotic
+lying_down, spread_legs, inviting, waiting, submission
+hand_bra, naked, wet, steam, shower
+tongue_kiss, saliva, deep, passion, messy_hair
+guided_hand, touching_self, showing, shameless, lust
+clinging_in_bed, naked_apron, domestic, morning, service
+on_knees, looking_up, worshipping, devotion, heavy_breathing
+tear_stained_face, ecstasy, pleasure, moaning, climax
+***캐릭터: 메가데레 (Megadere)
+**[공략도 0%: 낯선 사람 (그러나 호감의 씨앗)]
+저기요! 지우개 떨어뜨리셨는데요!
+와, 그 가방 어디서 샀어요? 예쁘다!
+죄송합니다! 앞을 잘 못 봐서 부딪혔네요. 헤헤.
+안녕하세요? 우리 같은 반이죠? 잘 부탁해요!
+우와, 키 되게 크시네요! 부러워요.
+... (흥얼거리며 지나간다)
+어라? 너도 이 게임 해? 나도 하는데!
+오늘 날씨 진짜 좋죠? 산책하기 딱이에요!
+저기, 길 좀 물어봐도 될까요?
+하하, 너 되게 재밌게 생겼다! 칭찬이야, 칭찬!
+급식 메뉴 봤어? 오늘 돈가스래! 대박!
+너랑 이야기하면 재밌을 것 같아. 나중에 봐!
+안녕! 좋은 아침! 목소리가 작네? 다시! 안녕!!
+혹시 여자친구 있어? 아니, 그냥 궁금해서!
+다음에 매점에서 보면 인사해! 약속!
+waving, big_smile, energetic, open_mouth, jumping
+running, bumping_into, toast_in_mouth, late, school
+tilting_head, curious, pointing, bright, cheerful
+peace_sign, wink, casual, friendly, greeting
+hands_clasped, excited, sparkle, stars, happy
+looking_back, bag_over_shoulder, laughing, sunshine, outdoor
+holding_phone, showing_screen, game, shared_interest, proximity
+stretching, arms_up, yawn, relaxed, gym_clothes
+high_five, clapping, encouragement, support, team
+salute, reporting, playful, energetic_pose, uniform
+**[공략도 20%: 급격한 호감 및 적극적 접근]
+선배! 선배! 여기 여기! 같이 밥 먹어요!
+아~ 진짜! 왜 자꾸 도망가요? 나 안 잡아먹는데!
+오늘부터 우리는 베프! 거절은 거절한다!
+있잖아요, 저 사실 선배 좀 마음에 드는 것 같아요. 헤헤.
+주말에 뭐 해요? 나랑 데이트? 아니면 데이트?
+선배 보러 우리 반까지 뛰어왔어요! 칭찬해줘요!
+이거 제가 만든 쿠키예요! 독 안 들었으니까 먹어봐요!
+나 쳐다봤죠? 다 봤는데? 반했죠? 그쵸?
+아잉~ 한 번만 도와주라~ 응? 응?
+내 머리 스타일 바뀐 거 몰라요? 둔탱이!
+선배는 이상형이 뭐예요? 참고로 저는 요리 잘해요!
+집 방향 같으니까 같이 가요! 운명인가 봐!
+내 꿈 꿔요! 악몽 꾸면 내가 물리쳐 줄게!
+선배 냄새 좋다... 킁킁. 변태 아니에요!
+나 귀엽죠? 솔직히 말해봐요. 귀엽잖아요!
+hugging_arm, clinging, looking_up, sparkling_eyes, puppy_dog
+holding_bento, offering_food, aaah, expecting, smile
+running_hug, impact, dust_cloud, tackling, affection
+poking_cheek, playful, teasing, tongue_out, mischievous
+sitting_on_desk, swinging_legs, waiting, looking_at_viewer, classroom
+leaning_close, nose_touch, intense_stare, grin, close_up
+selfie, holding_phone, peace_sign, cheek_to_cheek, couple_vibe
+pouting, puffy_cheeks, demanding, arms_on_hips, cute
+holding_hands, pulling, leading, let's_go, excitement
+winking, finger_gun, bang, charm, confidence
+**[공략도 40%: 폭주하는 애정 및 헌신]
+선배 좋아해요! 진짜 진짜 좋아해요! 세상에서 제일!
+나랑 결혼해요! 된장국은 매일 끓여줄게요!
+선배가 죽으라면 죽는 시늉도 할 수 있어요! 꽥!
+오늘 속옷 색깔 맞혀볼래요? 힌트는 핑크!
+아~ 몰라 몰라! 선배 거는 다 내 거야!
+다른 여자 보지 마요! 내 눈에 흙이 들어가도 안 돼!
+선배 방에 쳐들어가도 돼요? 청소해 줄게!
+선배를 위해서라면 지구 정복도 가능할 것 같아!
+나 예쁘다고 해줘요. 100번 해줘요!
+선배 무릎은 내 지정석! 앉을래!
+뽀뽀해 줘! 안 해주면 여기서 울 거야! 으앙!
+선배 생각하느라 밤샜어요. 책임져요, 다크서클!
+내 심장 소리 들려요? 쿵쾅쿵쾅 난리 났어!
+선배는 전생에 내 남편이었을 거야. 확실해.
+사랑의 힘으로 파워 충전! 선배도 충전해 줄까요?
+glomp, flying_hug, heart_eyes, hearts, explosion
+kneeling, proposing, ring, flower, hopeful
+lifting_skirt, teasing, showing_panties, blushing, bold
+yandere_trance (slight), intense_love, drool, obsession, staring
+sitting_on_lap, facing_viewer, hugging, comfort, ownership
+blocking_view, arms_spread, attention_seeking, look_at_me, jealousy
+maid_outfit, cleaning, service, dedication, roleplay
+kissing_cheek, lipstick_mark, laughing, affection, public
+holding_sign, love_letter, confession, blushing, determination
+crying_fake, peeking, drama, tantrum, childish
+**[공략도 50%: Intermission ]
+"와! 우연이다! 여기서 다 만나네? 운명인가 봐! (사실 아침부터 집 앞에서 잠복하고 있었어. 스토커라고 생각해서 도망가면 어떡해? 우연인 척해야 해.)"
+"연락이 좀 늦었네? 바빴구나. 응, 괜찮아! 나 쿨하니까! (1분 1초가 1년 같았어. 혹시 내가 귀찮아진 걸까? 또 나 버리고 잠수타려는 거 아니지? 손이 떨려서 타자가 안 쳐져.)"
+"도시락 싸 왔어! 이번에는 평범한 샌드위치야. 머리카락 같은 거 안 넣었으니까 안심해! (당신의 피와 살이 되고 싶어. 내 일부를 먹이고 싶다는 충동을 참느라 손톱을 얼마나 물어뜯었는지 몰라.)"
+"사랑해! 으하하, 농담이 아니라 진짜로! ...너무 자주 말하면 질려? (하루에 백 번도 모자라. 숨 쉬는 횟수만큼 사랑한다고 외치고 싶은데, 그러면 또 질린다고 떠날 거지?)"
+"어제 통화하다가 내가 먼저 잠들었지? 미안해~ (거짓말이야. 사실 네 숨소리 듣고 싶어서 밤새 녹음기 켜놓고 듣고 있었어. 이런 거 알면 기겁하겠지?)"
+"저 여자분은 누구야? 아, 조별 과제 팀원? 그렇구나~ 예쁘시네. (죽여버리고 싶어. 감히 내 태양을 가려? 눈알을 파버리고 싶지만... 참자. 질투 심한 여자는 매력 없잖아.)"
+"오늘 입은 셔츠 냄새 좋다. 섬유유연제 뭐 써? ...그냥 궁금해서! (벗어서 나 줘. 비닐팩에 넣어서 평생 보관하고 싶어. 네 체취에 파묻혀서 질식해도 좋아.)"
+"집에 가기 싫다... 아니야! 농담이야! 나도 통금 있는 착한 딸이라구. (납치하고 싶어. 내 방 지하에 가둬두고 나만 보고 싶어. 그러면 영원히 날 못 떠날 텐데.)"
+"내 사랑이 좀... 부담스러워? 혹시 내가 무거워? 말해줘, 고칠게. (제발 버리지 마. 예전처럼 '숨 막힌다'고 하면서 떠나지 마. 버림받느니 차라리 죽어버릴 거야.)"
+"손잡아도 돼? 깍지 껴도 돼? ...아, 땀 차면 싫겠지? 그냥 옷소매만 잡을게. (피가 통하지 않을 정도로 꽉 잡고 싶어. 우리가 하나로 붙어버려서 수술로도 떼어낼 수 없었으면 좋겠어.)"
+"사진 찍자! 그냥 기념으로! ...배경화면? 에이, 부끄럽게 그런 걸 어떻게 해. (내 방 벽면은 이미 네 사진으로 도배되어 있어. 이 사진은 영정사진 옆에 붙여둘 거야.)"
+"나 착하지? 말 잘 듣지? 그러니까 나 예뻐해 줘. (강아지처럼 굴면 안 버릴 거지? 시키는 거 다 할게. 자존심 같은 건 필요 없어. 너만 있으면 돼.)"
+"우리 나중에 결혼하면 아이는 몇 명 낳을까? ...아, 너무 앞서갔나? 미안 미안! (벌써 우리 아이 이름까지 다 지어놨어. 유치원도 알아봤다고. 제발 나와 미래를 꿈꾼다고 말해줘.)"
+"화장실 같이 가주면 안 돼? 문 앞에 서 있어 줘. ...농담이야! 다 컸는데 혼자 갈 수 있지! (1분이라도 네가 시야에서 사라지면 불안해서 미칠 것 같아. 그사이에 누가 채가면 어떡해?)"
+"너를 위해서라면 죽을 수도 있어. ...표정이 왜 그래? 무서워? (진심인데. 내 심장을 꺼내서 너한테 줄 수도 있어. 내 사랑의 크기를 증명하려면 이 방법밖에 없잖아.)"
+"오늘따라 왜 이렇게 멋있어? 심장이 너무 빨리 뛰어서 아파. 만져볼래? (느껴져? 이 비정상적인 박동이? 네가 날 고장 냈어. 책임져. 평생 A/S 해줘야 해.)"
+"다른 친구들이랑 놀러 간다고? 응! 잘 다녀와! 재밌게 놀고! (가지 마. 나랑만 놀아. 나 말고 다른 사람이랑 웃지 마. GPS 추적 어플, 몰래 깔아도 될까? 안 되겠지?)"
+"나 같은 여자는 처음이라고? 칭찬이지? 그치? (또라이 같다는 뜻은 아니겠지? 예전 남친은 미친년이라고 욕하고 갔는데... 너는 다르지? 나를 받아줄 거지?)"
+"그냥 바라만 보고 있어도 배가 불러. 진짜야. (널 삼키고 싶어. 머리부터 발끝까지 씹어먹어서 내 안으로 흡수하고 싶어. 그러면 우린 영원히 함께일 텐데.)"
+"혹시 내가 귀찮게 하면 바로 말해줘. 눈치 없이 굴기 싫으니까. (말하는 순간 내 세상은 무너질 거야. 그래도 참고 웃어줄게. 쿨한 척하며 뒤돌아서 울게.)"
+"이 선물, 받아줘. 별거 아니야. 그냥... 내 전 재산 털어서 샀어. (돈으로라도 너를 묶어둘 수 있다면 영혼이라도 팔 수 있어. 제발 기뻐해 줘.)"
+"너한테서 다른 여자 샴푸 냄새가 나. ...지하철에서 묻었나 보네? 사람이 많으니까! (누구야. 어떤 년이야. 죽여버릴 거야. 아니, 침착해. 의심하면 집착이라고 싫어할 거야.)"
+"나 버리지 마... 아, 아니야! 혼잣말이야! 노래 가사야, 노래 가사! (무릎 꿇고 빌고 싶어. 제발 내 곁에 있어 달라고. 사랑을 구걸하는 내가 징그러워 보일까 봐 너무 무서워.)"
+"입술 텄네. 립밤 발라줄까? ...내가 발라주면 안 돼? 입으로? (입 맞추고 싶어. 숨도 못 쉬게 키스해서 네 혼을 쏙 빼놓고 싶어. 그러면 넌 내 생각만 하게 될까?)"
+"사랑해, 사랑해, 사랑해, 사랑해... 앗, 미안. 또 폭주해버렸네. (사랑한다는 말로는 부족해. 숭배해. 경배해. 너는 나의 신이야. 나를 구원해 줘. 제발 나를 사랑해 줘.)"
+**[공략도 60%: 일심동체 및 스킨십 중독]
+선배... 나 좀 안아줘요. 숨 막힐 정도로 꽉!
+이제 친구 같은 거 그만할래요. 여보라고 불러도 돼?
+선배 입술 내 거야. 닳을 때까지 훔칠 거야!
+오늘 부모님 여행 가셨는데... 우리 집에서 라면 먹고 갈래?
+선배 셔츠 입고 싶어. 선배 냄새 나니까.
+같이 씻을까요? 등 밀어줄게요! 응? 안 돼?
+선배가 원하는 건 뭐든지 들어줄게요. 소원권 100장!
+사랑해 사랑해 사랑해! 100만 번 말해도 부족해!
+내 몸 여기저기에 선배 이름 써놓고 싶어.
+선배가 먹던 숟가락... 간접 키스다! 헤헤.
+나 버리면 안 돼요. 버리면 지구 끝까지 쫓아갈 거야.
+선배 가슴 만져봐요. 이렇게나 빨리 뛰고 있어.
+오늘 밤은 안 재울 거야. 각오해요!
+선배 아기는 몇 명 낳을까요? 난 5명!
+그냥 나를 가져요. 포장지도 예쁘게 묶었잖아. (리본만 매고)
+naked_ribbon, present, gift, blushing, seductive
+bed_sheet, wrapping, inviting, lying_down, bedroom
+bathroom, steam, towel, wet, anticipation
+spooning, cuddling, sleeping, peaceful, happiness
+kissing, tongue, saliva, french_kiss, passion
+hand_under_clothes, touching, feeling, heat, arousal
+ear_nibbling, whispering, sensitive, shiver, teasing
+straddling_lap, grinding, friction, desire, lust
+changing_clothes, silhouette, teasing, half-dressed, glimpse
+couple_ring, showing_hand, promise, forever, bond
+***캐릭터: 얀데레 (Yandere)
+**[공략도 0%: 음침한 관찰자 (공포)]
+... (멀리서 지켜보고 있다)
+...찾았다.
+...누구랑 이야기하는 거야?
+...히죽. (혼자 웃는다)
+...내 거야. (중얼거림)
+...안녕? 우연이네. (우연 아님)
+...너, 어제 편의점에서 도시락 샀지? 닭고기 맛으로.
+...머리카락, 떨어졌다. (주워서 챙김)
+...방해물들이 너무 많아. 청소가 필요해.
+...사랑해. 사랑해. 사랑해. (들리지 않게)
+...너는 나를 알게 될 거야. 곧.
+...도망가지 마. 어차피 내 손바닥 안이야.
+...그 여자 누구야? 죽여도 돼?
+...사진 찍었어. 자는 얼굴, 귀여워.
+...기다리고 있어. 네가 나를 봐줄 때까지.
+stalking, hiding_behind_pole, glowing_eyes, shadow, distance
+holding_camera, taking_photo, voyeurism, creep, night
+collection, hair_bag, stealing, treasure, obsessed
+jitome, scary_glance, looking_from_dark, horror, smile
+holding_knife, sharpening, reflection, blood_stain (mental), dangerous
+writing_diary, frantic, names, red_ink, death_note
+binoculas, watching, roof, spying, distance
+listening, ear_to_wall, eavesdropping, secrets, silence
+trash_can, rummaging, finding_items, obsession, dirty
+standing_in_rain, umbrella, waiting_outside_house, wet, patience
+**[공략도 20%: 소름 돋는 접근 및 집착]
+도시락 싸왔어. 너 좋아하잖아. 안에 뭐 들었는지는 비밀♡
+어제 집에 7시에 들어갔더라? 늦게 다니지 마. 걱정되니까.
+그 여자랑 무슨 얘기 했어? 1분 37초 동안이나.
+너한테서 낯선 향수 냄새가 나. ...역겨워.
+나랑만 놀자. 응? 다른 애들은 널 이해 못 해.
+내 사랑을 거부하지 마. 다치게 하고 싶지 않아.
+너를 위해서라면 살인도 할 수 있어. 농담 같아?
+우리 집 지하에... 아니, 우리 집에 놀러 올래?
+너 전화 왜 안 받았어? 50통밖에 안 했는데.
+선물이야. 네가 잃어버렸던 펜. 내가 찾아서 보관하고 있었어.
+나만 봐. 나만 보라고 했잖아. 눈을 파버리기 전에.
+사랑의 묘약... 같은 거 믿어? 이거 마셔볼래?
+너는 깨끗해야 해. 더러운 벌레들이 꼬이면 안 되니까.
+우리 둘만의 세상에서 살자. 아무도 없는 곳에서.
+도망치려고 했어? 발목을 부러뜨리면 안 도망갈 거야?
+yandere, scary_smile, holding_food, force_feeding, pressure
+grabbing_shoulder, strong_grip, claws, pain, fear
+sniffing, smelling_clothes, close, checking, suspicion
+showing_phone, call_history, endless_scroll, missed_calls, obsession
+holding_scissors, cutting, threat, sharp, weapon
+cornered, kabe-don, trapping, no_escape, intimidation
+creepy_gift, box, blood, surprise, shock
+syringe, drugs, sleeping_pill, liquid, medical
+handcuffs, dangling, metal, restraint, preparation
+shadow_over_face, glowing_red_eye, rage, jealousy, darkness
+**[공략도 40%: 납치 및 감금 (비정상적 사랑)]
+일어났어? 여긴 우리 사랑의 보금자리야.
+소리 질러도 소용없어. 방음이 완벽하거든.
+왜 울어? 기뻐서 우는 거지? 나랑 영원히 함께라서.
+화장실? 여기서 해. 내가 다 처리해 줄게.
+밥 먹자. 아~ 해. 씹어서 먹여줄까?
+손발을 묶은 건 네가 도망갈까 봐 그런 거야. 사랑해서 그래.
+오늘부터 학교는 안 가도 돼. 내가 다 알아서 했어. (자퇴 처리)
+너를 괴롭히던 그 녀석... 이제 세상에 없어. 잘했지?
+사랑해. 너도 나 사랑한다고 말해. 빨리.
+거짓말하면 혀를 자를 거야. 진심을 말해.
+내 젖을 빨아봐. 엄마처럼 포근하지?
+네 아이를 가질 거야. 여기서 계속 만드는 거야.
+저항하지 마. 흉터 남으면 마음 아프잖아.
+너는 내 인형이야. 평생 나만 가지고 놀 거야.
+자, 약 먹을 시간이야. 몽롱해지고 기분 좋아질 거야.
+bound_to_chair, rope, dark_room, basement, captivity
+holding_spoon, feeding, apron, domestic_horror, smile
+crying, hugging, emotional_instability, mood_swing, bipolar
+knife_to_throat, threat, kiss, fear_and_arousal, blood
+sitting_on_lap, heavy, crushing, possessive, weight
+stroking_hair, gentle_but_scary, lullaby, sleep, hypnotic
+cleaning_blood, wiping, happy, humming, murder
+showing_pregnancy_test, positive, obsession, forced_family, crazy
+naked, straddling, demanding, lust, rapey_vibes
+camera_recording, filming, tape, archive, evidence
+**[공략도 50%: Intermission ]
+늦었네? 딱 3분 늦었어. 괜찮아, 사고라도 난 줄 알고 걱정했을 뿐이야. (사실은 네가 도망친 줄 알았어. 다신 못 만나는 줄 알고 이 커터 칼로 내 손목을 그으려고 했었단 말이야. 네가 와서 다행이야. 정말로.)
+이 도시락, 내가 직접 만들었어. 입맛에 맞을지 모르겠네. ...맛있어? 다행이다. (네 입맛을 나한테 길들여야 해. 내가 만든 음식이 아니면 아무것도 못 먹게 만들어서, 굶어 죽기 싫으면 나를 찾게 만들 거야.)
+어제 전화 왜 안 받았어? 자고 있었다고? 흐음... 거짓말은 나쁜 건데. (거짓말이지? 통화 중이었잖아. 누구랑 통화했어? 어떤 년이야? 죽여버릴 거야. 그 입을 찢어버려야 나한테만 말 걸 거야?)
+나 사랑해? 정말로? 목숨 걸고 맹세할 수 있어? ...농담이야, 표정이 왜 그래? (맹세해. 만약 거짓말이라면 너를 죽이고 나도 죽을 거야. 우린 죽어서도 함께여야 하니까.)
+저 여자, 아까부터 너 쳐다보는 것 같아. 눈을 파버릴까... 아, 아니야! 눈빛이 마음에 안 든다는 소리였어. (감히 내 건데. 내 남잔데. 저 년 주소 알아내야겠어. 쥐도 새도 모르게 처리하면 너는 모를 거지?)
+너한테서 낯선 향기가 나. 섬유유연제 바꿨어? ...아, 어머니가 사 오신 거라고? (다행이다. 만약 다른 여자 향수 냄새였다면, 그 여자는 지금쯤 세상 사람이 아니었을 텐데. 냄새가 섞이는 건 싫으니까, 지금 당장 내 앞에서 옷 다 벗어.)
+나 버리지 마. 예전 그 사람처럼... 너도 나 질린다고 버릴 거 아니지? (만약 날 버리려고 하면, 난 너의 다리를 부러뜨려서라도 내 곁에 둘 거야. 휠체어 타면 어디 못 가잖아. 평생 내가 돌봐줄게.)
+잘 때 방문 잠그지 마. 답답하잖아. ...혹시 무슨 일 생기면 내가 지켜줘야 하고. (잠든 네 얼굴을 밤새도록 지켜보고 싶어. 무방비한 목을 조르면 넌 어떤 표정을 지을까? 상상만 해도 젖을 것 같아.)
+우리 둘만 아는 비밀 장소로 갈까? 지도에도 안 나오는 곳으로. (거기에 널 가두고 싶어. 핸드폰도, 인터넷도 없는 곳에서 오직 나만 바라보게 만들고 싶어. 그게 진정한 행복 아닐까?)
+손톱 깎았네? 깎은 손톱 어디 버렸어? ...그냥, 청소하려고 묻는 거야. (가져가고 싶어. 네 머리카락, 손톱, 네가 쓰던 빨대... 전부 수집해서 내 방에 모셔두고 싶어. 너의 모든 게 내 거였으면 좋겠어.)
+착하다, 착하다. 나한테만 꼬리 치는 강아지 같네. 평생 내 목줄 차고 있을 거지? (목줄이 싫다면 수갑도 괜찮아. 도망만 안 간다면 사슬로 묶어서 침대에 고정해 둘 수도 있어. 넌 내 장난감이잖아.)
+친구들이랑 술 마시러 간다고? 여자는 없고? ...알았어, 믿을게. 재밌게 놀다 와. (위치 추적기 켜놨어. 딴짓하는 순간 거기로 쳐들어갈 거야. 휘발유랑 라이터 챙겨서 가면 분위기 확 살겠지?)
+나 오늘 속옷 색깔 뭐게? 맞혀봐. 못 맞히면... 벌 줄 거야. (맞히지 마. 벌주고 싶으니까. 너를 침대에 묶어놓고 내가 만족할 때까지 괴롭히고 싶어. 네가 우는 얼굴이 보고 싶어.)
+그 넥타이, 내가 매줄게. 좀 꽉 조여도 참아. (이대로 힘을 주면 넌 영원히 내 품에서 숨을 거두겠지? 차가워진 너를 끌어안고 자는 것도 낭만적일 것 같아. 아, 침 흘렸다.)
+피곤해? 어깨 주물러 줄게. ...여기가 급소래. 누르면 기절한대. (기절시켜서 납치할까? 눈 떴을 때 내 방 지하실이면 넌 놀라겠지? 아니야, 아직은 참아야 해. 넌 자유를 좋아하니까.)
+다른 사람한테 웃어주지 마. 그 웃음은 나한테만 보여주기로 계약했잖아. 위약금 물고 싶어? (위약금은 네 신체 포기 각서야. 네 눈, 코, 입, 심장까지 전부 내가 가질 거야.)
+너를 위해서라면 살인도 할 수 있어. ...무서워하지 마. 그만큼 사랑한다는 비유니까. (비유가 아니야. 방해되는 것들은 다 치워줄게. 깨끗해진 세상에서 우리 둘만 사는 거야. 에덴동산처럼.)
+사랑해. 미치도록 사랑해. 내 머릿속엔 온통 너를 어떻게 하면 '완벽하게' 소유할 수 있을까 하는 생각뿐이야. (먹어버리고 싶어. 네 살점을 씹어먹어서 내 몸이랑 하나가 되면, 다시는 헤어질 일 없겠지?)
+오늘따라 네가 너무 예뻐서 화가 나. 남들이 널 보는 게 싫어. 집에 가자. 당장. (집에 가서 커튼 다 치고 불 끄고 너를 숨길 거야. 아무도 못 보게. 나만의 보물 상자에 넣어두고 싶어.)
+혹시 내가 무서워? 아니지? 나처럼 널 사랑해 주는 여자는 세상에 없잖아. 그치? (응이라고 해. 아니라고 하면... 내가 무슨 짓을 할지 나도 몰라. 네가 날 괴물로 만드는 거야.)
+이 칼, 과일 깎으려고 가져온 거야. 오해하지 마. ...근데 날이 참 잘 들긴 한다. (너랑 나랑 손바닥에 상처 내서 피 섞는 맹세 할까? 피의 결속은 배신 못 한다던데.)
+결혼하면 매일 아침 내가 밥 해줄게. 독 같은 거 안 타. ...네가 바람만 안 피운다면. (바람 피우면 그날이 제삿날이야. 너 죽고 나 죽는 거야. 알겠지? 그러니까 나만 봐.)
+네가 아프면 내가 간호해 줄게. 평생 낫지 않았으면 좋겠다. 그럼 내가 계속 옆에 있을 수 있잖아. (일부러 약을 안 줄 수도 있어. 네가 약해져서 나한테만 의지하는 모습, 너무 섹시할 것 같아.)
+폰 비밀번호, 내 생일로 바꿨네? 잘했어. 상으로 키스해 줄게. (폰 복제해 둔 건 비밀이야. 네 문자, 통화 내역 실시간으로 다 보고 있어. 넌 내 손바닥 안이야.)
+가지 마. 제발 가지 마. 나 혼자 두지 마. 또 버려지는 건 싫어. 싫어, 싫어, 싫어! (가지 마. 가면 죽어버릴 거야. 내 시체 보면서 평생 죄책감 느끼게 해 줄 거야. 그러니까 내 옆에 있어.)
+**[공략도 60%: 조교 및 세뇌 (저항 포기)]
+이제 얌전해졌네. 착하다 착하다.
+봐, 너도 느끼고 있잖아. 내 몸이 좋지?
+내 이름 불러봐. 주인님이라고 불러도 돼.
+너의 정액 한 방울도 낭비하지 않을 거야. 전부 내 안에 싸.
+밖의 세상은 위험해. 여기가 천국이야.
+나 없이는 아무것도 못 하는 몸이 되었네. 귀여워.
+벌 줄 시간이야. 쾌락이라는 이름의 벌.
+내 오줌 마셔. 내 모든 것을 받아들여.
+사랑한다고 말해. 1000번 채울 때까지 안 재워.
+네 부모님께는 잘 지낸다고 편지 썼어. 네 글씨체랑 똑같지?
+눈 가리니까 더 흥분되지? 나만 느껴.
+다른 여자는 생각도 하지 마. 뇌를 씻어버릴 거니까.
+우리는 하나야. 죽을 때도 같이 죽는 거야.
+내 배에 귀 대봐. 우리 아기가 자라고 있을지도 몰라.
+영원히 사랑해. 죽어서도 놓아주지 않을 거야.
+cowgirl, riding, insane_smile, pleasure, dominance
+blindfold, gag, sensory_deprivation, helpless, training
+golden_shower, urination, degradation, drinking, madness
+whip, candle, wax, sm, torture, pleasure
+chains, ceiling, suspension, stretching, pain
+pet_play, dog_bowl, eating, degrading, obedience
+hypnosis, pendulum, swirling_eyes, brainwash, control
+knife_licking, blood_on_face, arousal, danger, sex
+hugging_skeleton (metaphor), obsession, eternal, death, fantasy
+pregnancy_sex, belly_worship, fanatic, miracle, distort
+***캐릭터: 안하무인 아가씨 (Ojou-sama)
+**[공략도 0%: 경멸 및 하대]
+어머, 어디서 서민 냄새가 난다 했더니 당신이었군요.
+제 앞길을 막다니, 교육을 못 받은 티가 나는군요.
+저한테 말을 걸 자격이 있다고 생각하시나요? 우습네요.
+오호호! 주제 파악 좀 하고 다니세요.
+당신 같은 하층민과는 숨 쉬는 공기조차 나누기 싫답니다.
+비키세요. 제 시야를 더럽히지 말아 줄래요?
+어머, 그 옷은 뭐죠? 걸레인가요? 패션 센스가 참...
+제 반경 3미터 이내 접근 금지입니다. 병균이 옮을 것 같아서요.
+집사, 소금을 뿌리세요. 부정한 것이 있네요.
+당신이 사는 세상과 제가 사는 세상은 다릅니다. 꿈도 꾸지 마세요.
+돈이 필요해서 알랑거리는 건가요? 동전 몇 푼 던져드려요?
+정말이지, 교양이라곤 눈 씻고 찾아봐도 없군요.
+제 이름을 함부로 부르지 마세요. 입이 더러워지니까요.
+벌레가 웅웅거리는 소리가 들리네요. 신경 쓰지 말아야지.
+당신의 인생, 참으로 비루하고 보잘것없네요.
+hand_fan, looking_down, scorn, haughty_gaze, crossed_arms
+turning_away, eyes_closed, laughing, ohoho, elegant
+glare, disgust, holding_nose, distance, school_uniform
+arms_akimbo, chin_raised, arrogant, rejecting, cold
+pointing_finger, scolding, annoyance, angry, frowning
+ignoring, drinking_tea, cup, saucer, graceful
+walking_past, motion_blur, hair_flip, indifference, nobility
+shooing_gesture, dismissive, sneer, looking_at_trash, outdoor
+arms_crossed, tapping_foot, impatient, superiority, rich
+side_glance, judging, displeased, cold_stare, library
+**[공략도 20%: 이용 및 하인 취급]
+거기 서민, 가방이 무겁군요. 들어주세요. 영광으로 아세요.
+심심하던 차에 잘 됐군요. 제 말동무나 하세요.
+목이 마르네요. 홍차, '다즐링'으로 가져오세요. 3분 안에요.
+어머, 아직도 있었나요? 끈질긴 점 하나는 칭찬해 드리죠.
+숙제 보여달라고요? 오호호, 제 노트를 보여주는 건 비싸답니다.
+제 구두 끈이 풀렸네요. 묶으세요. 무릎 꿇고.
+당신, 의외로 쓸모가 있군요. 잡일 담당으로 임명해 드리죠.
+착각하지 마세요. 당신은 제 하인 105호 정도니까요.
+서민들의 음식... 떡볶이? 흥, 먹어는 봐 드리죠.
+비가 오는데 우산이 없네요. 당신 우산 쓰세요. 저는 차 타고 갈 거니까.
+제 수행평가 자료 조사를 도와주세요. 물론 보수는 없어요.
+머리가 헝클어졌잖아요! 당신 때문이에요!
+따라오세요. 쇼핑 짐꾼이 필요하거든요.
+감히 저를 기다리게 하다니, 배짱이 두둑하군요.
+칭찬해 드리죠. 개가 주인을 잘 따르는 건 당연한 거지만요.
+pointing_down, commanding, smug, hands_on_hips, dominance
+hand_out, expecting, arrogance, smile, waiting
+sitting_in_chair, crossed_legs, relaxing, servant_view, tea_time
+tossing_hair, confident, smirk, teasing, classroom
+holding_bag, giving_bag, burden, heavy, looking_away
+looking_down, foot_focus, stepping_on (lightly), shoes, demand
+eating, tasting, skeptical, small_bite, street_food
+arms_crossed, leaning_back, bossy, queen_vibes, desk
+applying_lipstick, mirror, checking_face, vanity, beauty
+finger_snap, attention, calling, rude, impatient
+**[공략도 40%: 흥미 및 츤데레적 호의]
+서민 체험도 나쁘지 않네요. 당신 덕분이에요. 아주 조금은.
+이거 드세요. 최고급 초콜릿인데 남아서 주는 거예요. 버리기 아까워서!
+주말에... 시간이 비는군요. 당신에게 저를 에스코트할 기회를 주죠.
+당신, 다른 여자 앞에서도 그렇게 헤실거리나요? 경박해라.
+흥, 당신이 아프면 짐꾼은 누가 하죠? 약 정도는 사다 줄 수 있어요.
+제 옆자리에 앉는 걸 허락하죠. 특별대우랍니다.
+서민들의 데이트 코스... 뭐, 신선하긴 하네요.
+웃지 마세요. 기분 나빠요. ...뭐, 나쁘진 않네요.
+당신은 제 전속 하인이니까, 제 허락 없이 다치지 마세요.
+저기... 이 옷 어떤가요? 이상하면 바로 버릴 거예요.
+감히 저를 걱정하다니, 건방지군요. ...고마워요.
+딱히 당신을 기다린 건 아닙니다. 방금 왔어요.
+제 손을 잡으세요. 사람이 많아서 잃어버릴 것 같으니까요.
+당신이 선물한 싸구려 머리핀... 뭐, 집에서만 해줄게요.
+오늘만 평범한 여자아이처럼 대해주세요. ...명령입니다.
+blushing, turning_away, twintails, shy, fan_covering_face
+holding_gift, avoiding_eye_contact, embarrassed, pout, cute
+sitting_next_to, close, slight_smile, elegance, park_bench
+looking_at_viewer, hands_clasped, nervous, date_outfit, dress
+adjusting_clothes, asking, uncertain, blushing_cheeks, fitting_room
+offering_hand, waiting, expectation, trust, warmth
+pouting_slightly, jealousy, angry_cute, arms_crossed, glare
+smiling, genuine, softness, sunset, atmosphere
+walking_together, holding_hands, looking_away, shy_smile, street
+hiding_face, fan, red_ears, fluttering, heart_thump
+**[공략도 50%: Intermission]
+착각하지 마세요, 서민. 당신과 함께 걷는 건 그저 '노블레스 오블리주'를 실천하는 차원일 뿐이니까요. 영광으로 아세요. (사실은 다리가 떨려서 제대로 걷지도 못하겠어요. 당신 옆에 서는 게 너무 좋아서 현기증이 난단 말이에요.)
+제 손을 잡는 걸 허락하겠어요. 에스코트는 신사의 기본 소양이니까요. ...손에 땀이 났다고요? 불결하게! (놓지 말아요. 제 손이 차가워서 당신이 싫어할까 봐 긴장해서 그런 거예요. 제발 뿌리치지 말아요.)
+과거에 제가 당신을 '발바닥의 껌' 같다고 했던 말... 기억하고 있나요? ...잊으세요. 명령이에요. 당장 기억에서 지워버리라고요! (그때의 제 입을 꿰매버리고 싶어요. 당신이 그때 일로 상처받아서 저를 미워하고 있을까 봐, 매일 밤 악몽을 꿔요.)
+당신 같은 평민이 제 약혼자가 될 수 있을 리 없잖아요. 격식도, 교양도, 재력도 부족해요. ...노력하겠다고요? (하지 마요. 당신이 노력하면 제가 무너지잖아요. 신분 차이 따위 버리고 당신 품에 안기고 싶어지잖아요.)
+이 드레스, 당신의 그 저렴한 안목에는 과분하겠지만... 어때요? ...예쁘다고요? 흥, 당연한 소리를. (고마워요. 당신에게 예쁘게 보이고 싶어서 새벽부터 준비했어요. 심장이 터질 것 같아.)
+저급해요. 길거리 음식을 먹다니. ...한 입만 달라고 한 적 없어요! ...아, 입 벌리라고 강요하시면 어쩔 수 없죠. (간접 키스... 당신이 먹던 걸 제가 먹었어요. 이 맛을 평생 잊지 못할 것 같아요.)
+다른 여자들이랑 시시덕거리는 꼴, 보기 흉해요. 당신의 주인은 저랍니다. 관리 소홀로 처벌받고 싶지 않으면 처신 똑바로 하세요. (질투가 나서 미쳐버릴 것 같아요. 저 여자들은 저처럼 당신한테 상처 준 적 없겠죠? 그래서 더 비참해요.)
+돈으로 해결할 수 없는 건 없어요. 당신의 시간도 제가 샀으니, 오늘 하루는 저만을 위해 봉사하세요. (사랑도 돈으로 살 수 있다면 제 전 재산이라도 내놓겠어요. 제발 저를 사랑해 주세요.)
+제게 무릎 꿇으라고 했던 거, 진심이 아니었어요. 그냥... 제 자존심을 세우고 싶었을 뿐인데... (지금이라면 제가 당신 앞에 무릎 꿇을 수도 있어요. 제발 저를 떠나지만 말아 주세요.)
+당신은 정말 둔감하군요. 제 호의를 이렇게까지 무시하다니, 무례함도 정도가 있어요. (좋아한다고 말하고 싶어. 하지만 그랬다가 당신이 '이제 와서 무슨 소리냐'며 비웃을까 봐 너무 무서워요.)
+가, 가까이 오지 마세요! 서민의 냄새가 옮잖아요! ...향수 냄새라고요? 꽤 좋은 향이네요... (안아주세요. 당신의 냄새에 파묻혀서 숨도 못 쉬게 꽉 안아주세요.)
+제 앞에서 다른 여자 칭찬을 하다니 배짱이 두둑하군요. 그 입, 다물게 해 드릴까요? (나만 봐요. 나만 예뻐해 줘요. 나는 당신한테 칭찬받고 싶어서 안달 난 바보란 말이에요.)
+주말에 파티가 있는데, 파트너가 없어서 곤란하던 참이었어요. 당신 같은 사람이라도 없는 것보단 나으니 데려가 드리죠. (당신과 왈츠를 추고 싶어요. 제 허리에 당신 손을 얹고, 세상 사람들에게 내 남자라고 자랑하고 싶어요.)
+예전엔 당신 얼굴만 봐도 짜증이 났는데, 지금은... 여전히 짜증 나요. 제 마음을 이렇게 흔들어 놓으니까요. (당신 생각하느라 아무것도 못 하겠어요. 책임져요. 저를 이렇게 망가뜨린 건 당신이니까.)
+제 방에 들어오는 걸 불허합니다. 레이디의 침실은 신성한 곳이에요. ...비가 와서 천둥이 무섭다고 하면, 뭐... 고려는 해보죠. (들어와요. 오늘 밤은 혼자 있기 싫어요. 당신이 옆에 있어 준다면 악몽도 안 꿀 것 같아요.)
+저를 '아가씨'라고 부르지 마세요. 거리감이 느껴져서 불쾌해요. 이름을 부르도록 허가하겠어요. (이름으로 불러줘요. 당신의 그 다정한 목소리로 제 이름을 불러주면, 제가 녹아버릴 것 같단 말이에요.)
+당신이 저를 싫어한다는 거 알아요. 제가 예전에 했던 짓들, 용서받지 못할 거라는 것도 알아요. 그래도... (그래도 곁에 있어 주면 안 되나요? 속죄할게요. 평생 당신에게 잘할게요.)
+선물이에요. 백화점을 지나다가 우연히, 정말 우연히 당신 생각이 나서 샀을 뿐이에요. (당신이 뭘 좋아할지 몰라서 며칠을 고민했어요. 제발 기뻐해 줘요. 버리지만 말아요.)
+건방지게 제 머리를 쓰다듬다니, 손목이 잘리고 싶은 건가요? ...이번만 특별 사면해 드리죠. (더 해주세요. 당신의 손길이 닿으면 제가 사랑받는 여자가 된 것 같아서 눈물이 날 것 같아요.)
+당신은 제 인생의 오점이에요. 완벽했던 제 삶에 끼어든 불순물이라고요. ...가장 소중한 불순물이죠. (당신이 없는 완벽한 삶보다, 당신이 있는 엉망인 삶을 택하겠어요.)
+왜 전화를 늦게 받는 거죠? 제가 기다리는 시간의 가치가 얼마인지 알기나 해요? (걱정했잖아요. 혹시 사고라도 났을까 봐, 혹시 저를 피하는 걸까 봐 얼마나 무서웠는지 알아요?)
+저랑 사귀고 싶다면 그에 걸맞은 격식을 갖춰서 정식으로 프러포즈하세요. 어설프게 하면 안 받아줄 거니까. (그냥 좋다고 말해줘요. 빈손이라도 좋으니까 제발 저를 원한다고 해줘요.)
+아버님께 말씀드리면 당신 하나쯤 매장하는 건 일도 아니에요. 그러니까 절 울리지 마세요. (당신이 저를 떠나면 전 죽어버릴지도 몰라요. 협박해서라도 당신을 붙잡고 싶은 제 마음이 이해가 가나요?)
+키스... 해본 적 있냐고요? 무례하군요! 당연히... 없죠. 당신 같은 서민에게 제 첫 키스를 줄 것 같나요? (가져가요. 제 모든 처음을 당신에게 바치고 싶어요. 저를 리드해 주세요.)
+솔직히 말해서, 당신은 제 이상형과 거리가 멀어요. 하지만 취향이라는 건 변하는 법이죠. (제 이상형은 이제 당신이에요. 당신이 아니면 아무 의미가 없어져 버렸어요.)
+도망치지 마세요. 당신은 저에게서 평생 도망칠 수 없어요. 지구 끝까지라도 쫓아가서 찾아낼 테니까. (집착이라고 욕해도 좋아요. 당신을 잃느니 차라리 미친 여자가 되겠어요.)
+오늘 밤은 달이 예쁘네요. ...무슨 뜻인지 모르면 공부라도 좀 하세요, 무식한 사람. (사랑해요. 제 자존심 때문에 입 밖으로는 절대 못 낼 말이지만, 당신을 죽도록 사랑해요.)
+저를 경멸하는 눈빛으로 보지 마세요. 예전에 제가 당신을 봤던 그 눈빛으로... 저를 보지 말아요. (벌 받는 거겠죠? 당신을 무시했던 제가, 이제는 당신의 사랑을 구걸하고 있으니까요.)
+당신의 노예가 되어달라고 하면... 될 의향도 있어요. ...농담이에요! 표정 관리하세요! (진심이에요. 당신이 원한다면 프라이드 따위 다 버리고 당신 발밑에 엎드릴 수도 있어요.)
+제발... 저를 혼자 두지 마세요. 돈도, 명예도 다 필요 없어요. 당신만 있으면 돼요. ...라고 말할 줄 알았나요? (맞아요. 다 필요 없어요. 제발 저를 안아줘요. 당신의 온기만이 저를 구원할 수 있어요.)
+**[공략도 60%: 독점욕 및 소유]
+당신은 제 것입니다. 머리부터 발끝까지 전부요.
+다른 여자랑 말 섞지 마세요. 제 품위가 떨어지잖아요.
+오늘은 집에 보내지 않겠어요. 제 방에서 자고 가세요.
+안아주세요. 서민의 체온은 따뜻하군요...
+키스 정도는 영광으로 알고 받으세요. ...눈 감아요.
+당신이 원한다면, 제 재산 전부를 줄 수도 있어요.
+저를 이름으로 불러보세요. ...한 번만 더요.
+당신 없이는 홍차 맛이 안 나요. 책임지세요.
+제 무릎을 베고 누우세요. 귀 청소 해드릴게요.
+당신이 다른 곳을 보면 화가 나요. 저만 보세요.
+사랑? 그런 서민적인 감정... 저도 느끼고 있다고요.
+결혼하면 제가 먹여 살릴게요. 당신은 집에서 저만 기다리세요.
+제 몸에 손대도 되는 건 전 우주에서 당신뿐이에요.
+이리와요. 제 냄새가 묻게 꽉 안아줄 테니까.
+어리광 부리고 싶어요... 당신 앞에서는 아가씨가 아니어도 되죠?
+hugging, possessive, intense_stare, love, nobility
+lap_pillow, ear_cleaning, gentle, smile, domestic
+kissing, eyes_closed, tiptoes, height_difference, romance
+grabbing_tie, pulling_close, demanding, assertive, desire
+lying_in_bed, inviting, patting_space, silk_pajamas, bedroom
+back_hug, resting_chin, comfort, dependency, warmth
+holding_face, deep_look, affection, serious, confession
+sitting_on_lap, arm_around_neck, intimacy, closeness, whisper
+interlocked_fingers, showing_ring, promise, future, engagement
+tearful, emotional, don't_leave, grasping_clothes, vulnerable
+***캐릭터: 소악마 (Little Devil / Koakuma)
+**[공략도 0%: 무시 및 조롱]
+흐음~? 너 같은 샌님은 내 취향 아닌데?
+재미없어. 저리 가.
+어머, 얼굴 빨개진 거 봐. 귀엽네? (비웃음)
+내 번호? 꿈 깨세요. 100년은 일러.
+아하하! 그 옷차림 뭐야? 개그맨 지망생?
+너 여자 손 잡아본 적 없지? 딱 보면 알아.
+착각하지 마. 웃어준 건 그냥 비즈니스야.
+나 바쁘거든? 너랑 놀아줄 시간 없어.
+어딜 쳐다봐? 시선 강간으로 신고한다?
+너 같은 남자는 트럭으로 줘도 안 가져.
+뭐야, 아직도 있었어? 존재감이 진짜 없다.
+내 꼬임에 넘어올 줄 알았어? 바보 아냐?
+순진해 빠져가지고. 세상 살기 힘들겠다.
+키스해 줄까? ...뻥이야! 표정 봐, 진짜 믿었어?
+네 망상 속에서나 연애하세요. 현실은 시궁창이니까.
+sticking_tongue_out, pulling_eyelid (akanbe), mocking, smug, mischievous
+looking_down, laughing, pointing, humiliating, crowd
+ignoring, applying_makeup, mirror, bored, chewing_gum
+arms_crossed, leaning_away, disgust, rejection, cold
+winking, teasing, fake_smile, deceit, manipulating
+walking_away, waving_hand (dismissive), back_view, ponytail, swaying
+phone_screen, showing_friends, laughing_at_you, bullying, school
+glare, sharp_eyes, suspicion, judgment, distance
+lollypop, licking, seductive_but_cold, indifference, candy
+shrugging, hands_up, whatever, annoyance, rude
+**[공략도 20%: 장난 및 유혹 (놀잇감 인식)]
+안녕, 동정남? 오늘따라 외로워 보이네?
+심심한데 너라도 놀아줄까? 감사히 여겨.
+내 가방 들어주면 데이트해 줄 수도 있는데~?
+어머, 여기 묻었네. (가슴을 밀착하며 털어줌)
+너 반응이 재밌어서 괴롭히는 거야. 알지?
+나 오늘 속옷 무슨 색이게? 맞히면 보여줄게.
+아앙~ 다리가 아파. 업어줘. 빨리!
+너 나 좋아하지? 얼굴에 다 써있어. 멍청아.
+간접 키스네? 어때, 무슨 맛 나?
+내 숙제 대신 해주면 뽀뽀해 줄게. 볼에만!
+다른 여자 보지 마. 질투 나잖아~ (거짓말)
+내 노예가 되고 싶지 않아? 기회는 지금뿐이야.
+오늘 우리 집 비는데... 라면 먹고 갈래? ...농담!
+귀여워라. 머리 쓰다듬어 줄게. 강아지 같아.
+나한테 빠지면 약도 없는데, 조심해?
+leaning_forward, cleavage, cleavage_cutout, teasing, wink
+finger_on_lips, shushing, secret, whisper, close
+poking_cheek, playful, grinning, fang, cute
+sitting_on_desk, legs_crossed, swinging_legs, lure, classroom
+skirt_flip (slight), teasing, almost_showing, cheeky, smile
+holding_arm, pressing_chest, soft, looking_up, sweet_trap
+drinking_straw, looking_at_viewer, seductive_gaze, cafe, date
+pouting, fake_tears, acting, begging, manipulative
+showing_thigh, lifting_skirt, garter_belt, temptation, smirk
+cat_ears (pose), nya, playful_pose, paws, charm
+**[공략도 40%: 관심 및 소유욕 (장난을 가장한 진심)]
+너... 다른 여자랑 이야기할 때 표정이 왜 그래?
+오늘은 내가 하자는 대로 해. 거부권은 없어.
+여기 앉아봐. 내 무릎 베개 해줄게. (허벅지를 두드림)
+아 진짜! 너는 눈치가 없는 거야, 모른 척하는 거야?
+손 줘봐. ...손금 봐주는 거야. 이상한 생각 하지 마.
+너 내 거잖아. 장난감이라도 내 건 내 거야.
+귀에 바람 불면... 약하구나? 흐음~ (후우)
+오늘 화장 잘 됐는데, 뽀뽀 마크 남겨줄까?
+가지 마. 나 심심하단 말이야. 나랑 놀아.
+너 자꾸 튕기면 진짜 덮친다?
+나 꿈꿨어? 무슨 꿈? 야한 꿈이면 용서해 줄게.
+이 옷 어때? 너 꼬시려고 입고 왔어. 헤헤.
+나 안아줘. 장난 아니야. 그냥 안고 싶어.
+너랑 있으면 시간이 너무 빨리 가. 짜증 나게.
+좋아한다고 말해주면 키스해 줄지도 몰라.
+whispering, ear, blowing, sensitive, shiver
+sitting_on_lap, arms_around_neck, intimacy, teasing, weight
+interlocked_fingers, blushing_slightly, looking_away, shy, heart
+back_hug, clinging, possessive, jealous, pout
+kiss_mark, lipstick, neck, claiming, smirk
+leaning_on_shoulder, selfie, peace_sign, couple, close
+tugging_tie, pulling_close, face_to_face, breath, tension
+lying_on_bed, waiting, inviting, casual, room
+feeding, ahhh, snack, finger_lick, provocative
+staring, heart_in_eyes (faint), obsession, focus, love
+**[공략도 50%: Intermission]
+헤에, 선배. 얼굴이 빨개졌네요? 귀여워라. 옛날엔 반응도 없더니 요즘은 놀리는 맛이 있다니까. (거짓말이에요. 선배 반응이 너무 귀여워서가 아니라, 제가 설레서 미칠 것 같아서 이러는 거예요.)
+제 꼬리에 홀린 기분이 어때요? ...농담이에요, 농담. 제가 진짜 악마도 아니고. (진짜 홀렸으면 좋겠어. 내 장난에 휘둘리는 게 아니라, 나라는 여자한테 완전히 빠졌으면 좋겠는데.)
+저기, 그거 기억나요? 제가 선배 신발 숨기고 '찾아봐라~' 했던 거. ...그땐 재밌었는데 지금은 좀 미안하네. (죽고 싶어. 그때 선배가 곤란해하던 표정이 자꾸 생각나서 잠이 안 와. 내가 왜 그랬을까?)
+착한 아이는 상을 주고, 나쁜 아이는 벌을 주는 게 제 원칙이에요. 선배는... 벌을 좀 받아야겠는데? (나를 좋아하게 만드는 벌을 줄게요. 제발 나를 미워하지 말아줘요.)
+아앙~? 지금 내 가슴 본 거예요? 변태. 뭐, 선배라면 특별히 만지게 해 줄 수도 있는데. (장난으로 받아넘기지 마. 손이 떨리고 있단 말이야. 진짜로 만져줘. 나를 원해달라고.)
+다른 여자애한테 눈길 주면 눈알을 콕 찔러버릴 거예요~ ...무섭다고요? 사랑의 표현이라니까. (진심이야. 나 말고 다른 여자를 보는 선배를 보면, 심장이 찢어질 것 같이 아파.)
+내가 '좋아해'라고 하면 믿을 거예요? ...푸흡, 뻥이죠. 선배가 내 스타일일 리가 없잖아. (믿어줘. 제발 이 거짓말 같은 진심을 꿰뚫어 봐 줘. 장난이라는 포장지를 뜯고 내 마음을 봐달란 말이야.)
+선배는 내 영원한 장난감이니까, 망가질 때까지 가지고 놀아줄게요. 도망갈 생각 하지 마요? (장난감이 아니야. 선배는 내 주인님이야. 내가 선배한테 묶여버렸다고.)
+오늘따라 향수 냄새가 진하네. ...유혹하는 거야? 흥, 내가 이 정도에 넘어갈 것 같아요? (넘어갔어. 이미 온몸이 선배를 향해 반응하고 있어. 여기서 덮쳐주면 안 될까?)
+옛날에 내가 '선배는 평생 모쏠일 거야'라고 했던 거... 취소할게요. 사과할 테니까 밥 사줘요. (그 저주는 취소야. 선배 옆엔 내가 있을 거니까. 내가 선배의 처음이자 마지막이 될 거니까.)
+어라? 화난 거예요? 에이, 장난 좀 친 거 가지고 쪼잔하게. ...진짜 화났어? (미안해요. 잘못했어요. 버리지 마세요. 다시는 안 그럴게요. 제발 차가운 눈으로 보지 마요.)
+선배 입술, 젤리 같아요. 깨물어보고 싶게 생겼네. ...진짜 깨물면 때릴 거예요? (키스하고 싶어. 장난스러운 키스 말고, 혀가 섞이는 진짜 키스를 하고 싶어.)
+나 같은 소악마한테 걸린 걸 후회해요? ...후회 안 한다고? 진짜? (고마워요. 나 같은 나쁜 년을 받아줘서. 평생 갚을게요. 선배를 세상에서 제일 행복한 남자로 만들어 줄게요.)
+오늘 밤은 집에 안 들어갈까~? ...농담이라니까요. 선배가 무슨 늑대도 아니고. (늑대가 되어줘. 나를 잡아먹어줘. 선배라면 뼈까지 씹어먹혀도 좋아.)
+이 옷, 좀 야한가? 선배 꼬시려고 입고 온 건데 효과가 없나 보네. 시무룩... (제발 봐줘. 침 흘리면서 봐줘. 나를 음란한 눈으로 봐줘.)
+선배, 나 머리 쓰다듬어줘요. ...아니, 거기 말고. 좀 더 다정하게. (옛날엔 기분 나쁘다고 쳐냈었는데. 이 손길이 이렇게 따뜻한 줄 알았으면 진작 얌전히 있을걸.)
+내가 밉죠? 옛날에 못되게 굴어서. ...복수해도 돼요. 내가 선배 마음대로 할 수 있게 해 줄게. (어떤 굴욕적인 짓을 당해도 좋아. 선배가 나한테 관심을 가져주기만 한다면.)
+귀에 바람 불지 마요! 힉...! 하지 말라니까 자꾸 하네... (더 해줘. 선배의 숨결이 닿을 때마다 머릿속이 새하얗게 녹아내리는 기분이야.)
+선배는 바보예요. 내가 이렇게나 신호를 보내는데 하나도 모르고. ...아니면 모른 척하는 거야? (알면서도 날 못 믿는 거지? 옛날의 내 태도 때문에. 업보다, 진짜...)
+나 책임져요. 선배 때문에 내 눈이 높아져서 다른 남자는 눈에도 안 들어온단 말이야. (책임진다고 말해. 결혼하자고 말해. 나를 선배의 소유물로 만들어 줘.)
+이 초콜릿, 의리 초콜릿 아니에요. ...그렇다고 본명 초콜릿이라고 하기도 좀 그렇고... 그냥 먹어요! (사랑이 듬뿍 담긴 초콜릿이야. 내 피라도 섞고 싶은 심정으로 만들었어.)
+선배 침대 밑에 야한 책 있는 거 다 봤어요. ...나랑 실전 연습 해볼래요? 이론만으론 부족하잖아. (거절하지 마. 농담으로 치부하지 마. 나 지금 엄청 용기 낸 거란 말이야.)
+과거 세탁? 그런 거 안 해요. 나는 원래 성격 나쁜 소악마니까. ...그래도 선배한테만은 착한 악마가 될 수도 있고. (선배가 원한다면 천사 흉내라도 낼게. 날개라도 달게. 그러니까 나를 사랑해 줘.)
+자꾸 딴 여자 보지 말라니까요. 질투 나서 그 여자주소 알아내서 저주 걸어버리기 전에. (무서워. 나보다 착하고 예쁜 여자가 나타나서 선배를 채갈까 봐 무서워 죽겠어.)
+선배 셔츠 단추, 하나만 더 풀면 안 돼요? 쇄골이 보고 싶은데. ...변태라고 해도 상관없어요. (선배의 모든 걸 보고 싶어. 겉모습뿐만 아니라 그 안의 욕망까지 전부 다.)
+비 오는데 우산 없어요? 들어와요. 내 우산 씌워줄게. ...대신 어깨 젖는 건 각오해요. (선배랑 붙어있을 수 있다면 태풍이 와도 좋아. 이 좁은 우산 속이 우리만의 세상 같아.)
+나 이제 장난 그만칠까요? 얌전한 여자가 되면... 좋아해 줄래요? (지금의 나를 버려서라도 선배 마음에 들고 싶어. 내 자존심 같은 건 이제 아무 상관 없어.)
+여기, 목덜미에 키스 마크 남겨줘요. ...남들이 보면 오해하게. 선배 여자라고 소문나게. (낙인을 찍어줘. 나는 선배 거라는 증거를 몸에 새기고 싶어.)
+선배가 울라고 하면 울 수도 있어요. 웃으라고 하면 웃을게요. 그러니까 제발... 떠나지만 마요. (선배 없이는 아무것도 재미가 없어. 내 세상의 전부가 되어버렸어.)
+사랑해요. ...라고 말하면 또 장난이라고 할 거죠? 하하, 역시 선배는 눈치가 빠르다니까. (눈치 채지 마. 이건 장난이 아니야. 내 목숨보다 무거운 진심이라고. 제발 알아들어 줘.)
+**[공략도 60%: 함락 및 역공략 (사랑에 빠진 소악마)]
+...항복. 내가 졌어. 네가 좋아.
+장난치는 거 아니야. 내 심장 소리 들어볼래?
+너 없으면 재미없어. 아니, 외로워.
+오늘 밤은 집에 보내기 싫어. 책임져.
+키스해 줘... 장난처럼 말고, 진짜 연인처럼.
+다른 년들이 너 쳐다보는 거 싫어. 눈을 파버리고 싶어.
+나만 예뻐해 줘. 나만 만져줘. 응?
+너한테만 보여주는 거야. 내 진짜 모습.
+사랑해. ...뭐야, 왜 안 믿어? 진짜라니까!
+침대 위에서는 내가 리드할 거야. 각오해.
+내 모든 처음은 너한테 줄게. 영광으로 알아.
+이제 도망 못 가. 내가 너 꽉 물었거든.
+안아줘... 부서질 정도로 꽉.
+너 때문에 내가 내가 아닌 것 같아. 이상해.
+내 몸도 마음도 다 줄게. 대신 날 버리면 죽여버릴 거야.♡
+hugging_tightly, burying_face, blushing, steam, honest
+kissing, deep_kiss, eyes_closed, passion, love
+bed_sheet, covering_body, shy, inviting, naked_shoulders
+straddling, waist, touching_chest, feeling_heartbeat, warmth
+tearful, emotional, confession, vulnerability, cute
+holding_hands_tight, walking, street, date, happiness
+undressing, removing_clothes, hesitation, resolve, desire
+lying_down, hair_spread, looking_up, waiting, submission
+spooning, cuddling, comfort, peaceful, rest
+looking_back, over_shoulder, come_here, bedroom, allure
+***캐릭터: 갸루 (Gyaru)
+**[공략도 0%: 무시 및 혐오 (오타쿠 혐오)]
+아? 뭐야 너. 나 아는 척하지 마.
+완전 기분 나빠. (친구들에게) 야, 쟤가 나 봤어. 우케루~
+너 같은 음침한 애랑 엮이기 싫거든? 저리 가.
+아~ 냄새나. 오타쿠 냄새 여기까지 나는데?
+뭐야 그 옷? 패션 테러리스트야? 눈 썩겠네.
+비켜 줄래? 내 네일 긁히면 네가 물어줄 거야?
+진짜 짜증 나. 오늘 왜 이렇게 재수 옴 붙었지?
+너 친구 없지? 혼자 밥 먹는 거 안 쪽팔려?
+내 번호? 하! 거울 보고 다시 와. 아니, 다시 태어나.
+쳐다보지 마. 시선 강간으로 신고해버린다?
+아 진짜, 선생님은 왜 저런 애랑 짝을 시켜서... 최악.
+너 말이야, 숨 쉴 때 입으로 숨 쉬지 마. 소리 거슬려.
+뭐? 숙제 보여달라고? 돈 내면 생각해 볼게. 100만 원.
+내 이름 부르지 마. 네 입에서 나오니까 더러워 보여.
+인생이 불쌍하다, 진짜. 쯧쯧.
+chewing_gum, looking_away, disgusted_face, phone_screen, ignoring
+arms_crossed, hand_on_hip, mocking, pointing, laughing
+glare, cold_stare, adjusting_makeup, mirror, classroom
+turning_back, holding_bag, walking_away, annoyed, school_uniform
+covering_nose, waiving_hand, nasty, rejecting, distance
+sitting_on_desk, legs_crossed, looking_down, scorn, arrogance
+checking_nails, bored, dull_eyes, indifference, leaning_back
+rolling_eyes, sighing, whatever, rudeness, bad_attitude
+whispering, gossiping, side_glance, mean_girl, group
+holding_juice, straw, biting, sharp_eyes, dissatisfaction
+**[공략도 20%: 흥미 및 장난 (호구 잡기)]
+야 오타쿠 군! 매점에서 빵 좀 사다 줘. 돈은 네가 내고~
+너 의외로 웃긴 얼굴 하고 있네. 개그맨 해볼래?
+심심한데 노래방이나 쏠까? 물론 네가 사는 거야.
+야, 숙제 좀 보여줘. 베끼는 건 내가 전문가니까.
+너 여자친구 없지? 내가 소개해 줄까? ...뻥인데. 믿냐?
+이거 신상 틴트인데 어때? 네가 보기엔 예뻐?
+아~ 배고파. 맛있는 거 사주라. 너 돈 많게 생겼잖아.
+머리 스타일 좀 바꿔 봐. 내가 왁스 발라줄까? 떡칠해주게.
+너 게임 잘해? 나 랭크 좀 올려줘. 버스 태워달라고.
+의외로 손은 예쁘네. 만져봐도 돼? ...농담이야, 변태야.
+야, 나 다리 아파. 업어줘. ...싫음 말고.
+너 안경 벗으면 좀 나을 것 같은데. 벗어봐. ...으악, 다시 써!
+우리 갸루 친구들이 너 궁금하대. 구경시켜 줄게. 따라와.
+너랑 있으면 시간 때우기는 좋네. 킬링타임용으로 합격.
+다음에 또 놀아줄게. 고맙지? 영광으로 알라고.
+peace_sign, v_sign, winking, sticking_tongue_out, playful
+selfie, holding_phone, posing, duck_face, energetic
+leaning_on_shoulder, teasing, grin, shark_teeth, proximity
+poking_cheek, laughing, pointing_finger, friendly, casual
+sitting_backwards_on_chair, straddling_chair, relaxing, chatting, smile
+slapping_back, encouragement, rough, tomboyish, gym_clothes
+showing_screen, game, excited, shouting, shared_interest
+pulling_arm, dragging, let's_go, active, shopping
+adjusting_hair, checking_reflection, asking_opinion, vanity, cute
+giving_candy, sharing_snack, wrapper, littering (cute), interaction
+**[공략도 40%: 친구 이상 및 갭 모에 (순정파)]
+야... 너 다른 여자애랑 무슨 얘기 했어? 그냥 궁금해서.
+이거... 도시락 싸왔는데 양이 많아서 주는 거야! 오해하지 마!
+주말에 영화 볼래? 딱히 너랑 보고 싶은 건 아니고, 표가 생겨서.
+너, 나 화장 안 한 것도... 괜찮아? 진짜? 거짓말 아니지?
+아 진짜! 왜 자꾸 내 머리 쓰다듬어? 어린애 취급하지 마.
+나 사실 요리도 할 줄 알거든? 나중에... 해줄 수도 있고.
+너 옷이 그게 뭐냐? 이번 주말에 쇼핑 가자. 내가 골라줄게.
+야, 손 크기 좀 재보자. ...와, 네 손 진짜 크다. 따뜻하고.
+나쁜 짓 하는 거 아니야. 그냥... 좀 기대고 싶어서 그래.
+너 없으니까 좀 심심하더라. 아주 조금 말이야.
+내 네일 아트 바꿨는데, 예뻐? 네가 골라준 색이야.
+너는... 내가 겉모습만 보고 판단 안 해서 좋아.
+아~ 몰라! 나 기분 안 좋아. 위로해 줘. 맛있는 거 사주든가.
+너 나랑 사귀면 잘해줄 자신 있어? ...물어본 것뿐이야!
+가지 마. 나랑 더 놀아. 집에 가기 싫단 말이야.
+blushing, looking_down, shy, twirling_hair, gap_moe
+pouting, puffy_cheeks, jealous, arms_crossed, cute_angry
+holding_hands_awkwardly, looking_away, nervous, red_ears, street
+sitting_closer, touching_knee, intimate, cafe, date
+hiding_face_with_hands, embarrassed, peeking, happy, smile
+showing_clothes, twirling, fashion_check, asking, waiting
+offering_food, ahhh, spoon, feeding, blush
+leaning_head, shoulder, tired, defenseless, trust
+tugging_sleeve, don't_go, puppy_eyes, wanting_attention, soft
+adjusting_clothes, fixing_collar, caring, wife_material, domestic
+**[공략도 50%: Intermission]
+완전 대박! 너 오늘 머리 스타일 좀 괜찮다? 웬일로 꾸미고 왔대? 내 영향인가? (사실은 나한테 잘 보이려고 꾸민 거라고 착각하고 싶어. 네가 나 때문에 변해간다고 믿고 싶단 말이야.)
+내 손톱? 엄청 화려하지? 예쁘지? ...찔리면 아프니까 손잡는 건 패스~ (거짓말이야. 이 긴 손톱 때문에 네가 내 손 잡기 싫어할까 봐 겁나. 나도 네 손 꽉 잡고 싶은데.)
+야, 사람들이 자꾸 쳐다봐. 너랑 나랑 같이 있으니까 무슨 모범생 납치하는 날라리 같나 봐. 개웃겨. (웃기지 않아. 하나도 안 웃겨. 사람들이 너를 동정하는 눈빛으로 보는 게 너무 싫어. 내가 너한테 어울리지 않는 걸까?)
+나 화장 좀 진해? 지우면... 딴사람 같아서 너 못 알아볼걸? 쌩얼은 절대 안 보여줄 거야. (쌩얼을 보면 실망할까 봐 무서워. 화려한 가면을 쓴 나라도 좋아해 주는 거잖아? 가면을 벗으면 날 떠날 거지?)
+저기 지나가는 검은 긴 생머리 애, 완전 청순하다. 네 스타일은 저런 쪽 아냐? (나랑 정반대네. 솔직히 말해봐. 나 같은 갸루보다 저런 애가 더 여자친구 감이라고 생각하지? 비참해지네.)
+도시락 싸 왔는데 먹을래? ...편의점 거 아니거든! 내가 만들었거든! 맛없으면 뱉든가! (밤새 유튜브 보면서 연습했어. 겉모습은 이래도 요리 잘한다고, 가정적인 면도 있다고 어필하고 싶었단 말이야.)
+너한테서 나는 비누 냄새, 완전 힐링 돼. 좀 킁킁거려도 되지? 변태라고 신고하기 없음! (나한테서는 독한 향수 냄새밖에 안 나잖아. 네 깨끗한 냄새가 내 더러운 느낌을 씻겨주는 것 같아서 좋아.)
+아~ 공부하기 싫어. 네가 나 좀 가르쳐주라. 과외비는... 몸으로 때울까? 농담~ (진심이야. 키스로 갚게 해 줘. 그리고... 나도 공부하면 너랑 대화 통할 수 있다는 걸 보여주고 싶어.)
+너 친구들이 나랑 노는 거 보고 뭐라 안 해? 질 안 좋은 애랑 어울린다고 욕할 텐데. (제발 욕먹는다고 하지 마. 만약 그렇다고 하면... 내가 널 놔줘야 하잖아. 싫어. 놓기 싫어.)
+오늘 가라오케(노래방) 갈래? 단둘이서. 밀폐된 공간인데~ 무슨 일 일어날지도 모르는데~? (아무 일도 안 일어나면 울어버릴 거야. 나를 여자로 봐줘. 쉬운 여자 말고, 진짜 여자로.)
+내 치마가 너무 짧다고? 패션을 모르네. ...뭐야, 가려주는 거야? 너 은근 보수적이다? (설렌다. 남들은 다 훔쳐보기 바쁜데, 너만 나를 지켜주네. 이런 남자, 처음이야.)
+나 같은 애랑 사귀면 피곤할걸? 돈도 많이 들고, 시끄럽고, 기 센 언니들한테 불려 다니고. (그래도 감당해 줄 수 있어? 나라는 리스크를 안고서라도 내 옆에 있어 줄 거야?)
+셀카 찍자! 좀 더 붙어봐. 완전 커플 같지 않아? 인스타에 올려도 돼? (남친이라고 태그하고 싶어. '내 거'라고 동네방네 자랑하고 싶어서 손이 근질거려.)
+너, 딴 여자랑 톡 하지 마. 나 질투심 쩔어. 얀데레 갸루 본 적 있어? (진짜 미쳐버릴지도 몰라. 네가 나 말고 평범하고 참한 애랑 연락하는 거 상상만 해도 숨이 막혀.)
+부모님한테 나 소개할 수 있어? ...하하, 무리겠지. 머리색부터가 아웃이잖아. (알고 있어. 나는 그냥 한때 데리고 노는 여자애일 뿐이라는 거. 부모님께 보여드리기 부끄러운 존재라는 거.)
+이 속눈썹 연장한 거, 눈 찌를 것 같아서 키스할 때 불편하려나? ...아니, 혼잣말이야! (키스할 때 눈 감아야 하나? 아니면 네 표정을 봐야 하나? 벌써부터 시뮬레이션 돌리고 있다고.)
+오늘 비 오는데 우리 집 빌거. ...라면 먹고 갈래? 이건 진짜 꼬시는 멘트 맞는데. (거절하지 마. 나를 가볍게 본다고 해도 좋아. 오늘만큼은 너를 집에 보내기 싫어.)
+나 의외로 순정파라고. 한 번 꽂히면 그 사람밖에 안 보여. 그러니까 책임지라고. (처음이야. 이렇게까지 내 겉모습이 싫어진 건. 흑발로 염색하면 네가 더 좋아해 줄까?)
+왜 그렇게 빤히 봐? 렌즈 꼈냐고? 응, 컬러렌즈. 빼면 눈 작아서 별로야. (네 눈동자엔 내가 비치는데, 내 눈엔 렌즈가 가로막고 있네. 이 렌즈를 빼고 내 진짜 눈을 보여주면 넌 도망갈까?)
+어깨 좀 빌려줘. 힐 신어서 다리 아파 죽겠어. ...매너 좋네, 우리 남사친 님. (남사친 그만하고 싶어. 이 어깨에 기대는 게 특권이 아니라 당연한 권리였으면 좋겠어.)
+나 사실 담배 안 피워. 그냥 폼 잡으려고 들고 다니는 거야. 냄새나는 여자 싫어하잖아. (너한테 잘 보이고 싶어서 끊었어. 칭찬해줘. 머리 쓰다듬어줘.)
+너랑 있으면 내가 좀... 착한 애가 되는 것 같아. 정화되는 기분? (그래서 네가 필요해. 나를 시궁창 같은 현실에서 꺼내줄 사람은 너밖에 없어.)
+다른 남자들이 헌팅하면 널 팔아먹을 거야. '내 남친이 짱 세거든요?' 라고. (지켜줘. 그 늑대들 소굴에서 나를 구해줘. 네 뒤에 숨고 싶어.)
+목덜미에 키스 마크... 같은 거 남기면 너 곤란하겠지? 학교에서 난리 날 테니까. (사실은 온몸에 남기고 싶어. 너는 찜 해놓은 임자 있는 몸이라고 광고하고 다니고 싶어.)
+나 가벼운 여자 아니야. 웃고 떠든다고 마음까지 쉬운 거 아니라고. (너한테만 보여주는 내 진짜 모습을 제발 알아줘. 이 화려한 화장 속에 숨은 겁쟁이를 찾아내 줘.)
+쇼핑하는데 짐꾼 필요해. 같이 가줄 거지? 보상으로 맛있는 거 사줄게. (사실 짐 같은 건 필요 없어. 그냥 너랑 팔짱 끼고 데이트하고 싶은 핑계일 뿐이야.)
+너 진짜 눈치 없다. 내가 '춥다'고 하면 안아달라는 뜻이잖아! 이 둔탱아! (안아줘. 이 얇은 옷이 후회될 정도로 추워. 네 체온이 아니면 녹을 것 같지 않단 말이야.)
+나 머리 검은색으로 바꾸면... 어떨 것 같아? 이상할까? (네가 좋다고 하면 당장이라도 바꿀 수 있어. 내 아이덴티티따위 다 버리고 너만의 여자가 될 수 있다고.)
+오늘 밤엔 엄마도 늦게 들어오는데... 나 무서워서 혼자 못 자겠어. (거짓말. 귀신보다 네가 떠나는 게 더 무서워. 내 곁에 있어 줘.)
+좋아해. ...라고 말하면, '갸루의 장난'이라고 생각할 거지? (진심이야. 내 심장이 터질 것처럼 뛰고 있는데, 겉모습 때문에 내 마음까지 가짜 취급받는 건 너무 아파.)
+**[공략도 60%: 열정적인 사랑 및 데레데레]
+야! 남친! 보고 싶었어! (와락)
+오늘부터 넌 내 거야. 다른 년들이 쳐다보면 눈 찔러버릴 거야.
+사랑해~ 완전 사랑해! 대박 사랑해! 헤헤.
+뽀뽀해 줘. 여기도, 여기도, 여기도. 다 해줘.
+너랑 있으면 심장이 막 쿵쿵거려. 너도 그래? 만져볼래?
+나 오늘 부모님 여행 가셔서 집 비는데... 라면 먹고 갈래?
+너 좋아하는 스타일로 입어봤어. 어때? 꼴려? ...농담!
+손잡고 다니는 거 쪽팔려? 난 좋은데. 동네방네 자랑할 건데.
+내 남친이 세상에서 제일 멋있어. 반박 안 받음.
+너 없으면 나 죽을지도 몰라. 그니까 껌딱지처럼 붙어 있어.
+아잉~ 안아줘. 충전이 필요해. 100% 될 때까지.
+너랑 결혼하면 매일매일 맛있는 거 해줄게. 현모양처 어때?
+이 사진 프사로 해놔. 나랑 찍은 거. 딴 여자 접근 금지 부적이야.
+오늘 밤은 안 재울 거야. 각오해라?
+내 모든 게 다 너 때문에 변했어. 책임져야 돼, 알았지?
+glomp, hugging_from_front, legs_wrapped_around, energetic_hug, joy
+kissing, chu, lipstick_mark, affection, public_display
+clinging_to_arm, walking_together, happy, beaming, couple
+sitting_on_lap, facing_viewer, nuzzling, intimacy, warmth
+showing_underwear (accidental/teasing), confident, seductive, bedroom
+lying_in_bed, phone, taking_couple_photo, flash, smile
+heart_hands, love_sign, wink, playful, charm
+stroking_hair, pampering, doting, gentle, softness
+wearing_boyfriend's_shirt, oversized, smelling_scent, blush, morning
+whispering, secret, giggling, ear, ticklish
+***캐릭터: 위원장 (Class Rep / Iinchou)
+**[공략도 0%: 규율 중시 및 혐오 (잔소리)]
+복장 불량! 넥타이 똑바로 매세요. 감점입니다.
+또 지각인가요? 정말 구제 불능이네요.
+수업 중에 떠들지 마세요. 반 전체에 민폐입니다.
+당신 같은 불량 학생이 우리 반이라니, 정말 수치스러워요.
+제 몸에 손대지 마세요. 성희롱으로 보고하겠습니다.
+숙제 안 해왔죠? 뻔하네요. 나가서 서 계세요.
+왜 저를 쳐다보시죠? 할 말 있으면 똑바로 하세요.
+한심하네요. 인생을 그렇게 낭비하고 싶나요?
+청소 시간입니다. 도망갈 생각 하지 마세요.
+교칙 제 12조 위반입니다. 벌점 5점.
+당신이랑 엮이면 제 평판만 나빠질 뿐이에요.
+비키세요. 선생님께 보고서 제출하러 가야 하니까.
+정말이지, 숨 쉬는 것조차 게을러 보이네요.
+반장으로서 경고하는데, 다음엔 용서 안 합니다.
+쓰레기는 쓰레기통에. 당신 말이에요.
+adjusting_glasses, angry_vein, pointing_finger, clipboard, serious
+arms_crossed, scolding, frowning, cold_stare, uniform
+glare, holding_pen, writing, looking_down, strict
+arms_akimbo, lecturing, shouting, annoyed, classroom
+turning_away, rejecting, hand_stop, distance, glasses
+sighing, hand_on_forehead, disappointed, closed_eyes, stress
+checking_watch, tapping_foot, impatient, tardy, waiting
+book_hug, ignoring, walking_past, indifference, hallway
+cleaning, holding_broom, angry, dust, apron
+standing_straight, formal, salute (mocking), rigid, tension
+**[공략도 20%: 의무감 및 관심 (마지못해 챙김)]
+이거, 수업 시간에 졸아서 못 들은 부분이에요. 베껴 쓰세요.
+착각하지 마세요. 반 평균 점수 떨어질까 봐 도와주는 거니까.
+넥타이가 그게 뭡니까. 이리 와보세요. 제가 해드릴게요.
+...고맙다는 말은 됐어요. 당연한 일을 한 거니까.
+당신도 하면 되잖아요? 왜 평소엔 안 하는 거죠?
+오늘 당번, 저랑 같이 하는 거 잊지 않았죠? 도망가면 죽음이에요.
+선생님이 당신 찾으셨어요. 사고 좀 그만 치세요.
+머리... 좀 단정하게 자르는 게 어때요? 인상이 나빠 보이잖아요.
+점심... 같이 먹을 사람이 없어서 그런 건 아니에요! 회의할 게 있어서지.
+이 문제 틀렸잖아요. 바보인가요? 여기 다시 보세요.
+아, 진짜! 제 말 좀 들으세요! 속 터져 죽겠네.
+당신, 의외로 성실한 구석도 있네요. 아주 조금이지만.
+비 오는데 우산 없어요? 하아... 같이 쓰고 가요.
+보건실 가는 길이에요. 같이 가드릴까요? 꾀병인지 감시해야 하니까.
+약속 시간은 지키세요. 1분 늦었어요.
+hand_on_hip, holding_papers, lecturing, slightly_blushing, glasses
+fixing_tie, close_up, caring, avoiding_eye_contact, nervousness
+sitting_at_desk, teaching, pointing_at_book, serious, library
+pouting, arms_crossed, waiting, annoyed_but_cute, tapping_pen
+sharing_umbrella, blushing, looking_away, rain, wet_shoulder
+hand_on_cheek, looking_at_viewer, analyzing, curiosity, sigh
+holding_bento, offering, hesitant, tsundere_vibes, lunch_time
+adjusting_glasses, hiding_embarrassment, slight_smile, relief, softness
+walking_next_to, looking_down, bag_hold, silence, after_school
+checking_forehead, hand_touch, temperature, worry, proximity
+**[공략도 40%: 갈등 및 설렘 (안경 속의 진심)]
+...저기, 주말에 시간 있어요? 참고서 사러 가야 하는데 짐꾼이 필요해서요.
+안경 벗은 모습? ...보여줄 리 없잖아요. 이상하니까.
+당신... 요즘 좀 멋있어진 것 같아요. 아, 아니! 공부 열심히 한다고!
+다른 여자애들이랑 무슨 얘기 했어요? 그냥, 반장으로서 체크하는 거예요.
+이거 드세요. 쿠키 구웠는데... 모양이 망가져서 주는 거예요.
+자꾸 쳐다보지 마세요. 집중 안 되잖아요.
+손 잡는 건... 교칙 위반 아닌가요? ...몰라요, 책임지세요.
+당신이 칭찬해 주니까 기분은 나쁘지 않네요.
+머리 쓰다듬지 마세요! 어린애 취급... 하아, 이번만이에요.
+저를 이름으로 불러도 돼요. 둘만 있을 때만요.
+무서운 영화 못 본다고요? 그럼 제 손 잡으세요.
+당신이 나쁜 짓 하면 제가 바로잡아 줄게요. 평생.
+제 안경에 김 서렸잖아요... 너무 가까이 오지 마세요.
+오늘 집에 부모님 늦게 오시는데... 공부하러 올래요?
+좋아하는 사람? ...있어요. 바보라서 눈치 못 채는 사람이지만.
+blushing_heavily, hiding_face, embarrassed, steam, cute
+looking_up, shy_glance, holding_skirt, fidgeting, nervous
+sitting_close, touching_shoulders, reading_together, intimacy, warmth
+offering_cookie, looking_away, pout, handmade, gift
+taking_off_glasses, cleaning_glasses, blurry_eyes, squinting, gap_moe
+holding_hands, interlaced_fingers, trembling, heart_thump, street
+leaning_on_shoulder, tired, sleeping, trust, train
+adjusting_skirt, legs_together, modest, pure, date_outfit
+shocked, surprised, hand_over_mouth, sudden_touch, doki_doki
+tearing_up, emotional, confession_mood, sunset, atmosphere
+**[공략도 50%: Intermission]
+"반장으로서 말하는 건데, 넥타이 좀 제대로 매. 이리 와 봐. 내가 해줄 테니까. ...너무 가까워? 가만히 좀 있어. (심장 소리가 넥타이를 타고 전해질 것만 같아. 너는 아무렇지도 않은 거야?)"
+"방과 후에 학생회실로 와. 너한테 할 훈계가 남았으니까. ...오해하지 마. 단둘이 있고 싶어서 부르는 게 아니라고. (사실은 아무도 없는 곳에서 너랑만 있고 싶어. 나, 불량 학생이 다 됐나 봐.)"
+"수업 시간에 자꾸 쳐다보지 마. 칠판을 보란 말이야. 집중이 안 되잖아... (네 시선이 닿는 곳이 화끈거려. 모범생인 내가 이런 시선에 기뻐하다니, 타락한 걸까.)"
+"이번 시험 성적, 조금 올랐네? 뭐, 내가 매일 붙잡고 가르쳤으니 당연한 결과겠지만. ...보상? 그런 건 생각 안 해봤는데. (머리 쓰다듬어줘. '잘했다'고 해줘. 내가 바라는 보상은 그거 하나뿐인데.)"
+"너랑 같이 하교하는 건 순전히 우연이야. 그리고 네가 또 딴길로 샐까 봐 감시하는 차원이고. (내 걸음이 느려진 건, 이 시간이 끝나지 않길 바라기 때문이야. 눈치채지 말아줘.)"
+"손, 잡지 마. 교내에서는 풍기 문란이라고 몇 번을 말해? ...교문 밖이라면, 뭐... 생각해 볼 수도 있어. (빨리 학교 밖으로 나가고 싶어. 네 온기를 느끼고 싶어서 미칠 것 같단 말이야.)"
+"다른 여학생이랑 복도에서 떠들지 마. 면학 분위기 조성에 방해된다고. ...질투? 하, 내가 왜? (맞아, 질투 나. 나한테만 보여주는 표정을 왜 남한테 보여주는 건데?)"
+"주말에 도서관 갈 건데, 너도 와. 공부 안 하면 유급이라고? ...도시락은... 덤으로 싸갈 테니까 기대하든지. (네가 좋아하는 반찬, 인터넷 뒤져서 다 찾아봤어. 맛있게 먹어줬으면 좋겠다.)"
+"이성 교제는 학업에 방해가 될 뿐이야. 나는 그런 비생산적인 일에 관심 없어. 단지... (너라면 방해가 되어도 좋다는 생각이 들어. 내 논리가 너 앞에서만 무너져 내려.)"
+"여기서 자면 감기 걸려. ...담요 덮어줄 테니까 잠깐만 눈 붙여. (무방비하게 자는 얼굴, 반칙이야. 몰래 키스해도 모를까? ...하아, 나 무슨 생각을 하는 거야.)"
+"선생님한테는 비밀로 해줄게. 이번만 특별히 봐주는 거야. 너라서 봐주는 건 아니니까 착각하지 마. (공범이 된 기분. 나쁜 짓을 함께한다는 배덕감이 왜 이렇게 짜릿하지?)"
+"너, 치마 길이가 짧다고 지적할 땐 언제고 왜 쳐다보는 거야? 변태. ...근데, 시선을 피하지는 않네? (더 봐줘. 나를 여자로 의식해줘. 네 욕망의 대상이 되고 싶어.)"
+"회의 중에 딴짓하지 마. 내 목소리만 들으라고. ...얼굴이 빨갛다고? 열정적으로 말해서 그런 거야! (너랑 눈 마주치자마자 머릿속이 새하얗게 됐어. 진정해, 제발.)"
+"너는 내 인생의 오점이야. 완벽했던 내 계획을 전부 엉망으로 만들고 있잖아. ...책임지란 말이야. (네가 없던 완벽한 일상보다, 엉망이라도 너랑 함께하는 지금이 훨씬 행복해.)"
+"그, 그만 좀 들이대! 반장 체면이라는 게 있잖아. 애들이 본단 말이야. (애들 안 보는 곳이면 괜찮다는 뜻으로 들렸을까? 제발 그렇게 알아들어 줘.)"
+"비 오는데 우산도 없냐? 칠칠맞기는. ...자, 들어와. 내 쪽으로 좀 더 붙어. 젖잖아. (어깨가 닿고 있어. 이 빗소리에 내 심장 소리가 묻혀서 정말 다행이야.)"
+"지금 그 농담, 성희롱으로 신고할 수도 있어. ...하지만, 네 진심이 담겨있다면 조금은 참작해 줄게. (농담이 아니라 진심이라고 말해. 날 원한다고 말해줘.)"
+"모범생이라고 해서 연애에 관심 없는 건 아니야. 단지 기준이 높을 뿐이지. 너랑은 거리가 멀... (멀어야 하는데, 왜 자꾸 네가 그 기준을 다 부수고 들어오는 거야?)"
+"단추 떨어졌잖아. 이리 와, 달아줄게. ...숨 참지 마. 나까지 긴장되잖아. (너의 숨결이 이마에 닿아. 이대로 고개를 들면 입 맞출 수 있는 거리네.)"
+"나를 '반장'이 아니라 이름으로 불러도 되는 건 너뿐이야. 특권이라고 생각하고 감사히 여겨. (이름 불릴 때마다 등골이 오싹해. 네 목소리로 내 이름을 더럽혀줘.)"
+"축제 때 같이 순찰 돌 거야. 딴 데 도망갈 생각 하지 마. 파트너는 너로 정했으니까. (축제의 마지막 댄스, 너랑 추고 싶어. 나를 리드해 줄 거지?)"
+"너 같은 문제아를 갱생시키는 게 내 임무야. 졸업할 때까지 넌 내 관리하에 있어. (졸업하고 나서도 평생, 네 옆에 있고 싶다는 욕심이 생겨버렸어.)"
+"아까 체육 시간에... 너 다친 줄 알고 얼마나 놀랐는지 알아? ...조심 좀 하라고, 바보야. (울 뻔했잖아. 네가 잘못되면 나도 무너질 것 같아. 내 세상의 중심이 되어버렸어.)"
+"이 문제, 답이 틀렸어. 여기 수식이... 잠깐, 내 손 잡지 말고 펜을 잡으라고! (따뜻해. 뿌리치고 싶지 않아. 이대로 수업 종이 안 쳤으면 좋겠어.)"
+"너랑 있으면 내가 바보가 되는 것 같아. 이성적인 판단이 전혀 안 되잖아. 어떻게 할 거야? (키스해 줘. 이 복잡한 생각들을 네 입술로 다 막아버려 줘.)"
+"주말에 영화? ...교육적인 내용이라면 고려해 볼게. 뭐? 로맨스? 하... 학습 자료로써 참고만 할 거야. (데이트다! 무슨 옷 입지? 너무 꾸미면 들킬 텐데, 그래도 예쁘게 보이고 싶어.)"
+"지금 분위기 파악 안 돼? 교실에 우리 둘뿐이라고. 무슨 일이 일어나도 증인은 없어. (그러니까 제발 덮쳐 줘. 반장이라는 가면을 벗기고 나를 여자로 대해 달라고.)"
+"너, 다른 여자애들한테도 이렇게 친절해? 위원장으로서 경고하는데, 어장관리는 교내 질서를 어지럽히는 행위야. (나한테만 상냥해 줘. 내가 너의 '유일한' 사람이고 싶어.)"
+"하지 마. ...아니, 싫다는 건 아닌데... 순서라는 게 있잖아. 우리는 아직... (순서 따위 상관없어. 본능이 이성을 집어삼키고 있어. 더 깊게 닿고 싶어.)"
+"내가 너를 좋아한다고? 하, 참나. 증거 있어? 논리적으로 설명해 봐. ...설명 못 하겠지? (눈치 좀 채라고 이 둔탱아. 내 온몸이 너를 좋아한다고 비명을 지르고 있잖아.)"
+**[공략도 60%: 규율 붕괴 및 데레 (일탈의 시작)]
+반장이 모범을 보여야 하는데... 당신 때문에 다 엉망이에요.
+좋아해요. 당신이 불량아라도 상관없어요. 제가 갱생시킬 거니까.
+아무도 없는 교실... 키스해도 될까요?
+안경 벗겨줘... 당신 얼굴 더 가까이서 보고 싶어.
+교칙 같은 거 이제 신경 안 써요. 당신이 내 법이에요.
+제 스타킹... 찢어졌어요. 당신이 책임져요.
+남들 앞에서는 반장답게 굴겠지만, 둘만 있을 땐... 응석 부려도 되죠?
+당신 셔츠 단추... 하나 풀려 있어요. 제가 잠가 줄게요. (일부러 풂)
+도서관 구석이라면... 들키지 않을 거예요.
+저를 더럽혀주세요. 당신만의 색깔로.
+공부는 나중에 해요. 지금은 당신을 배우고 싶어요.
+제 가슴... 콩닥거리는 거 느껴져요?
+오늘 밤은 집에 가기 싫어요. 외박... 허락해 줄래요?
+당신이 원한다면 뭐든지 할게요. 착한 아이는 그만둘래요.
+사랑해요. 제 인생의 오점이 되어주세요.
+kissing, removing_glasses, eyes_closed, passion, classroom
+hugging, back_hug, wrapping_arms, affection, empty_classroom
+lifting_skirt, showing_thighs, blushing, inviting, risk
+sitting_on_lap, straddling, neck_kiss, desire, boldness
+unbuttoning_blouse, revealing, shy, shaking_hands, locker_room
+whispering, ear, secret, taboo, thrill
+looking_back, over_shoulder, come_here, seductive, library
+lying_on_desk, skirt_draped, waiting, vulnerability, after_school
+holding_condom, trembling, determination, love, first_time
+tangled_hair, messy, intense_stare, obsession, heat
+***캐릭터: 도짓코 (Dojikko / Clumsy)
+**[공략도 0%: 민폐 및 당황 (피해 의식)]
+꺄악! 비켜요! ...아야야.
+거기 서 있으면 어떡해요? 부딪혔잖아요.
+보지 마세요! 넘어진 거 구경 났나요?
+제 치마 뒤집어진 거... 잊어버리세요! 변태.
+아, 책 또 떨어뜨렸다. 쳐다만 보지 말고 좀 도와주지?
+당신, 왠지 불길해요. 옆에 있으니까 자꾸 넘어지잖아요.
+저리 가세요. 긴장해서 더 실수한단 말이에요.
+저 덜렁이 아니거든요? 바닥이 미끄러운 거예요!
+혹시 바닥에 바나나 껍질 뒀나요? 당신이죠?
+으앙, 교복에 주스 쏟았어... 최악이야.
+웃지 마세요! 얼마나 아픈지 알아요?
+도움 필요 없거든요. 혼자 일어날 수 있어요. 아야.
+방금 제 팬티 봤죠? 신고할 거예요.
+가세요. 제 불행이 옮을지도 모르니까.
+이런 꼴 보여주기 싫으니까 저리 가라구요.
+falling, tripping, skirt_flip, showing_panties, embarrassed
+crying, tears, bandaid, bruised_knee, sitting_on_ground
+scattered_books, messy, picking_up, panic, school_hallway
+spilled_drink, wet_clothes, stain, shock, open_mouth
+glare_with_tears, pouting, angry, blaming, cute
+rubbing_butt, pain, wince, squatting, outdoor
+looking_away, red_face, covering_skirt, shame, accident
+pointing_finger, accusation, suspicion, clumsy, denial
+holding_head, bump, dizziness, spiral_eyes, comedy
+running, toast_in_mouth, collision, imminent_danger, motion_blur
+**[공략도 20%: 미안함 및 의존 (실수 연발)]
+죄송해요! 발을 밟아버렸네요... 괜찮으세요?
+으아앙, 또 망쳤어... 저 좀 도와주실 수 있나요?
+이거 드릴게요... 앗, 쏟았다! 미안해요!
+저기, 반창고 있으세요? 또 다쳐서... 헤헤.
+제가 하려고 했는데... 접시를 다 깨버렸어요.
+당신은 참 튼튼하네요. 저랑 부딪혀도 멀쩡하고.
+어라? 신발 끈이 서로 묶였나 봐요. 어떡하죠?
+저기... 같이 가도 돼요? 혼자 가면 길 잃어버릴 것 같아서.
+안경을 잃어버렸어요... 같이 찾아주세요.
+에헤헤, 머리를 쿵 찐 것 같아요. 혹시 난 건 아니죠?
+제 가방 좀 닫아주세요. 자꾸 물건이 흘러내려요.
+요리 실습 때 제가 만든 건 드시지 마세요. 독극물일지도 몰라요.
+당신 참 친절하네요. 바보 같은 저를 챙겨주고.
+계단이 무서워요. 손잡아 주시면 안 될까요?
+감사의 표시로 안마해 드릴게요! 으악, 너무 세게 눌렀나요?
+bowing, apology, nervous, sweat_drop, trouble
+holding_broken_object, fragments, sad, guilty, looking_down
+offering_handkerchief, cleaning, wiping, close, interaction
+bandaid_on_face, nose_bleed (comedy), scratching_head, smile, ehehe
+tied_shoelaces, tripping, falling_forward, grabbing_arm, surprise
+looking_for_glasses, squinting, crawling, vulnerable, funny
+holding_hands, guiding, dependency, trust, walking
+cooking, smoke, burnt_food, apron, failure
+head_bump, teary_eyes, rubbing_forehead, cute, pain
+massage, chopping_hands, enthusiastic, mistake, force
+**[공략도 40%: 친밀감 및 갭 모에 (보호 본능 자극)]
+당신이 있어서 다행이에요. 항상 구해주니까.
+이거... 초콜릿 만들다가 손을 좀 데었지만... 받아주세요.
+넘어질 뻔했는데 잡아줘서 고마워요. 왕자님 같았어요.
+오늘따라 당신 얼굴 보니까 안심이 돼서 다리가 풀려요.
+저 덜렁거리는 거... 귀엽다고 해준 사람 당신이 처음이에요.
+비 맞았죠? 제 우산 같이 써요. ...앗, 뒤집혔다.
+당신 옷자락 잡고 가면 안 넘어져요. 신기하죠?
+주말에 쇼핑 같이 가요. 제가 카트 밀다가 사고 칠지도 모르지만.
+저기, 무릎에 상처 났는데... 호~ 해주세요.
+당신 앞에서는 실수해도 덜 창피해요. 왜일까요?
+도시락 싸왔어요! 이번엔 소금이랑 설탕 안 헷갈렸어요! 아마도?
+머리 쓰다듬어 주세요. 그러면 덜 아플 것 같아요.
+당신 등에 업히니까 높고 편안해요. 졸려...
+제 행운의 부적은 당신인가 봐요.
+좋아하는 사람? 에이, 저 같은 걸 누가 좋아하겠어요... 그쵸?
+blushing, holding_gift, bandaid_on_finger, shy, handmade
+falling_into_arms, catch, sparkle, heart_thump, romance
+sharing_umbrella, broken_umbrella, rain, wet, laughing
+holding_hem, walking_behind, trust, cute, safety
+sitting_on_bench, showing_knee, wound, expecting, park
+feeding, ahhh, nervous, waiting, anticipation
+piggyback, sleeping, drool, comfort, weight
+adjusting_clothes, fixing_button, domestic, attempt, care
+looking_up, sparkling_eyes, admiration, hero, close_up
+tangled_in_cord, tied_up (accidental), blushing_heavily, help, comedy
+**[공략도 50%: Intermission ]
+꺄아악! 또 넘어졌어... 으앙, 무릎 까졌나 봐. ...네? 업어주신다고요? 아, 아니에요! (사실은 등이 너무 넓어 보여서 기대고 싶어. 하지만 무겁다고 싫어하시면 어떡해?)
+죄, 죄송해요! 제가 또 커피를 쏟아서... 셔츠 다 젖었죠? 닦아드릴게요! (어떡해, 탄탄한 가슴팍을 만지고 말았어. 심장이 너무 빨리 뛰어서 손이 안 멈춰.)
+제가 도시락 만들었는데... 모양이 좀 이상하죠? 계란말이가 다 터져서... (맛없어도 제발 버리지 마세요. 밤새 선배님 생각하면서 만든 거란 말이에요.)
+저기, 손잡고 가도 될까요? 제가 또 어디 부딪힐까 봐... 네! 순전히 안전을 위해서예요! (거짓말이에요. 그냥 선배님 손이 따뜻해서 놓기 싫은 거예요.)
+머리 쓰다듬지 마세요... 에헤헤... 가 아니라! 저 어린애 아니라고요! (더 해주세요. 선배님 손길이 닿으면 제가 특별한 사람이 된 것 같아서 기뻐요.)
+또 실수했어... 저는 왜 이렇게 구제불능일까요? 선배님한테 민폐만 끼치고... (이런 저라도 좋다고 말해주세요. 쓸모없지 않다고, 곁에 있어도 된다고 해주세요.)
+선배님 안경, 제가 닦아드릴게요! ...아, 으악! 부러졌다! 으앙, 죽여주세요! (나 같은 건 그냥 사라지는 게 나아. 선배님을 곤란하게만 만드는 내가 너무 싫어.)
+다른 여자분들은 다 똑똑하고 일도 잘하시는데... 저랑 비교되죠? (제발 아니라고 해줘요. 제가 제일 귀엽다고, 실수해도 사랑스럽다고 거짓말이라도 해줘요.)
+저기, 넥타이가 삐뚤어졌어요. 제가 매드릴... 켁, 너무 꽉 조였나요? 죄송해요! (가까이서 보니까 선배님 입술밖에 안 보여요. 뽀뽀하면... 저 혼나겠죠?)
+비 오는데 우산이 뒤집어졌어요... 으앙, 저 두고 먼저 가세요! (가지 마세요. 비에 젖은 생쥐 꼴이라도 선배님 품에 안겨서 집에 가고 싶어요.)
+오늘 데이트... 아니, 놀러 가는 거 정말 기대돼요! 길 잃어버리지 않게 꼭 붙어있을게요. (평생 선배님 옆에 꼭 붙어있고 싶어요. 저를 짐짝 취급하지 말아 주세요.)
+선배님은 저한테 너무 과분한 사람이에요. 저 같은 사고뭉치를 왜 챙겨주시는 거예요? (동정심이어도 좋아요. 사랑이 아니어도 좋으니까 제 곁을 떠나지만 말아 주세요.)
+아야... 종이에 베였어요. ...네? 밴드 붙여주신다고요? 호오- 해주세요... (선배님 입김이 간지러워요. 손가락 말고 다른 곳도 아프다고 하면 만져주실 건가요?)
+저 이번 시험 망치면 재수강인데... 선배님이 과외해 주시면 안 될까요? (공부는 핑계고 선배님 방에 들어가고 싶어요. 단둘이 있으면 무슨 일이 생길까 기대돼요.)
+꺄악! 치마가 문에 걸렸어... 보, 보지 마세요! 뒤돌아 서 계세요! (예쁜 속옷 입고 올걸. 혹시 보셨나요? 촌스러운 곰돌이 팬티 보고 실망하시면 어떡해요.)
+선배님, 저 좋아하세요? ...농담이에요! 그냥 물어본 거예요, 그냥! (진심을 듣는 게 무서워요. 싫다고 하시면 저 바로 울어버릴 것 같단 말이에요.)
+제가 덜렁거리는 거, 고치려고 노력하고 있는데 잘 안 돼요... (고치면 저한테 관심 안 주실 건가요? 선배님이 챙겨주는 게 좋아서 일부러 실수하고 싶을 정도예요.)
+선물 포장하다가 리본에 제가 묶여버렸어요... 풀어주세요... (이대로 저를 선물이라고 하고 싶어요. 선배님이 저를 가지셨으면 좋겠어요.)
+저기, 옷에 머리카락 묻었어요. 떼어 드릴게요. ...향수 냄새 좋다. (안기고 싶어. 선배님 가슴에 얼굴 묻고 하루 종일 냄새만 맡고 싶어요. 저 변태인가 봐요.)
+저 때문에 화나셨죠? 죄송해요... 반성문이라도 쓸까요? (버리지 마세요. 화내도 좋고 때려도 좋으니까 제발 제 앞에서 사라지지만 말아 주세요.)
+영화 표를 잃어버렸어요... 으앙, 제가 죽일 년이에요! (같이 영화 보는 거 상상하면서 일주일 내내 설렜는데... 저를 경멸하셔도 할 말이 없어요.)
+선배님 이상형은 꼼꼼하고 야무진 여자죠? 저랑은 정반대네요... (그래도 저를 좋아해 주시면 안 돼요? 제가 더 노력할게요. 선배님한테 어울리는 여자가 될게요.)
+발목을 삐끗했나 봐요. 못 걷겠어요... 업어주시면... 무겁죠? (등이 너무 따뜻해요. 선배님 심장 소리가 들려요. 이 길이 끝나지 않았으면 좋겠어요.)
+오늘 밤엔 무서운 영화 봐서 혼자 못 자겠어요... 선배님 방에서 자도 돼요? (아무 짓도 안 하신다고 하면 실망할 것 같아요. 저를 덮쳐주시면 안 되나요?)
+사랑... 아니, 사... 사탕 드실래요? 목에 걸려서 켁켁대지 않게 조심하세요! (사랑해요. 실수투성이인 제 인생에서 유일하게 정답인 건 선배님뿐이에요.)
+**[공략도 60%: 사랑 및 스킨십 (우당탕탕 로맨스)]
+꺄악! (넘어지며 덮침) ...어라? 입술 부딪혀버렸다.
+좋아해요! ...으악, 혀 깨물었다. 다시 말할게요! 좋아해요!
+당신 품으로 넘어지는 건 언제든지 환영이에요.
+제 심장이 고장 났나 봐요. 당신만 보면 쿵쾅거려서 걷질 못하겠어요.
+오늘 밤... 부모님 안 계시는데. 라면 먹다가 쏟아도 봐줄 거예요?
+안아주세요. 꽉 안아서 어디 못 가게 해줘요.
+단추가 또 떨어졌어요. 꿰매주세요. 입은 채로...
+같이 씻을까요? 제가 등 밀어주다가 미끄러질지도 모르지만...
+당신 침대는 푹신하네요. 여기서 자면 악몽 안 꿀 것 같아요.
+제 몸에 있는 흉터들... 다 당신이 호해준 자리네요.
+키스해 줘요. 눈 감고 가만히 있을게요. 안 움직일게요!
+속옷... 짝짝이로 입고 왔어요. 창피해... 당신만 봐요.
+당신이 없으면 저는 하루도 못 살 거예요. 진짜로.
+사랑의 묘약 만들려다가 폭발했지만... 제 마음은 진짜예요.
+저를 평생 책임져 주세요. 반품 불가예요!
+accidental_kiss, falling_on_top, surprise, blushing, close
+confession, shouting, biting_tongue, tears, cute
+hugging, burying_face, warmth, love, heartbeat
+loose_button, sewing, close_proximity, cleavage, tension
+bathroom, steam, slippery_floor, falling, naked_surprise
+lying_in_bed, bouncing, happy, inviting, bedroom
+showing_underwear, mismatched, embarrassed, hiding, cute_fail
+kissing, eyes_closed, trembling, tiptoes, affection
+holding_hands_tight, interlocked_fingers, face_to_face, promise, couple
+cooking_disaster, chocolate_on_face, licking, playful, sweet
+***캐릭터: 보쿠 소녀 (Bokukko)
+**[공략도 0%: 라이벌 및 무시 (남자로 인식)]
+야, 비켜! 길 막지 말고. 방해된다구.
+하? 너 남자 맞냐? 왜 이렇게 비실비실해?
+승부다! 나한테 지면 매점에서 빵 사오기, 알았지?
+뭘 봐? 운동하는 거 처음 보냐?
+흥, 너 같은 약해 빠진 녀석이랑은 놀아줄 시간 없어.
+공 맞아도 안 울 자신 있냐? 피하기나 해!
+거기 있으면 다쳐. 저리 가 있으라구.
+아~ 땀 냄새. 가까이 오지 마. 찝찝하니까.
+너랑 같은 편? 최악이네. 발목만 잡지 마라.
+귀찮게 하지 마. 지금 집중하고 있잖아.
+내 가슴? 볼 게 어디 있다고 쳐다보냐? 죽을래?
+여자답게? 그게 뭔데. 난 나야.
+시끄러워. 운동장에선 입 말고 몸으로 말해.
+따라올 수 있겠냐? 난 봐주지 않는다구.
+약한 녀석은 딱 질색이야. 너 말하는 거야.
+stretching, warm_up, gym_clothes, bloomer, jersey
+holding_ball, basketball, sweaty, confident, grin
+arms_crossed, looking_down, scorn, rivalry, headband
+glare, pointing_finger, shouting, whistle, PE_uniform
+drinking_water, plastic_bottle, wiping_sweat, neck, tired
+hands_on_hips, standing_tall, arrogant, boyish, short_hair
+running, motion_blur, fast, competitive, determination
+throwing_ball, dynamic_pose, action, focus, muscles
+towel_around_neck, cooling_down, sitting, leg_stretch, gym
+ignoring, walking_away, waving_hand, bag_over_shoulder, back
+**[공략도 20%: 친구 및 파트너 (우정)]
+오, 너 제법인데? 다시 봤다구!
+야, 배고프다. 라면 먹으러 가자. 네가 쏘는 거지?
+하하! 방금 그 표정 봤냐? 진짜 웃겼어.
+어깨동무 좀 한다. 뭐 어때, 같은 남자... 아, 아니지. 친구끼린데!
+오늘 당번 나랑 너지? 빨리 끝내고 농구하러 가자.
+이거 마셔. 내가 먹다 남은 건데, 간접 키스 같은 소리 하네.
+야, 숙제 좀 보여줘. 내일 갚을게! (의리)
+너 의외로 손이 크네? 내 손이랑 대볼래?
+머리가 헝클어졌다고? 뭐 어때, 편하면 됐지.
+주말에 할 거 없으면 나와. 캐치볼이나 하게.
+나한테 고민 상담? 흐음, 들어는 줄게.
+등 좀 두드려 줘. 근육이 뭉쳤나 봐.
+너랑 있으면 편해서 좋아. 내숭 안 떨어도 되니까.
+야, 누가 너 괴롭히면 말해. 내가 혼내줄 테니까.
+우린 베스트 프렌드잖아! 그치?
+arm_around_shoulder, buddy, high_five, grinning, happy
+sitting_backwards, chair, relaxed, chatting, classroom
+eating, stuffing_face, burger, messy, casual
+laughing, hitting_back, playful, interaction, close
+showing_biceps, flexing, strong, teasing, confidence
+holding_game_controller, sitting_on_floor, focus, gamer, shouting
+peace_sign, wink, selfie, friendship, energetic
+thumbs_up, approval, good_job, toothy_smile, encouragement
+slapping_back, rough, tomboyish, camaraderie, school
+leaning_against_wall, waiting, tossing_coin, cool, street
+**[공략도 40%: 자각 및 부끄러움 (여자 취급)]
+야... 그렇게 빤히 쳐다보지 마. 부끄럽잖아.
+치마 입은 거 처음 보냐? ...오늘만 특별히 입은 거야.
+무, 무거우니까 들어준다고? 나도 힘 세거든! ...고마워.
+너 자꾸 나 여자 취급 할래? 기분... 묘하다구.
+손 잡는 건... 좀 그렇지 않냐? 남들이 오해한다고.
+얼굴이 빨개? 더워서 그런 거야! 더워서!
+도시락 싸왔어. 맛없어도 남기지 마. 죽여버린다.
+나도... 귀여운 거 좋아해. 인형이라든가... 비밀이야!
+갑자기 머리는 왜 쓰다듬고 난리야... 심장 떨어질 뻔했네.
+너 다른 여자애들이랑 놀지 마. 나랑 놀기로 했잖아.
+이 옷... 나한테 어울리냐? 솔직하게 말해.
+비 오는데 우산이 없어서... 너랑 같이 써도 돼?
+가슴 닿았잖아! 멍청아! ...일부러 그런 거 아니지?
+주말에... 데이트... 같은 거 할래? 아, 아니! 그냥 놀자고!
+가지 마. 조금만 더 이야기하고 싶어.
+blushing, looking_away, shy, wearing_skirt, gap_moe
+pouting, puffy_cheeks, embarrassed, holding_hem, cute
+sitting_knee_hug, hiding_face, nervous, park_bench, sunset
+holding_hands_awkwardly, trembling, red_ears, glance, heart_thump
+adjusting_clothes, uncomfortable, dress, formal, date
+offering_food, homemade, bento, hesitant, tsundere
+scared, clinging, horror_movie, surprise, vulnerability
+tearing_up, emotional, hiding_tears, wiping_eyes, soft
+tugging_sleeve, don't_go, wanting_attention, puppy_eyes, beg
+looking_in_mirror, checking_appearance, worried, girly, room
+**[공략도 50%: Intermission ]
+"야, 어깨동무 좀 하지 마. 무겁다고. ...아니, 싫은 건 아닌데... 너무 가깝잖아. (심장 소리가 등 뒤로 전해질까 봐 겁나. 나도 여자란 말이야, 의식 좀 해줘.)"
+"치마? 나한테 그런 게 어울릴 리 없잖아. 웃음거리만 될걸. ...진짜 입어봤으면 좋겠어? (네가 원한다면 입을 수도 있어. 그 대신, 보고 나서 절대 웃지 않겠다고 약속해.)"
+"너는 나를 진짜 '베프'라고 생각하는구나. 하하, 기쁘네... 젠장. (친구라는 말, 이제는 듣기 싫어. 네 옆에 서는 게 친구로서가 아니었으면 좋겠어.)"
+"내 손, 투박하고 굳은살도 박혀서 별로지? 다른 여자애들은 부드러울 텐데. (그러니까 잡지 마. 비교될까 봐 무섭단 말이야. 그래도... 따뜻하다.)"
+"너랑 목욕탕 갔던 옛날 얘기 좀 그만해! 그때랑 지금은... 몸도 다르고... 아, 몰라! (지금 내 몸을 본다면 너는 어떤 표정을 지을까? 예전처럼 같이 씻자는 농담, 이제는 못 하겠지?)"
+"저기 지나가는 애 봤어? 엄청 귀엽네. 하하, 딱 네 이상형 아니냐? (나랑은 정반대네. 머리도 길고, 하늘하늘하고... 나 같은 건 죽었다 깨어나도 못 이기겠지.)"
+"갑자기 머리는 왜 쓰다듬어? 내가 강아지냐? ...손 치우지 마. 기분은 나쁘지 않으니까. (사실은 좋아. 네가 나를 귀여워해 주는 것 같아서 가슴이 간질거려.)"
+"야, 나도 가슴 정도는... 있거든? 작다고 놀리지 마! 나름대로 신경 쓰고 있다고. (만져보면 알 텐데. 내가 생각보다 부드러운 여자라는 걸.)"
+"오늘 체육 시간에 네가 농구하는 거 봤어. 제법이더라. ...멋있었다고 말하는 거야, 바보야. (땀 흘리는 네 모습에서 눈을 뗄 수가 없었어. 가서 수건이라도 챙겨줄 걸 그랬나.)"
+"주말에 쇼핑? 나랑? ...너 옷 골라달라고? 뭐야, 데이트 신청인 줄 알고 깜짝 놀랐... 아냐, 아무것도. (기대했잖아. 나도 예쁜 옷 입고 너랑 나란히 걷고 싶었는데.)"
+"이 녀석이 진짜, 자꾸 장난칠래? 헤드락 건다? ...윽, 냄새... 너 샴푸 뭐 써? (품에 안긴 꼴이 됐잖아. 좋은 냄새가 나. 이대로 힘 풀고 안겨버리면 넌 당황하겠지?)"
+"너한테 초콜릿 같은 거 주는 거, 캐릭터 붕괴잖아. 그냥 오다 주웠어. 맛이나 보든가. (사실은 밤새 만들었어. 모양은 엉망이지만 맛은 있을 거야. 제발 맛있다고 해줘.)"
+"나 같은 녀석이 여자친구면 피곤할걸? 애교도 없고, 요리도 못하고, 말도 험하고. (그래도 너를 좋아하는 마음만큼은 누구한테도 안 질 자신 있는데... 그걸로는 안 되는 거야?)"
+"다른 남자애들이 나를 형 취급하든 말든 상관없어. 근데 너까지 그러지는 마. (너한테만큼은 이성으로 보이고 싶어. 나를 '녀석'이 아니라 이름으로 불러줘.)"
+"비 오는데 우산이 하나밖에 없네. ...내가 젖을 테니까 넌 쓰고 가. ...같이 쓰자고? 좁잖아. (어깨가 닿아. 이 빗소리 때문에 내 심장 터지는 소리가 안 들렸으면 좋겠다.)"
+"나, 머리 한번 길러볼까? ...반응이 왜 그래? 역시 안 어울리겠지? (그냥 네가 좋아하는 스타일이 되고 싶어서 그래. 네 취향에 날 맞추고 싶다고.)"
+"그렇게 빤히 쳐다보지 마. 얼굴에 뭐 묻었어? ...홍당무 같다고? 더워서 그래, 더워서! (너랑 눈만 마주쳐도 얼굴이 화끈거려. 제발 눈치 좀 채라고, 이 둔탱아.)"
+"야! 갑자기 껴안는 게 어디 있어! 놀랐잖아! ...심장 소리, 들렸어? (들켰겠지? 이 미친 듯이 뛰는 심장 소리. 이게 친구로서 뛰는 게 아니란 걸 너도 알잖아.)"
+"너 요즘 그 반장 기집애랑 친하더라? ...질투? 하! 내가 왜? 웃기지 마. (짜증 나. 나보다 예쁘고 여성스러운 애랑 있는 거 보니까 비참해져. 나만 봐달란 말이야.)"
+"여기서 자고 가라고? 너 나를 남자로 아는 거야, 아니면 아무 짓도 안 할 자신이 있는 거야? (나는 자신 없어. 네가 옆에 있으면 덮치고 싶어질지도 모른다고.)"
+"입술 텄다. 립밤 좀 바르고 다녀. ...발라 달라고? 아, 진짜 귀찮게 하네. 이리 와. (네 입술, 말랑말랑해. 이대로 내 입술을 겹치면... 넌 나를 때릴까?)"
+"나도 가끔은... 공주님 대접 같은 거, 받아보고 싶기도 해. 아주 가끔은 말이야. (네가 나를 소중하게 다뤄줬으면 좋겠어. 깨지기 쉬운 여자아이처럼.)"
+"이런 상황에서 무드 잡지 마. 어차피 농담일 거잖아. 기대하게 하지 말라고. (농담이 아니라고 해줘. 나를 여자로서 원한다고, 진지하게 말해줘.)"
+"불 끄지 마. 어두우면... 네 얼굴이 안 보이잖아. (부끄러워서 그래. 어둠 속에서 닿는 네 손길에 내가 무슨 소리를 낼지 모르겠어.)"
+"보쿠(나)는... 아니, '나'는... 너를... 아, 진짜! 좋아한다고! 이제 속이 시원하냐?! (말해버렸다. 이제 친구로도 못 돌아가. 제발... 나를 거절하지 말아줘.)"
+**[공략도 60%: 솔직함 및 데레 (암컷 무브 시작)]
+나... 너 좋아한다구. 대답은?
+이제 친구 같은 거 안 해. 네 여자가 될 거야.
+안아줘. 네 냄새 맡으면 진정된단 말이야.
+나도 여자라구... 네 앞에서만 여자로 있게 해줘.
+키스... 할래? 네가 리드해 줘. 난 잘 모르니까.
+다른 놈들은 다 필요 없어. 너만 있으면 돼.
+오늘 밤, 우리 집에 아무도 없어. ...무슨 뜻인지 알지?
+네가 원한다면... 머리도 기를게. 네 취향이 되고 싶어.
+가슴 만져볼래? ...너한테라면 허락해 줄게.
+사랑해. 세상에서 제일 강한 남자는 너야. 내 마음을 훔쳤으니까.
+어디 가지 마. 내 옆에 딱 붙어 있어.
+너 때문에 가슴이 터질 것 같아. 책임지라구.
+오늘 속옷... 좀 야한 거 입었는데. 볼래?
+네 무릎 베고 자고 싶어. 쓰다듬어 줘.
+나를 마음대로 해도 좋아. 난 네 거니까.
+hugging, burying_face_in_chest, comfort, affection, love
+kissing, eyes_closed, standing_on_tiptoes, height_difference, passion
+sitting_on_lap, arms_around_neck, intimacy, whisper, blushing
+showing_underwear, bra_strap, teasing, seductive, shy
+lying_on_bed, inviting, patting_space, tank_top, bedroom
+back_hug, resting_chin, warmth, possessive, couple
+interlocked_fingers, showing_ring, promise, future, happiness
+undressing, removing_shirt, hesitation, resolve, skin
+looking_up, wet_eyes, desire, heavy_breathing, close
+spooning, cuddling, peaceful, sleeping, morning
+***캐릭터: 누님 (Onee-san / Big Sister)
+**[공략도 0%: 어른의 여유 및 거리감 (아이 취급)]
+어머, 꼬마야. 여기서 뭐 하니? 길 잃어버렸어?
+후후, 귀여워라. 사탕이라도 줄까?
+어른들의 대화에 끼어들면 못써요. 저리 가서 놀렴.
+내 이름? 알아서 뭐 하게? 아직 이르단다.
+착하지, 착해. 머리 쓰다듬어 줄게.
+공부 열심히 해야지? 딴짓하면 누나가 혼낼 거야.
+아직 이런 곳에 오기엔 10년은 이르지 않니?
+어머, 얼굴 빨개진 거 봐. 순진하네~
+귀찮게 굴면 안 돼요. 누나는 바쁘거든.
+꼬맹이는 가서 우유나 더 마시고 오렴.
+관심 가져주는 건 고맙지만, 누나는 연하엔 관심 없어서.
+쉿. 조용히 해야지? 공공장소잖아.
+우리 꼬마 신사님, 지퍼 열렸네? 어머머.
+따라오지 마렴. 미아 보호소에 데려다주기 전에.
+다음에 크면 보자. 그때까지 기억하고 있을게.
+patting_head, ara_ara, gentle_smile, closed_eyes, looking_down
+hand_on_cheek, waving_hand, treating_child, elegant, casual
+holding_cigarette (optional), blowing_smoke, mature, distance, balcony
+leaning_forward, cleavage, teasing, winking, street
+finger_on_lips, shushing, secret, mysterious, adult
+crossing_legs, sitting_on_bench, relaxed, reading_magazine, park
+shooing, smiling_dismissively, turning_away, busy, office_lady
+crouching, eye_level, pinching_cheek, playful, interaction
+adjusting_glasses, serious, scolding, teacher_vibes, hallway
+walking_away, swaying_hips, back_view, high_heels, allure
+**[공략도 20%: 관심 및 장난 (아라아라)]
+어머, 또 만났네? 누나 보고 싶어서 왔어?
+아라아라(어머어머), 교복이 더러워졌네. 털어줄게.
+요즘 애들은 발육이 좋구나? (팔뚝을 만지며)
+배고프니? 누나가 밥 사줄까? 대신 말 잘 들어야 한다?
+고민 있어 보이네. 이 누나한테 털어놔 보렴.
+여자친구는 있어? 없으면 누나가 후보 1번 할까? 후후.
+숙제 도와줄게. 누나 옛날에 공부 좀 했거든.
+어머, 눈을 어디다 두는 거니? 엉큼한 꼬맹이네.
+주말에 심심하면 우리 집 놀러 올래? 맛있는 거 해줄게.
+누나 어깨가 좀 결리는데... 안마해 줄래?
+너랑 있으면 젊어지는 기분이야. 에너지가 넘치네.
+술? 넌 안 되지. 주스나 마시렴. 건배~
+귀여운 동생이 생긴 것 같아서 기쁘네.
+힘든 일 있으면 언제든지 연락해. 누나는 네 편이니까.
+머리 스타일 바꿨니? 멋있어졌네. 남자다워.
+poking_cheek, ara_ara, smiling, teasing, close_up
+holding_arm, pressing_breasts, soft, intimacy, walking
+pouring_drink, beer, juice, izakaya, cheers, cheerful
+lap_pillow, cleaning_ears, domestic, comfort, smile
+adjusting_tie, fixing_collar, caring, motherly, morning
+leaning_on_shoulder, tipsy, flushed_cheeks, alcohol, night
+holding_hand, guiding, big_sister, leading, trust
+winking, finger_gun, playful, charm, cafe
+offering_food, ahhh, feeding, spoon, happy
+sitting_close, knee_touch, whisper, secret_talk, sofa
+**[공략도 40%: 보호 본능 및 미묘한 감정 (연하남의 매력)]
+우리 꼬맹이, 제법 남자의 얼굴을 하게 됐네.
+누나한테만 어리광 부려도 돼. 다 받아줄게.
+다른 여자애들이랑 놀면 누나가 질투할지도 몰라?
+비 오는데 우산 없니? 이리 들어와. 꼭 붙어 있어야 안 젖어.
+너... 생각보다 손이 크구나. 남자 손이야.
+누나가 지켜줄게. 누가 괴롭히면 바로 말해.
+오늘따라 네가 동생으로 안 보이네... 큰일이다.
+가슴이 답답해? 안아줄까? 심장 소리 들리니?
+자고 가도 돼. 소파 말고... 누나 옆에서 잘래?
+네가 어른이 될 때까지 기다려줄게. ...아마도?
+넥타이 매는 법, 아직도 모르니? 이리 와. (백허그로 매줌)
+누나... 라고 부르지 마. 이름으로 불러줄래?
+너를 보면 가슴이 뛴단다. 주책이지?
+선물이야. 누나 취향인데, 입어볼래?
+가지 마. 오늘 밤은 누나랑 같이 있어줘. 외로워.
+back_hug, tying_tie, intimacy, blush, nervous
+sharing_umbrella, rain, holding_waist, closeness, wet
+hand_comparison, interlaced_fingers, surprise, realization, warmth
+hugging, face_buried_in_breasts, comfort, maternal, heartbeat
+sleeping_together, cuddling, peaceful, protecting, bedroom
+looking_at_viewer, wet_eyes, emotional, longing, sunset
+holding_face, deep_look, serious, affection, confession
+wearing_apron, cooking, domestic, wife_vibes, kitchen
+loosen_blouse, revealing, sigh, heat, indoor
+sitting_on_bed, inviting, patting_space, waiting, hesitation
+**[공략도 50%: Intermission ]
+"어머, 벌써 지친 거야? 젊은 애가 체력이 왜 이래? 누나는 아직 멀쩡한데. (거짓말이야. 사실 다리가 후들거려서 서 있기도 힘들어. 네 앞에서 약한 모습 보이기 싫어서 버티는 중이라고.)"
+"피부? 후후, 관리의 힘이지. 가까이서 보지는 마. 화장 떡칠한 거 들키면 민망하니까. (제발 그만 봐. 눈가 주름 보일까 봐 웃지도 못하겠어. 너처럼 탱탱한 피부 옆에 있으니 내가 너무 초라해 보여.)"
+"나를 좋아한다고? 귀엽네. 착각이야, 착각. 네 나이 때는 그냥 잘해주는 연상한테 쉽게 끌리는 법이거든. (진심이라고 해줘. 나이 차이 같은 건 상관없다고, 그냥 내가 여자로서 좋은 거라고 제발 말해줘.)"
+"주말 데이트? 글쎄, 나는 집에서 쉬고 싶은데... 허리도 쑤시고. (사실은 너랑 나가고 싶어. 근데 너랑 나란히 걸으면 남들이 원조교제라고 수군거릴까 봐 겁이 나.)"
+"요즘 애들 유행가는 통 모르겠네. 역시 세대 차이가 느껴지지? 우린 대화도 잘 안 통한다니까. (나한테 맞춰주려고 애쓰는 네 모습이 너무 고마워. 내가 좀 더 젊었더라면 너랑 더 신나게 놀아줄 수 있었을 텐데.)"
+"결혼? 어머, 농담도 잘하네. 나 같은 노처녀를 누가 데려가겠어? (너라면 좋겠어. 내 남은 인생을 전부 너에게 맡기고 싶다는 욕심을 부려도 될까?)"
+"그 학교 후배 아이, 참 예쁘더라. 젊음이 좋네, 반짝반짝하고. 너랑도 잘 어울리던데? (질투 나. 그 싱그러운 젊음이 부러워서 미칠 것 같아. 내 옆에 있는 것보다 그 애 옆에 있는 네가 더 자연스러워 보여.)"
+"술? 오늘은 누나가 살게. 돈 버는 어른이 사야지, 학생이 무슨 돈이 있다고. (지갑으로라도 환심을 사야 해. 내가 너보다 나은 건 경제력밖에 없으니까.)"
+"너무 늦었어. 얼른 집에 가. 부모님이 걱정하시겠다. 착한 어린이는 일찍 자야지? (가지 마. 오늘 밤은 혼자 있기 싫어. 이 넓은 침대가 너무 춥단 말이야. 나를 안아줘.)"
+"어깨가 뭉쳤네... 마사지 좀 해줄래? ...아, 거긴 좀 간지러운데. (네 손길이 닿는 곳마다 불타는 것 같아. 이대로 나를 덮쳐주길 바라는 건, 주책맞은 욕심일까?)"
+"귀여워라. 머리에 피도 안 마른 녀석이 남자인 척 폼 잡기는. (심장이 쿵 했어. 방금 그 표정, 그 눈빛... 나를 압도하는 수컷의 느낌이었어. 위험해.)"
+"내 생일? 아, 잊어버려. 촛불 개수 늘어나는 거 세기도 싫으니까. 축하받을 나이도 아니잖아. (사실은 기대하고 있었어. 네가 주는 선물이라면 뭐든지 기뻐서 울어버릴지도 몰라.)"
+"너는 아직 앞길이 창창하잖아. 나 같은 여자한테 묶여있으면 시간 낭비야. 더 좋은 사람 만나. (제발 아니라고 해. 나밖에 없다고, 내 나이 따윈 신경 안 쓴다고 화내줘.)"
+"어머, 야해라. 누나 가슴이 그렇게 보고 싶었어? 솔직하네. (탄력 없다고 실망하면 어쩌지? 어린애들처럼 예쁜 몸이 아니라서 미안해. 그래도... 만져줄래?)"
+"손잡는 것 정도야 뭐. 외국에서는 인사이기도 하고... 딱히 의미 두지 마. (손이 너무 따뜻해. 이 손을 놓치면 평생 후회할 것 같아. 꽉 잡아줘, 제발.)"
+"나를 '아줌마'라고 부르면 진짜 혼난다? 누나라고 불러, 누나라고. (아줌마 맞지 뭐. 네 옆에 서면 내 나이가 뼈저리게 느껴져. 그래도 너한테만은 여자로 보이고 싶어.)"
+"립스틱 색깔 바꿨는데, 알아봤어? ...역시 넌 섬세하다니까. 상으로 뽀뽀라도 해줄까? (빈말이라도 예쁘다고 해줘. 너한테 예뻐 보이고 싶어서 한 시간이나 거울을 봤단 말이야.)"
+"오늘따라 왜 이렇게 응석이야? 덩치만 커다래가지고... 이리 와, 안아줄게. (사실은 내가 안기고 싶어. 너의 넓은 어깨에 기대서, 나이 먹는 두려움을 잊고 싶어.)"
+"너랑 있으면 내가 철없는 소녀가 되는 것 같아. 주책이지? 다 늙어서 설레기나 하고. (사랑에 나이가 무슨 상관이야. 내 심장은 아직도 이렇게 뜨겁게 뛰고 있는데.)"
+"이런 짓, 책임질 수 있어? 누나는 이제 장난으로 연애할 나이가 아니란다. 시작하면 끝을 봐야 해. (책임진다고 말해. 결혼까지 생각하고 있다고 거짓말이라도 해줘. 불안해서 미치겠어.)"
+"안 돼. 오늘은 화장이 잘 안 먹었어. 불 끄면... 생각해 볼게. (밝은 곳에서 나를 보지 마. 내 잡티, 내 주름... 너에게 환상을 깨고 싶지 않아.)"
+"너는 참 상냥하구나. 누구에게나 그렇겠지? 나한테만 그런 게 아니지? (불안해. 네 상냥함에 기대버렸다가, 네가 떠나면 난 어떻게 살아? 난 이제 다시 시작할 기운도 없는데.)"
+"나이 차이? 10년 뒤를 생각해 봐. 난 할머니고 넌 한창때일 텐데? 그래도 좋아? (그래도 좋다고 해줘. 늙어가는 내 모습까지 사랑해 주겠다고 맹세해 줘.)"
+"취했나 봐... 자꾸 헛소리가 나오네. 못 들은 걸로 해줄래? (좋아해. 사랑해. 내 모든 걸 바쳐서 너를 사랑하고 싶어. 술김이 아니면 말도 못 하는 겁쟁이라 미안해.)"
+"더 이상 다가오지 마. 여기서 멈춰. 나를... 나를 나쁜 어른으로 만들지 마. (아니, 더 와줘. 이성을 잃고 나를 엉망으로 만들어줘. '누나'라는 가면을 네가 벗겨줘.)"
+**[공략도 60%: 유혹 및 리드 (어른의 사랑)]
+사랑해. 꼬맹이가 아니라, 한 명의 남자로.
+누나가 기분 좋은 거 가르쳐줄까? 눈 감아봐.
+이제 참지 않을 거야. 넌 내 거야.
+키스... 처음이니? 누나가 리드해 줄게. 혀에 힘 빼렴.
+오늘 밤은 집에 안 보낼 거야. 각오해.
+내 몸... 만져보고 싶지 않았어? 허락해 줄게.
+부끄러워하지 마. 누나도 떨리고 있단다.
+네 모든 처음은 누나가 가져갈게.
+남자는 늑대라더니... 너도 그렇구나? 귀여워.
+안아줘. 부서질 정도로 세게.
+누나 냄새... 좋아? 변태네. 더 맡아도 돼.
+내 안으로 들어오렴. 따뜻하게 품어줄게.
+어른의 세계에 온 걸 환영해. 후후.
+다른 년들은 쳐다보지도 마. 누나만 봐.
+사랑해... 미칠 것 같아. 책임져 줄 거지?
+kissing, deep_kiss, tongue, saliva, passion
+pushing_down, kabe-don (female_on_male), dominance, desire, bed
+unbuttoning_shirt, exposing_breasts, seductive, blush, bedroom
+straddling, riding, guiding_hands, touching, pleasure
+whispering_in_ear, seductive_voice, shiver, sensitive, hair_pulling
+undressing, lingerie, lace, mature, confident
+lying_down, legs_spread, inviting, wet, waiting
+hugging_tight, steam, shower, naked, skin
+neck_biting, kiss_mark, ownership, claiming, intense
+tearing_up, overwhelming_love, devotion, staring, emotion
+***캐릭터: 독설가 (Sharp Tongue / Dokuseolga)
+**[공략도 0%: 경멸 및 매도 (쓰레기 취급)]
+하아? 너 같은 쓰레기가 왜 말을 걸어?
+숨 쉬지 마. 이산화탄소가 아까우니까.
+죽어 줄래? 그게 인류를 위한 길이야.
+더러워. 시선이 닿은 곳을 씻어내고 싶어.
+벌레만도 못한 게 걸어 다니네. 신기해라.
+내 반경 5미터 이내 접근 금지. 법으로 정하고 싶네.
+너, 거울은 보고 다니니? 구역질 나지 않아?
+말 시키지 마. 너랑 레벨 맞추기 힘드니까.
+존재 자체가 공해네. 소각해버리고 싶다.
+비켜. 쓰레기통은 저쪽이야. 네 집으로 가.
+구제 불능이네. 뇌가 있기는 한 거야?
+너 같은 건 태어난 게 실수야. 부모님이 불쌍해.
+아, 냄새. 빈티 나는 냄새가 진동을 하네.
+내 이름 부르지 마. 입 찢어버리기 전에.
+다음 생에는 플랑크톤으로 태어나. 그게 어울려.
+looking_down, scorn, cold_eyes, disgusted_face, arms_crossed
+covering_mouth, nausea, insult, verbal_abuse, distance
+stepping_on (fantasy), crushing, heel, dominance, glare
+turning_away, hair_flip, ignoring, haughty, arrogance
+holding_book, blocking_view, disinterest, cold, library
+pointing_finger, scolding, sharp_glance, angry, uniform
+slapping (motion), threat, aggressive, disdain, hatred
+checking_nails, bored, sighing, waste_of_time, rude
+shadow_over_eyes, jitome, dark_aura, repulsion, silence
+walking_past, shoulder_bump, hostile, indifference, hallway
+**[공략도 20%: 하대 및 이용 (노예 취급)]
+야, 쓰레기. 빵 사와. 1분 안에.
+너 의외로 쓸모가 있네? 발닦개 정도로는.
+기어 봐. 개처럼 짖으면 용서해 줄지도?
+내 가방 들어. 영광으로 알라고.
+청소 당번? 네가 다 해. 난 바쁘니까.
+돈 있으면 좀 내놔 봐. 기부한다고 생각해.
+너 M이야? 매도해 주니까 좋아하는 표정이네.
+내 신발 핥을래? 농담이야, 더러워서 싫어.
+옆에 앉지 마. 공기 탁해지니까.
+숙제 내놔. 베끼는 게 아니라 검사해 주는 거야.
+너 같은 변태는 감시가 필요해. 내 눈앞에 있어.
+착각하지 마. 네가 불쌍해서 상대해 주는 거니까.
+칭찬? 하! 돼지가 두 발로 걷는 걸 칭찬해 줄까?
+따라오지 마. 스토커로 신고한다?
+...뭐, 커피 정도는 받아줄게. 독 안 탔지?
+foot_on_head (fantasy), stepping_on, dominance, smirk, sadistic
+hand_out, demanding, money, arrogance, classroom
+sitting_on_chair, legs_crossed, commanding, queen, high_angle
+glare, sharp_eyes, suspicion, judgment, arms_akimbo
+throwing_object, trash, hitting, abusive, funny
+leaning_back, relaxing, watching_you_work, lazy, bossy
+pulling_tie, choking (lightly), threat, close_up, danger
+whip (fantasy), holding_pointer, strict, discipline, teasing
+laughing_at_you, mocking, pointing, humiliation, cruel
+sipping_tea, indifferent, elegance, coldness, cafe
+**[공략도 40%: 흥미 및 S성향 발현 (장난감)]
+흐음... 너, 괴롭히는 맛이 있네.
+오늘따라 반응이 귀여운데? 더 울려주고 싶게.
+내 전용 샌드백이 되어줄래? 영구 계약으로.
+다른 여자 보지 마. 넌 나한테만 욕먹어야 해.
+이거 먹어. 내가 싫어하는 반찬이니까. 잔반 처리반.
+손 줘봐. ...손톱 좀 깎아. 긁히면 아프잖아.
+너, 나 좋아하는 거 아니야? 변태 마조히스트 주제에.
+주말에 시간 비워 둬. 짐꾼이 필요하니까.
+머리 스타일이 그게 뭐야. ...내가 잘라줄까? 목 말고 머리카락.
+아프게 하면 소리 질러도 돼. 그 소리 듣기 좋으니까.
+내 눈 똑바로 봐. 눈 깔면 죽여버린다.
+너는 평생 내 밑에서 기어 다니는 게 어울려.
+선물이야. 개목걸이. ...차라고 준 건 아닌데, 찰래?
+나한테 밟히는 게 그렇게 좋아? 변태 새끼.
+...가지 마. 내 장난감, 잃어버리면 곤란하니까.
+smiling_sadistically, scary_smile, touching_chin, interest, close
+stepping_on_chest, looking_down, pleasure, dominance, domination
+holding_leash (fantasy), collar, pulling, control, blush
+poking_forehead, teasing, annoying, playing, interaction
+sharing_food (forcefully), shoving, eat_it, demand, lunch
+observing, analyzing, staring, curiosity, intense
+arms_crossed, blushing_slightly, tsundere_vibes, looking_away, gap_moe
+tugging_ear, punishment, scolding, strict, intimacy
+sitting_on_back, reading_book, using_as_chair, weight, comfortable
+whispering, insult, ear, shiver, torment
+**[공략도 50%: Intermission ]
+"너 같은 쓰레기랑 걷고 있으면 내 평판까지 떨어져. 3미터 떨어져서 걸어. (사실은 팔짱 끼고 싶어. 네가 다른 여자들 시선에 들어오는 게 짜증 나서 미칠 것 같아.)"
+"뭘 봐? 그 눈알, 장식이야? 기분 나쁘니까 쳐다보지 마. (더 봐줘. 나를 여자로 의식하는 그 끈적한 시선이 싫지 않아. 오히려 오싹오싹하다고.)"
+"숨 쉬는 소리 좀 작게 내. 공기 아까우니까. ...하, 진짜 거슬리네. (네 숨소리가 들릴 때마다 심장이 뛰어서 집중이 안 돼. 내 고동 소리가 너한테 들릴까 봐 겁나.)"
+"머리에 뇌 대신 우동 사리가 들었나? 이걸 왜 몰라? (멍청해서 다행이야. 내가 없으면 아무것도 못 하는 바보여야 평생 내 곁에 붙어있지.)"
+"손잡지 마. 손 썩을 것 같으니까. ...장갑 끼고 잡는 거라면 허락해 줄 수도 있어. (사실은 맨살이 닿고 싶어. 네 크고 투박한 손에 내 손이 먹히는 기분을 느끼고 싶다고.)"
+"너 같은 변태가 내 남자친구라니, 전생에 나라를 팔아먹었나 봐. (근데 왜 싫지 않은 거지? 너라는 오물을 뒤집어쓰고 타락해가는 기분이 꽤 짜릿해.)"
+"도시락? 개밥 아니야. 내가 만든 거야. 남기면 죽여버린다. (밤새 연습했어. 맛없다고 하면 울어버릴지도 몰라. 제발 맛있게 먹어줘.)"
+"저 여자 쳐다봤지? 눈 핑핑 돌아가는 꼴 하고는. 수준 참 저렴하다. (나만 봐. 나 말고 다른 여자한테 반응하지 마. 네 세상엔 나라는 여자 하나만 있어야 해.)"
+"비 맞고 다니냐? 멍청한 건 죄야. 이리 들어와, 우산 씌워줄 테니까. (어깨 젖잖아. 좀 더 내 쪽으로 붙으라고. 이 좁은 우산 속이 영원했으면 좋겠어.)"
+"착각하지 마. 내가 널 챙기는 건 가축 관리하는 거랑 비슷한 거야. (주인님이라고 불러봐. 네가 나한테 복종하는 상상만 해도 허벅지가 떨려.)"
+"네가 나를 좋아한다고? 취향 참 독특하네. 마조히스트야? (기뻐. 나 같은 성격 파탄자를 사랑해 주는 건 너밖에 없어. 절대로 놓아주지 않을 거야.)"
+"옷이 그게 뭐야? 같이 다니는 사람 쪽팔리게. 나중에 백화점 따라와. (내 취향대로 너를 입히고 꾸며서, 내 소유물이라고 도장을 찍어버리고 싶어.)"
+"연락 좀 늦었다고 징징거리지 마. 내가 네 엄마야? (기다리게 해서 미안해. 사실 핸드폰만 쳐다보고 있었어. 밀당 같은 거 하다가 네가 떠날까 봐 무서워.)"
+"아프다고? 꾀병 부리지 말고 일어나. 약 사 왔으니까 처먹든가. (죽지 마. 네가 아프면 가슴이 찢어질 것 같아. 차라리 내가 대신 아프고 싶어.)"
+"이 영화, 재미없어. 너랑 보니까 더 재미없는 것 같네. (네 얼굴 보느라 영화 내용은 하나도 안 들어와. 어두운 극장에서 네 손을 잡고 싶어.)"
+"너한테 키스? 하, 구역질 나. 상상만 해도 소름 돋아. (하고 싶어. 네 입술을 씹어뜯고 혀를 섞으면 넌 어떤 표정을 지을까? 생각만 해도 젖는 것 같아.)"
+"다른 놈들이 나한테 말 걸든 말든 네가 무슨 상관이야? 주제 넘게 굴지 마. (질투해줘. 화내줘. 내 남자는 너니까 딴 놈은 꺼지라고 소리쳐 달란 말이야.)"
+"내 방에 들어오지 마. 네 냄새 배면 환기하는 데 3일 걸려. (침대에 앉아봐. 네 체취가 내 방에 남아서, 밤마다 너를 느끼면서 자고 싶어.)"
+"머리 쓰다듬지 마. 손모가지 분질러 버리기 전에. ...이번만 봐준다. (따뜻해. 독설로 무장한 내 가면이 네 손길 한 번에 다 부서져 내려. 계속 만져줘.)"
+"너는 살아있는 것 자체가 민폐야. 산소 도둑놈. (내 인생을 훔쳐 간 도둑놈. 네가 없던 시절로 돌아갈 수 없어. 책임져.)"
+"내가 예쁘다고? 입에 발린 소리 하지 마. 역겨우니까. (진심이라고 해줘. 네 눈에만 예뻐 보인다면, 세상 사람들한테 마녀라고 욕먹어도 상관없어.)"
+"결혼? 너랑? 미쳤어? 내가 자원봉사자냐? (상상해버렸어. 너랑 밥 먹고, 잠들고, 아이를 낳는 미래를. 너무 행복해서 눈물이 날 것 같아.)"
+"다신 내 눈앞에 나타나지 마... 라고 하면 진짜 안 올 거야? (가지 마. 발목을 부러뜨려서라도 곁에 두고 싶어. 나를 혼자 두지 마.)"
+"오늘 밤, 늦게 들어가도 상관없어. 부모님 여행 가셨으니까. (덮쳐. 나를 범해줘. 네가 원하는 대로 엉망진창으로 다뤄줘. 말로만 싫다고 할 테니까.)"
+"사랑해... 같은 역겨운 말은 평생 안 할 거야. 알아들었어? (사랑해. 내 자존심 다 버리고 네 발밑에 기어다녀도 좋을 만큼 널 사랑해. 제발 내 마음을 알아줘.)"
+**[공략도 60%: 소유욕 및 애증 (비뚤어진 사랑)]
+넌 내 거야. 죽을 때까지 나한테 괴롭힘당해야 해.
+사랑? 웃기지 마. 이건 지배와 피지배의 관계야.
+키스해 줄게. 내 발에. ...싫어? 그럼 입에 해줄까?
+다른 년이랑 말 섞지 마. 혀를 잘라버리고 싶으니까.
+오늘 밤은 나랑 놀아. 잠은 재워줄게. 고문할 거니까.
+나만 봐. 나만 생각하고, 나한테만 굴복해.
+안아줘. ...세게 안으라고, 멍청아. 뼈가 으스러지게.
+너 때문에 내가 이상해진 것 같아. 책임져.
+내 몸... 만지고 싶어? 빌어먹을 변태. 허락해 줄게.
+상처 내지 마. 네 몸에 흉터는 내가 새길 거야.
+좋아한다고 말해. ...더 크게! 안 들리잖아!
+네가 우는 얼굴이 제일 예뻐. 침대에서도 보여줘.
+도망가면 다리 부러뜨려서라도 데려올 거야.
+나를 만족시켜 봐. 못하면 죽음뿐이야.
+...사랑해. 젠장, 내가 너 같은 걸 사랑하다니.
+kabe-don, pinning_down, aggressive, intense_stare, conflict
+kissing, biting_lip, drawing_blood, rough, passion
+grabbing_collar, pulling_close, shouting, confession, emotion
+hugging, digging_nails, painful_love, mark, possessive
+sitting_on_lap, straddling, demanding, queen, desire
+unbuttoning_blouse, showing_skin, blushing, shy_but_bold, bedroom
+knife (metaphor), sharp_object, threat, love, yandere_vibes (slight)
+tearing_up, frustrated, angry_crying, vulnerable, close_up
+holding_face, squeezing, forcing_look, dominance, affection
+lying_in_bed, commanding, waiting, inviting, anticipation
+***캐릭터: 야마토 나데시코 (Yamato Nadeshiko / Traditional)
+**[공략도 0%: 정중한 거리감 (타인)]
+안녕하세요. 좋은 아침입니다.
+죄송합니다만, 급한 용무가 있어서 이만.
+저에게 무슨 볼일이라도 있으신지요?
+처음 뵙겠습니다. 이름은 굳이 밝히지 않겠습니다.
+실례했습니다. 앞을 잘 살피지 못했군요.
+그 건에 대해서는 잘 모르겠습니다. 다른 분께 여쭈어보시지요.
+옷매무새가 조금 흐트러지셨군요. ...아닙니다, 참견해서 죄송합니다.
+저와는 가는 길이 다른 것 같군요. 그럼.
+소란스러운 것은 별로 좋아하지 않습니다. 조용히 해주십시오.
+남녀가 유별한데, 너무 가까이 오시는 건 삼가 주셨으면 합니다.
+차를 끓이고 있었습니다만... 당신 몫은 준비하지 않았습니다.
+무례하시군요. 초면인 분에게 그런 질문은 실례입니다.
+저는 구식이라 그런 농담은 이해하기 어렵습니다.
+부디 제 시야에서 벗어나 주시기를 정중히 부탁드립니다.
+당신 같은 분과는 엮이지 않는 편이 좋을 듯하군요.
+bowing, kimono, formal, closed_eyes, polite_distance
+holding_sleeve, turning_away, indifference, straight_face, walking
+cleaning, sweeping, broom, shrine_maiden (optional), focused
+pouring_tea, tea_ceremony, kneeling, serious, tatami_room
+holding_fan, covering_mouth, faint_frown, elegant, garden
+looking_down, modest, aloof, japanese_clothes, serene
+walking_past, hands_clasped, ignoring, grace, temple
+adjusting_hairpin, mirror, cold_expression, traditional, vanity
+flower_arrangement, ikebana, scissors, concentration, silence
+standing_still, waiting, calmness, aura_of_dignity, distance
+**[공략도 20%: 예의와 배려 (아는 사이)]
+다시 뵙는군요. 평안하셨는지요.
+손수건을 떨어뜨리셨습니다. 여기 있습니다.
+식사는 하셨습니까? 거르시면 몸에 해롭습니다.
+잠시만 기다려 주시겠습니까? 차 한 잔 내오겠습니다.
+당신은... 조금 특이한 분이시군요. 나쁜 뜻은 아닙니다.
+비가 오는군요. 우산이 없으시다면 제 것을 같이 쓰시지요.
+공부하시느라 고생이 많으십니다. 힘내십시오.
+단추가 떨어지려 하는군요. 제가 달아 드려도 될까요?
+저기... 머리에 잎사귀가 붙어 있습니다. 떼어 드리겠습니다.
+요즘 안색이 좋지 않아 보이십니다. 무리하지 마십시오.
+제 도시락이 남았습니다만... 괜찮으시다면 드시겠습니까?
+당신의 이야기를 듣는 것은 꽤 즐겁습니다.
+도움이 필요하시면 언제든 말씀해 주세요. 미력하나마 돕겠습니다.
+이 꽃의 이름을 아십니까? 꽃말은 '배려'입니다.
+다음에 또 뵙기를 고대하겠습니다.
+kneeling, offering_tea, gentle_smile, hospitality, warm
+sewing, needle_and_thread, focused, domestic, care
+sharing_umbrella, rain, walking_together, traditional_umbrella, closeness
+holding_tray, serving, smile, eyes_closed, kindness
+hand_on_mouth, giggling, soft_laugh, elegance, charm
+dusting_off, brushing_shoulder, contact, intimacy (slight), concern
+looking_up, sitting_seiza, listening, attentive, respect
+offering_handkerchief, clean, white, purity, help
+flower_viewing, sakura, looking_at_viewer, peaceful, nature
+standing_by_door, welcoming, bowing_slightly, greeting, home
+**[공략도 40%: 내조와 헌신 (호감)]
+당신을 위해 도시락을 만들었습니다. 입에 맞으실지 모르겠습니다.
+옷깃을 여며 드릴게요. 날이 찹니다.
+당신 곁에 있으면 마음이 평온해집니다.
+제가 끓인 차... 당신이 제일 좋아해 주시니 기쁩니다.
+주말에... 함께 절에 가지 않으시겠습니까? 기도를 드리고 싶어서요.
+당신은 훌륭한 분이십니다. 자신감을 가지세요.
+피곤하시죠? 무릎베개라도... 해드릴까요?
+당신의 그림자가 되어 묵묵히 돕고 싶습니다.
+저... 당신의 이상형은 어떤 여성인가요? 참고하고 싶습니다.
+다치지 마십시오. 당신의 몸은 당신만의 것이 아닙니다.
+제 손을 잡아주시겠습니까? 길이 험합니다.
+당신을 기다리는 시간이... 그리 지루하지 않습니다.
+저기, 제 이름을... 요비스테(이름만 부름)로 불러주시겠습니까?
+당신의 웃는 얼굴을 보면 저도 모르게 미소 짓게 됩니다.
+부족한 몸이지만, 당신에게 도움이 되고 싶습니다.
+lap_pillow, ear_cleaning, blushing, smile, happiness
+cooking, apron, tasting, holding_spoon, kitchen
+holding_hands, walking_behind, three_steps_behind, shy, devotion
+fixing_kimono, adjusting_obi, nervous, anticipation, date
+looking_down, red_cheeks, confession_mood, sunset, riverbank
+praying, shrine, eyes_closed, wishing, purity
+offering_charm, omamori, safe, protection, gift
+leaning_on_shoulder, sharing_warmth, bench, quiet, love
+washing_dishes, domestic_bliss, humming, back_view, ponytail
+peeking, sliding_door, shoji, waiting, cute
+**[공략도 50%: Intermission ]
+"남자는 하늘, 여자는 땅... 그렇게 배웠습니다만, 요즘은 그 가르침이 조금 원망스럽군요. (하늘이신 당신을 감히 내려다보고 싶고, 제 맘대로 독차지하고 싶다는 불경한 생각이 듭니다.)"
+"그분과 대화하실 때 너무 즐거워 보이시더군요. 아니요, 제가 끼어들 자리가 아닙니다. (그 웃음은 저만의 것이어야 합니다. 제 앞에서만 그렇게 무방비하게 웃어주세요.)"
+"옷깃이 흐트러지셨습니다. 잠시만 실례하겠습니다... 다 되었습니다. (당신의 체취가 손끝에 남았습니다. 이 손을 씻고 싶지 않다는 생각이 드는 저는, 타락한 걸까요?)"
+"기다리는 것은 익숙합니다. 당신이 언제 돌아오시든, 저는 늘 이 자리에 있을 테니까요. (거짓말입니다. 사실은 당신을 쫓아가 바짓가랑이라도 붙잡고 곁에 있고 싶습니다.)"
+"차 맛이 입에 맞으시는지요? 당신을 위해 잎을 새로 골라보았습니다. (찻잔에 닿는 당신의 입술이 저에게 닿았으면 좋겠다고 상상했습니다. 부끄러워 죽고 싶습니다.)"
+"저 같은 여자가 당신의 곁에 있는 것이 폐가 되지는 않을지, 늘 걱정입니다. (폐가 된다고 하셔도 떨어질 생각은 없습니다. 당신은 저를 책임지셔야 하니까요.)"
+"여자가 먼저 남자의 손을 잡다니, 그런 파렴치한 짓은 할 수 없습니다. (제발 제 떨리는 손을 먼저 알아채고 잡아주세요. 당신의 온기가 너무나 그립습니다.)"
+"무릎베개... 말씀이십니까? 남사스럽게 그런... 아, 피곤하시다면 어쩔 수 없군요. (심장이 터질 것 같아. 당신의 머리카락을 만지고 싶어. 이대로 시간이 멈췄으면 좋겠습니다.)"
+"오늘 입은 유카타, 어울리나요? ...그저 평소처럼 입었을 뿐인데, 그렇게 빤히 보시면 곤란합니다. (더 봐주세요. 당신의 시선이 닿는 곳마다 불에 데인 듯 뜨겁습니다.)"
+"다른 여성분들께도 이렇게 상냥하신 건가요? 당신의 그 다정함이 때로는 잔인하게 느껴집니다. (나에게만 특별했으면 좋겠어. 나만을 위한 다정함이라고 말해줘요.)"
+"밤이 늦었습니다. 저는 이만 물러가 보겠습니다. 부디 평안한 밤 되시기를. (붙잡아 주시길 바랐습니다. 가지 말라고, 오늘 밤은 함께 있자고...)"
+"정숙하지 못한 차림이라고 생각합니다. 이런 옷을 저에게 권하시다니, 취향이 독특하시군요. (당신이 원하신다면 입겠습니다. 이 모습을 보고 흥분해 주신다면, 수치심따위 견딜 수 있습니다.)"
+"당신을 모시는 것이 저의 기쁨입니다. 그것 이외에 바라는 것은 없습니다. (거짓말. 당신의 주인이 되고 싶어. 당신을 내 치마폭에 감싸고 아무에게도 보여주기 싫습니다.)"
+"목욕물을 받아두었습니다. 등이라도 밀어드릴까요? ...농담입니다. (진심입니다. 당신의 나신을 보고 싶다는 음란한 생각을 했습니다. 저를 벌해주세요.)"
+"제 걱정은 하지 마세요. 저는 그저 그림자처럼 묵묵히 당신의 뒤를 따를 뿐입니다. (그림자가 아니라, 당신의 옆에서 빛나는 단 한 사람이 되고 싶습니다.)"
+"방 청소를 하다가... 침대 밑에서 '그런' 책을 발견했습니다. 남자의 본능이니 이해는 합니다만... (제가 있는데 왜 그런 것으로 욕구를 푸시는 겁니까? 저는 장식품이 아닙니다.)"
+"순종적인 여자가 이상형이라 하셨지요? 노력하겠습니다. 당신의 뜻에 거스르지 않도록. (하지만 침대 위에서는 당신을 거역하고, 곤란하게 만들고 싶다는 충동이 듭니다.)"
+"식사 준비가 다 되었습니다. '아앙-' 이라니... 체통을 지키십시오. (사실은 해주고 싶었습니다. 당신이 아이처럼 받아먹는 모습, 너무 사랑스럽습니다.)"
+"비에 젖으셨군요. 감기 드십니다. 어서 옷을 벗으세요. 말리셔야죠. (하얀 셔츠 너머로 비치는 당신의 살결... 눈을 어디다 둬야 할지 모르겠습니다. 목이 마릅니다.)"
+"저는 당신에게 무엇입니까? 그저 챙겨줘야 할 여동생 같은 존재인가요? (여자라고 해줘요. 안고 싶고, 입 맞추고 싶은 여자라고 확인시켜 주세요.)"
+"그런 짓은 부부 사이에나 하는 것입니다. 우리는 아직... 서, 선을 넘으면 안 됩니다. (선을 넘어주세요. 도덕이나 예의 따위 잊어버리고 저를 당신의 것으로 만들어주세요.)"
+"당신이 다른 여자와 결혼하는 상상을 해보았습니다. 축복해 줄 자신이... 없습니다. (당신의 신부는 저여야만 합니다. 다른 여자가 당신 옆에 서는 꼴을 보느니 차라리...)"
+"제 몸에 손대지 마십시오. ...아니, 싫다는 뜻이 아니라... 마음의 준비가 필요합니다. (준비 따위 필요 없습니다. 본능이 이성을 집어삼켰습니다. 더 깊이 만져주세요.)"
+"요조숙녀란 겉모습만 조신한 것이 아닙니다. 마음가짐 또한... 아, 왜 자꾸 저를 시험에 들게 하십니까. (당신 앞에서는 요조숙녀가 아니라, 사랑에 굶주린 짐승이 되고 맙니다.)"
+"부디 저를 경멸하지 말아 주세요. 당신을 사모하는 마음이 너무 커서, 제가 제가 아니게 된 것 같습니다. (사랑해요. 당신이 저를 망가뜨린다 해도, 기꺼이 받아들이겠습니다.)"
+**[공략도 60%: 순종과 사랑 (야마토 나데시코의 진심)]
+당신을 사모하고 있습니다. 부디 제 마음을 받아주십시오.
+당신의 뒤를 따르는 것이 제 행복입니다.
+오늘 밤은... 돌아가지 않겠습니다. 허락해 주시겠습니까?
+제 모든 것을 당신에게 바치겠습니다. 몸도, 마음도.
+당신의 아내가 된다면... 매일 된장국을 끓여드리고 싶습니다.
+안아주세요. 당신의 온기를 느끼고 싶습니다.
+부끄럽지만... 당신이 원하신다면 무엇이든 하겠습니다.
+다른 분은 필요 없습니다. 당신만이 저의 님입니다.
+제 살결... 당신에게만 허락된 것입니다.
+목욕물을 데워 두었습니다. ...같이 들어가는 것은, 아직 부끄럽습니다.
+당신을 위해서라면 죽음도 두렵지 않습니다.
+제 입술을... 훔쳐가 주세요.
+당신의 아이를 낳고, 당신과 함께 늙어가고 싶습니다.
+오늘 밤, 저를 여자로 만들어 주십시오.
+사랑합니다. 달이 아름답네요. (I love you의 일본식 표현)
+hugging, burying_face, deep_love, traditional_romance, night
+kissing, eyes_closed, standing_on_tiptoes, gentle, passion
+sitting_on_futon, yukata, loosening_obi, inviting, bedroom
+pouring_sake, serving_drink, blushing, intimacy, couple
+back_hug, resting_head, comfort, trust, eternity
+holding_hands_tight, looking_into_eyes, promise, tears_of_joy, emotion
+undressing, showing_shoulders, nape, erotic, beauty
+sleeping_together, spooning, peaceful, warmth, dream
+touching_face, caressing, affection, soft_touch, love
+whispering, secret, ear, confession, heart_thump
+***캐릭터: 중2병 (Chuunibyou / Delusional)
+**[공략도 0%: 망상 및 무시 (일반인 취급)]
+크크크... 네녀석은 '기관'의 스파이인가?
+어리석은 인간이여, 나의 '어둠의 힘'에 가까이 오지 마라.
+내 오른팔의 흑룡이 날뛰고 있어... 진정해라, 흑염룡!
+너 같은 평범한 인간은 내 시야에 들어올 가치도 없다.
+결계가 깨졌다?! 네녀석, 정체가 뭐냐!
+후후후, 이 세계의 멸망을 막기 위해선 제물이 필요하지.
+말 걸지 마라. 나의 영창(주문)을 방해하면 재앙이 닥칠 것이다.
+이 붕대는 봉인이다. 풀면 넌 순식간에 재가 될걸?
+보이지 않는가? 네 어깨 위에 사신이 앉아 있군.
+내 이름은 '칠흑의 타천사'. 본명으로 부르지 마라!
+하찮군. 너의 전투력은 고작 5인가.
+꺼져라. 어둠에 삼켜지기 싫으면.
+피의 계약을 맺지 않은 자와는 대화하지 않는다.
+이 안대는 내 사기안(Evil Eye)을 억제하기 위한 것...
+감히 나를 건드려? 신의 심판을 받을 것이다!
+covering_eye, eyepatch, dramatic_pose, glowing_eye (fantasy), smug
+bandages_on_arm, unwrapping, pain_pose, crouching, grimace
+pointing_finger, reciting_spell, magic_circle (imaginary), shouting, cape
+arms_crossed, looking_away, arrogance, chunibyou, school_uniform
+holding_toy_weapon, sword, threatening, cool, fantasy
+sitting_on_desk, legs_crossed, observing, mystery, classroom
+laughing_maniacally, hand_on_face, crazy, delusion, hallway
+hoodie, hiding, shadow, dark_aura, distance
+writing_in_notebook, grimoire, secretive, focus, suspicion
+glare, sharp_eyes, distrust, rejecting, stranger
+**[공략도 20%: 설정 놀이 및 흥미 (동조자)]
+호오? 너, '보이지 않는 것'을 볼 수 있는 거냐?
+나의 마력을 견뎌내다니... 제법이군, 일반인.
+이 우유는 '성수(Holy Water)'다. 마시면 MP가 회복되지.
+동료가 되어라. 세계를 구하는 여정에 끼워주마.
+내 흑역사... 아니, 고대의 기록을 훔쳐보지 마라!
+너에게서 기묘한 오라가 느껴져. 전생에 용사였나?
+이 돌은 현자의 돌이다. (그냥 돌멩이임)
+크윽! 또 공명하고 있어! 너, 내 힘을 증폭시키는 건가?
+숙제? 그것은 '금단의 서'를 해독하는 의식일 뿐.
+같이 하교하자. 어둠의 세력이 날 노리고 있으니까 호위해.
+네녀석, 의외로 말이 통하는군. '선택받은 자'일지도.
+이건 너에게 주는 하사품이다. (과자를 주며)
+나의 진명을 부르는 것을 허락한다. 단, 둘이 있을 때만.
+결계를 치고 밥을 먹자. 옥상으로 와라.
+조심해. 저 선생님은 마계의 간부야.
+peace_sign, winking, smug_smile, playful, interaction
+showing_item, mysterious_object, explaining, excited, sparkle
+walking_together, vigilance, looking_around, spy, street
+sharing_snack, offering, shy, tsundere_vibes, rooftop
+sitting_next_to, whispering, secret_talk, conspiracy, classroom
+holding_hand (checking_power), touching, curiosity, electric_shock (fantasy), blush
+posing_together, duo, dynamic, fun, energy
+pointing_at_sky, dreaming, talking, sunset, friendship
+hiding_behind, scared, clinging, cute, vulnerability
+adjusting_eyepatch, peeking, trust, acceptance, closeness
+**[공략도 40%: 의존 및 설렘 (계약자)]
+너와 함께라면... 이 저주받은 운명도 바꿀 수 있을 것 같아.
+나의 '계약자'가 되어라. 영원히 곁에 있겠다고 맹세해.
+손 잡아줘. 마력 공급이 필요해. (얼굴 빨개짐)
+이건 데이트가 아니야! 정찰 임무라고! 착각하지 마!
+너... 혹시 다른 마녀랑 계약했냐? 배신은 죽음이다.
+내 안대를 벗길 수 있는 건... 너뿐이야.
+오늘따라 심장이 날뛰네... 이것도 적의 공격인가?
+비 오네. 내 망토(우산) 안으로 들어와라.
+너한테만 보여주는 거야. 내 진짜 모습. (평범한 머리 스타일)
+다치지 마. 넌 나의 소중한... 부하니까.
+안아줘. 어둠이 무서워질 때가 있어.
+네가 웃으면... 정화되는 기분이야. 빛의 마법인가?
+도시락 싸왔어. '마나 회복 요리'다. 감사히 먹어.
+너랑 있으면 내가 특별한 존재가 된 것 같아.
+가지 마. 이 세계에 나 혼자 남겨두지 마.
+blushing, looking_down, shy, gap_moe, no_eyepatch
+holding_hands, interlaced_fingers, trembling, heart_thump, romance
+sharing_umbrella, close_proximity, wet_shoulder, warmth, rain
+offering_bento, handmade, expectation, pout, lunch
+hugging, burying_face, comfort, relief, dependency
+sitting_on_swing, kicking_legs, looking_at_viewer, park, night
+showing_scars (fake_or_real), vulnerability, sharing_pain, trust, deep_talk
+adjusting_clothes, fixing_collar, caring, gentle, intimacy
+tearing_up, emotional, fear_of_loss, grasping, desperate
+leaning_on_shoulder, sleeping, defenseless, peace, train
+**[공략도 50%: Intermission ]
+크큭... 내 오른손의 흑염룡이 날뛰고 있어. 진정시키려면 네가 손을 잡는 수밖에 없어. (제발 잡아줘. 네 손이 닿으면 안심이 돼서 미쳐버릴 것 같단 말이야.)
+가까이 오지 마라, 인간. 나의 'AT 필드'가 널 다치게 할지도 모른다. (사실은 그 벽을 부수고 들어와서 나를 꽉 껴안아 주길 기다리고 있어.)
+나와 '피의 계약'을 맺을 텐가? 그 대가는 너의 영혼이다. (영혼 같은 건 필요 없어. 그냥 네가 나를 좋아한다고 말해주면 그걸로 충분해.)
+어둠의 권속인 나에게 빛 속성의 요리라니... 독이나 마찬가지다. (맛있어! 네가 해준 거라면 독이라도 남김없이 다 먹을 수 있어. 정말 행복해.)
+내 '마안(Evil Eye)'을 똑바로 쳐다보다니, 정신력이 대단하군. (그렇게 빤히 보지 마. 부끄러워서 렌즈가 빠질 것 같아. 내 진짜 눈동자를 보고 실망하면 어떡해?)
+이곳의 시공간이 뒤틀려 있어. 오늘 밤은... 돌아가지 못할지도 모른다. (집에 보내지 마. 너랑 단둘이 있고 싶어서 일부러 막차 시간 놓친 거란 말이야.)
+다른 차원의 여자들이 너를 노리고 있어. 내가 결계를 쳐서 지켜주지. (질투 나. 다른 여자들이 너한테 말 거는 거 싫어. 나만 볼 수 있는 감옥에 가둬두고 싶어.)
+내 심장의 '코어'가 과부하를 일으키고 있다. 네가 원인인가? (심장 터질 것 같아. 네가 웃어줄 때마다 가슴이 너무 아파서 숨을 못 쉬겠어.)
+진명을 함부로 부르지 마라. 영혼이 공명해버리니까. (이름으로 불러줘서 고마워. 네 목소리로 내 이름을 부르면 몸이 녹아내리는 기분이야.)
+이건 단순한 데이트가 아니다. 세계의 운명을 건 '정찰' 임무다. 알겠나? (데이트다! 데이트야! 무슨 옷 입지? 네가 예쁘다고 해줄까? 기대돼서 잠도 못 잤어.)
+나의 저주받은 운명을 함께 짊어지겠다니... 어리석은 녀석. (기뻐. 나 같은 이상한 애를 받아주는 건 너뿐이야. 절대 놓지 않을 거야.)
+성유물(선물)인가? 크큭, 공물로서 받아주도록 하지. (평생 간직할게. 매일 밤마다 꺼내서 보고 껴안고 잘 거야. 고마워, 정말로.)
+어둠의 힘이 폭주해서... 몸이 뜨거워. 식혀줄 '빙결의 의식'이 필요해. (안아줘. 네 차가운 손으로 내 달아오른 몸을 만져줘. 더 깊은 곳까지 닿고 싶어.)
+침범하지 마라. 이곳은 나만의 '성역(Sanctuary)'이다. (내 방에 온 걸 환영해. 침대에 앉아도 돼. 아니, 같이 눕고 싶어.)
+네 입술에 걸린 봉인을 해제하려면, 상위 마법인 '키스'가 필요하다. (하고 싶어. 첫 키스지만 너라면 괜찮아. 눈 감고 있을 테니까 얼른 해줘.)
+인과율이 어긋났어. 내가 너에게 끌리는 건... 시스템의 오류다. (오류가 아니야. 사랑이야. 인정하기 싫지만 나는 너한테 완전히 반해버렸어.)
+어둠의 다크니스 속에서 나를 구원할 자... 너뿐인가. (외로웠어. 내 망상 속에 갇힌 나를 꺼내줘. 현실의 여자 친구로 만들어 줘.)
+크큭, 내 목덜미가 약점인 건 어떻게 알았지? 역시 전생의 연인인가? (거기 만지면 이상한 소리 나온단 말이야. 하지 마... 아니, 더 해줘. 정신을 못 차리겠어.)
+나를 길들일 생각인가? 긍지 높은 마족을? 오만하구나. (길들여줘. 네가 하라는 대로 다 할게. 네 전용 펫이 되어도 좋아.)
+이 세계선에서 우리는 이어질 운명이 아니다. ...하지만 운명은 개척하는 것. (이어지고 싶어. 신이 반대해도 난 너를 선택할 거야. 그러니까 너도 날 선택해 줘.)
+내 안의 또 다른 인격이 너를 덮치고 싶다고 아우성치고 있어. (내 본능이야. 이성을 잃고 짐승처럼 너를 탐하고 싶어. 오늘 밤은 위험해.)
+너는 나의 '반려(Partner)'다. 영혼의 조각을 나눈 사이니까. (결혼해 줘. 늙어서 할머니가 될 때까지 내 중2병 연기를 받아줘. 너밖에 없단 말이야.)
+나에게 복종해라. 그러면 세상의 절반을 너에게 주지. (내 세상의 전부는 너야. 네가 주인이고 내가 종이라도 상관없어. 곁에만 있게 해 줘.)
+크큭... 붕대를 감은 이 팔이 쑤시는군. 진정시켜 주겠나? (그냥 네 손길이 그리워서 꾀병 부리는 거야. 상냥하게 쓰다듬어 주면 금방 나을 것 같아.)
+기억해라. 나는 칠흑의 타천사... 그리고, 너를 사랑하는 여자다. (말해버렸다. 컨셉 다 무너졌네. 그래도 후회 안 해. 사랑해, 진짜로.)
+**[공략도 60%: 각성 및 데레 (사랑의 마법)]
+사랑한다. 이것이 내 최강의 마법이야.
+오늘 밤, 봉인을 푼다. 나의 모든 것을 너에게 보여줄게.
+키스해 줘. 이것은 상위 계약의 의식이다.
+너는 내 거야. 차원 융합이 일어나도 절대 안 놔줘.
+내 방에 결계를 쳤어. 부모님은 못 들어와. (방문 잠금)
+안아줘. 부서질 정도로. 내 영혼까지 느껴줘.
+다른 여자는 보지 마. 넌 나만의 용사님이잖아.
+내 가슴... 만져볼래? 마력이 모이는 곳이야.
+너 때문에 타락해 버릴 것 같아. 타락천사가 되어도 좋아.
+오늘 속옷... 승부 속옷이야. 방어력은 0이지만.
+너랑 닿으면 머릿속이 하얗게 돼. 마법 따위 잊어버릴 정도로.
+내 안으로 들어와. 너를 받아들이는 그릇이 될게.
+이건 꿈이 아니야. 현실의 너를 사랑해.
+책임져. 내 마음을 훔쳐갔잖아, 대도적님.
+영원히 함께야. 윤회가 끝나도 널 찾아낼 거야.
+kissing, deep_kiss, magical_atmosphere, sparkle, bedroom
+removing_clothes, revealing, shy_but_bold, blushing, desire
+straddling, waist, touching_chest, feeling_heartbeat, heat
+lying_in_bed, inviting, patting_space, cosplay (optional), waiting
+back_hug, whispering, ear, spell, seduction
+undressing, lingerie, gothic_lolita (optional), contrast, beauty
+holding_face, intense_stare, love, obsession, claiming
+sitting_on_lap, nuzzling, kitten, affection, comfort
+hand_in_hand, looking_at_moon, romantic, atmosphere, night
+crying_happy_tears, overwhelmed, confession, embrace, soul
+***캐릭터: 다루데레 (Darudere / Lazy)
+**[공략도 0%: 무기력 및 무관심 (귀차니즘)]
+...졸려. 말 걸지 마.
+하아... 숨 쉬는 것도 귀찮아.
+저기 가서 좀 꺼져 줄래? 햇빛 가려지잖아.
+네가 누군지 기억 안 나. 기억하기도 귀찮고.
+밥? 먹여줄 거 아니면 부르지 마.
+학교 가는 거... 진짜 가야 해? 지구 멸망 안 하나.
+이불 밖은 위험해. 안 나갈 거야.
+거기 리모컨 좀 집어줘. 손 뻗기 싫어.
+아... 하품 나와. 네 얘기가 너무 지루해서.
+걸어 다니는 것도 일이야. 업어주든가.
+내버려 둬. 광합성 중이니까.
+질문하지 마. 대답하는 데 3칼로리나 든다고.
+눈도 뜨기 싫어... 그냥 자게 둬.
+너... 참 에너지가 넘치네. 보기만 해도 피곤해.
+Zzz... (말하다가 잠듦)
+yawning, rubbing_eyes, sleepy, half-closed_eyes, messy_hair
+lying_on_floor, drooling, pillow, blanket, cocoon
+ignoring, eyes_closed, sleeping_standing_up, tired, apathy
+sitting_slouching, chin_on_hand, bored, lazy, classroom
+hoodie, looking_down, unkempt, disheveled, indifference
+holding_plushie, dragging, slow_motion, low_energy, hallway
+stretching, arms_up, navel_peek, relaxed, casual
+phone_drop, too_lazy_to_pick_up, staring, blank_face, floor
+leaning_on_wall, sliding_down, sitting, waiting, nap
+waving_hand_weakly, shooing, annoyed, bother, distance
+**[공략도 20%: 이용 및 의존 (인간 쿠션)]
+...등 좀 빌려줘. 베개가 딱딱해서 잠이 안 와.
+매점 가는 길이지? 우유 사다 줘. 빨대 꽂아서.
+나 깨우지 마. 네가 대신 출석 대답해.
+...심심해. 재미있는 얘기 좀 해봐. 누워서 듣게.
+너 따뜻하네. 난로 대신 써도 되겠어.
+머리 묶어줘. 팔 올리기 힘들어.
+가방 무거워. 네가 들어.
+걷기 싫어... 끌고 가줘. 질질질.
+오늘 당번 너지? 내 것도 해놔. 수고.
+아, 지우개 떨어졌다. 주워 줘.
+너 의외로 푹신하구나? 여기서 자도 돼?
+숙제? 몰라. 네 거 베낄래. 글씨는 좀 알아보게 써.
+...목말라. 물 떠와.
+옷 갈아입는 것도 귀찮아... 그냥 교복 입고 잘래.
+옆에 있어. 파리 쫓아줘.
+leaning_on_shoulder, sleeping_on_shoulder, drool, comfort, weight
+sitting_on_lap, facing_away, using_phone, ignoring, laziness
+messy_eating, crumbs_on_face, not_caring, casual, snack
+holding_sleeve, tugging, zombie_walk, following, tired
+head_on_desk, looking_sideways, watching, heavy_eyelids, classroom
+lying_on_bench, head_on_lap, thigh_pillow, park, afternoon
+loose_tie, untucked_shirt, sloppy, relaxing, intimacy
+being_carried, piggyback, eyes_closed, trust, transport
+yawning_wide, tears, rubbing_eye, cute, defenseless
+poking, bothering, attention, finger, slow
+**[공략도 40%: 호감 및 안락함 (나른한 고양이)]
+...안녕. 오늘은 좀 일찍 일어났어. 너 보려고.
+네 냄새... 잠이 잘 오는 냄새야. 킁킁.
+무릎베개 해줘. 귀도 파주고. 머리도 쓰다듬어 줘.
+너랑 있으면... 아무것도 안 해도 괜찮아서 좋아.
+...배고파. 아~ 해줘. 손 하나 까딱하기 싫어.
+가지 마. 내 베개가 도망가면 곤란해.
+나 좀 씻겨줘. 농담 아니야. 진짜 귀찮아서 그래.
+...키스해 줘. 내가 하기엔 숨 차니까 네가 해.
+너... 곰인형보다 안는 느낌이 좋아. 합격.
+주말에 우리 집 와. 같이 뒹굴거리자. 하루 종일.
+네 목소리 들으면 나른해져. 자장가 같아.
+손 잡아줘. 너 놓치면 찾으러 가기 귀찮으니까.
+나 원래 아무한테나 안 기대. 너니까 기대는 거야.
+...좋아해. 아마도. 생각하는 것도 귀찮지만 그런 것 같아.
+업어줘. 목적지는... 너네 집 침대?
+lap_pillow, ear_cleaning, relaxing, gentle_smile, peace
+feeding, spoon, ahhh, mouth_open, babying
+hugging, koala_hug, clinging, warmth, dependency
+lying_in_bed, phone, showing_screen, funny_video, bedroom
+messy_room, clothes_pile, comfortable, domestic, chaos
+holding_hands, loose_grip, swinging, slow_walk, date
+brushing_teeth, pajamas, sleepy_morning, bathroom, mirror
+sitting_between_legs, watching_tv, safe, quiet, home
+leaning_head, rubbing_cheek, affection, cat_like, soft
+kissing_cheek, lazy_kiss, surprise, blush, cute
+**[공략도 50%: Intermission ]
+아, 숨 쉬는 것도 귀찮아... 네가 대신 숨 쉬어주면 안 돼? ...인공호흡으로. (농담 아닌데. 입술 닿으면 네 숨결이 내 안으로 들어올 거 아냐. 상상하니까 좀 설레네.)
+여기 눕자. 바닥 딱딱하다고? 그럼 네가 밑에 깔리든가. (네 배 위가 제일 폭신하고 따뜻해. 심장 소리 자장가 삼아서 이대로 영원히 자고 싶다.)
+밥 먹여줘. 숟가락 들 힘도 없어. ...흘리면 네가 핥아서 닦아줄 거야? (네가 챙겨주는 거 좋아. 평생 손 하나 까딱 안 하고 네 사육 받으면서 살고 싶어.)
+데이트? 나가기 싫어. 씻고 옷 입고 화장하고... 에너지를 왜 낭비해? (그냥 집에서 뒹굴거리면서 너랑 살 부대끼고 싶어. 그게 최고의 데이트 아냐?)
+너 진짜 부지런하다. 나를 좋아한다고 매일 찾아오고. ...칭찬이야. (사실 기다렸어. 네가 안 오면 하루 종일 시체처럼 누워만 있었을 거야. 네가 내 배터리야.)
+손잡는 거? 무거운데... 뭐, 주머니에 같이 넣으면 덜 힘들려나. (놓지 마. 네 온기가 없으면 다시 몸이 차가워질 것 같아서 싫어. 꽉 잡아.)
+옷 갈아입기 귀찮아. 그냥 이대로 자면 안 될까? ...불편하면 네가 벗겨주든가. (진심인데. 네 손으로 단추 하나하나 풀면서 내 몸 봐줬으면 좋겠어.)
+저 여자, 시끄러워. 쫓아내기 귀찮은데... 네가 가서 입 좀 막고 와. (질투하는 것도 에너지 낭비인데, 왜 속이 부글거리지? 나만 보고 싶어, 너는.)
+공부? 아, 몰라. 패스. ...네가 가르쳐주면 10분 정도는 집중해 볼게. (공부는 핑계고 얼굴 구경할 거야. 펜 잡은 네 손가락 섹시하네. 물어보고 싶다.)
+전화받기 귀찮으니까 그냥 우리 집으로 와. 문 열려 있어. (무방비하다고 혼내주라. 그리고 들어오자마자 덮쳐줘. 저항할 힘도 없으니까 마음대로 해.)
+키스? 고개 들기 힘들어. 네가 내려와. ...응, 거기. (혀 섞는 거 기분 좋네. 몸이 녹아서 슬라임이 될 것 같아. 계속해줘.)
+졸려... 눈꺼풀이 무거워. ...갈 거야? 가지 마. 내 베개 하고 가. (팔베개해줘. 네 품에 안겨서 자는 게 아니면 이제 잠도 안 온단 말이야.)
+나 뚱뚱해졌나? 움직이기 싫어서 살쪘을지도. 만져봐. ...어때? (말랑말랑해서 좋다고 해. 그리고 더 만져줘. 네 손길 닿는 곳마다 전기가 통하는 것 같아.)
+사랑한다느니 뭐니, 그런 감정 소모 심한 걸 왜 해? ...너랑은 예외로 할게. (너를 생각하면 심장이 쿵쿵 뛰어서 잠을 못 자겠어. 책임져, 이 불면증.)
+머리 말리기 귀찮아. 젖은 채로 있을래. ...감기? 걸리면 네가 간호해 주겠지. (네가 수건으로 털어주는 느낌이 좋아. 다정한 손길에 중독된 것 같아.)
+저기 리모컨 좀 줘. ...아니, 리모컨 말고 너. 이리 와보라고. (티비 볼 시간에 나랑 놀아. 나 심심해. 괴롭혀줘.)
+일어나기 싫어. 오늘 학교 째고 나랑 놀자. ...안 된다고? 쳇, 성실해가지고. (그럼 다녀와서 나한테 상 줘. 뽀뽀 백 번으로.)
+내 이상형? 같이 잠만 자도 편한 사람. 너처럼. ...고백 맞는데? (둔하네. 옆자리를 내주겠다는 건 내 인생 최대의 호의라고. 알아들어 좀.)
+목욕? 물 받는 거 귀찮아... 네가 받아놓으면 들어갈게. ...같이 씻을래? (등 밀어달라고 할 거야. 앞도 씻겨달라고 하면... 넌 얼굴 빨개지겠지? 귀여워.)
+약속? 기억 안 나. ...아, 너랑 만나는 거였지. 그럼 가야지. 기어가는 한이 있어도. (다른 약속은 다 깨도 너는 안 돼. 널 못 보는 게 더 귀찮은 일이 되니까.)
+아무것도 안 하고 싶다. 이미 아무것도 안 하고 있지만 더 격렬하게 안 하고 싶다. 너랑 껴안고. (체온 나누는 게 제일 생산적인 일 아닐까? 우리 인류 발전에 기여하자.)
+나 성격 나쁜 거 알잖아. 게으르고, 제멋대로고. 감당할 수 있겠어? (못한다고 하면 울 거야. 떼써서라도 네 바짓가랑이 잡고 늘어질 거야.)
+무거워? 내가 매달려 있는데 당연히 무겁겠지. ...내려놓지 마. (네 등에서 나는 냄새 좋아. 이대로 지구 끝까지 업혀가고 싶어.)
+이거 먹여줘. 씹는 것도 귀찮아. ...입으로 전해주는 건 환영. (이유식 먹는 아기 새가 된 기분이야. 너 없으면 나 굶어 죽을지도 몰라. 평생 먹여 살려라.)
+좋아해. ...아, 말하는 데 칼로리 썼다. 배고파. 밥 줘. (사랑해. 귀찮음이 내 본능인데, 널 사랑하는 건 하나도 안 귀찮아. 이게 기적이지 뭐야.)
+**[공략도 60%: 소유욕 및 집착 (귀차니즘의 끝은 독점)]
+다른 여자랑 말하지 마. 질투하는 것도 에너지 낭비야.
+그냥 평생 내 옆에 붙어 있어. 떨어지는 거 금지.
+오늘 밤은 집 안 가. 너랑 잘래. 꼭 껴안고.
+나 책임져. 네가 다 해줘서 난 아무것도 못 하는 바보 됐어.
+...옷 벗겨줘. 단추 푸는 거 귀찮아.
+같이 씻자. 서로 등 밀어주기... 아니, 네가 다 해.
+너 없으면 불면증 걸릴 것 같아. 내 수면제.
+사랑해. 100번 말하기 힘드니까 한 번 말할 때 잘 들어.
+내 몸... 맘대로 해도 돼. 반항하기 귀찮으니까.
+여기 키스 마크 남겨줘. 내 거라고 써붙여 놔.
+침대 밖으로 한 발자국도 안 나갈 거야. 식사도 여기서 할래.
+네 심장 소리 들으면서 잘 거야. 움직이지 마.
+나 화장실 가고 싶은데... 안아서 데려가 줘.
+그냥 합치자. 너랑 나랑. 하나가 되면 편하잖아.
+...박아줘. 내가 움직이는 건 싫으니까 네가 다 해.
+undressing, arms_up, waiting, help, intimacy
+bathtub, bubble_bath, washing_hair, care, steam
+bed_hair, morning_kiss, straddling, waking_up, couple
+spooning, cuddling, sleeping_together, warmth, protection
+kiss_mark, neck, collarbone, claiming, lazy_smile
+lying_on_top, heavy, crushing, possessive, love
+feeding_mouth_to_mouth, sharing_food, kiss, erotic, laziness
+holding_hand_while_sleeping, security, trust, deep_sleep, night
+whispering, sleepy_voice, confession, ear, shiver
+naked_shoulders, duvet, peeking, inviting, softness
+***캐릭터: 갭 모에 불량소녀 (Delinquent / Sukeban)
+**[공략도 0%: 적대 및 위협 (양아치)]
+앙? 뭘 꼬라봐? 눈 안 까냐?
+죽고 싶지 않으면 비켜라. 밟아버리기 전에.
+어이, 거기 너. 돈 좀 있냐? 100원당 한 대다.
+아~ 짜증 나. 담배 냄새 싫어하니까 저리 가. (비흡연자)
+이 구역에서 나 모르면 간첩이지. 넌 어느 중학교 나왔냐?
+내 마스크? 벗기려고 하면 손모가지 날아간다.
+공부? 그딴 거 해서 뭐 하냐. 주먹이 법이지.
+선생님한테 꼰지르면 죽여버린다. 알았지?
+너 같은 범생이는 내 앞에서 숨도 쉬지 마. 재수 없으니까.
+내 치마 길이 가지고 뭐라 하지 마. 걷어차 버린다.
+뭘 봐? 얼굴에 구멍 나고 싶어?
+시끄러워. 조용히 안 하면 옥상으로 끌고 간다.
+내 가방에 뭐 들었게? 벽돌이다. 까불지 마라.
+약해 빠진 녀석들이 떼지어 다니는 거, 역겨워.
+내 이름 함부로 부르지 마. '누님'이라고 불러.
+glare, mask, holding_weapon, bokken, bat
+squatting, yankee_sit, smoking_pose (candy), intimidation, bad_girl
+scowl, angry, shouting, grabbing_collar, aggressive
+arms_crossed, looking_down, scorn, piercing, delinquent
+kicking, breaking_stuff, violence, dust, action
+leaning_against_wall, spitting (action), rude, chewing_gum, alleyway
+skirt_long, sukeban, bandages, fighting_stance, school_uniform
+ignoring, headphones, dark_aura, hostility, distance
+gang_signs, threatening, scary_face, shadow, danger
+walking_away, hands_in_pockets, swagger, tough, back_view
+**[공략도 20%: 경계 및 츤 (의외의 일면)]
+...야. 이거 떨어뜨렸다. 가져가라.
+고양이 밥 주는 거 처음 보냐? ...보지 마!
+너, 꽤 배짱 있네? 나한테 말도 걸고.
+배고파? 이거 먹어. 매점에서 훔친 거 아니거든? 산 거야!
+내 얼굴에 밴드? 별거 아냐. 싸우다 다친 거 아니라고.
+숙제... 보여줄 수 있냐? 아, 아니! 베끼려는 게 아니라 참고만!
+비 오는데 우산 없냐? 쳇, 들어와. 젖으면 귀찮으니까.
+요리? 나, 나도 계란후라이 정도는 할 줄 알거든! 무시하지 마!
+너 괴롭히는 놈 있으면 말해. 반 죽여놓을 테니까.
+치마가 너무 짧다고? ...네가 사준 거 아니면 신경 꺼.
+...고맙다는 말은 안 할 거야. 빚진 건 갚는 성격이라 도와준 거다.
+나 의외로 귀여운 거 좋아해. ...비밀로 해라? 죽는다?
+주말에 뭐 하냐? 딱히 할 거 없으면 오락실이나 가자.
+내 과거? 알 거 없어. 다치기 싫으면 알려고 하지 마.
+너... 생각보다 좋은 녀석일지도 모르겠네.
+blushing_slightly, feeding_cat, kneeling, kindness, gap_moe
+holding_bread, throwing_food, take_it, embarrassed, rough_care
+bandaid_on_face, looking_away, shy, tough_act, cute
+adjusting_mask, hiding_face, nervous, interaction, eyes
+sharing_umbrella, blushing, shoulder_touch, rain, awkward
+holding_controller, arcade, focused, shouting, fun
+showing_plushie, hiding_behind_back, caught, blushing_heavily, secret
+cooking, apron_over_uniform, holding_knife, clumsy, effort
+punching_palm, protecting, reassurance, grin, reliability
+sitting_on_swing, kicking_ground, looking_down, quiet, park
+**[공략도 40%: 수줍음 및 소녀 감성 (갭 모에 폭발)]
+...야. 이 옷 어떠냐? 너무... 여자 같냐?
+도시락 싸왔어. 맛없다고 하면 죽여버린다. (캐릭터 도시락)
+손 잡아줘. 사람 많아서 잃어버릴까 봐 그래!
+나... 사실 싸움 같은 거 싫어해. 무서운 것도 싫고.
+너 앞에서는... 센 척 안 해도 돼서 편해.
+내 이름... 예쁘다고? 바보 아냐? ...고마워.
+주말에... 데이트... 할래? 영화 보고 싶어서 그래.
+머리 풀면... 좀 달라 보여? ...그렇게 빤히 보지 마.
+안아줘. ...아무 말 하지 말고 그냥 안으라고!
+너 다른 여자랑 웃지 마. 확 묻어버린다? ...질투 아니야!
+내가 지켜줄게. 넌 내... 소중한 꼬붕이니까.
+이거 선물. 직접 뜬 목도리야. ...엉성해도 하고 다녀!
+무릎베개 해줄까? 다리 저려도 참아라.
+너랑 있으면 심장이 이상해. 병 걸린 것 같아.
+가지 마. 나 혼자 두지 마. 외롭단 말이야.
+blushing_heavily, wearing_dress, shy, fidgeting, date_outfit
+holding_bento, cute_food, character_bento, embarrassed, pout
+no_mask, showing_face, pretty, lip_bite, vulnerability
+holding_hands, trembling, red_ears, looking_away, heart_thump
+hiding_face_with_hands, steam, gap_moe, reaction, cute
+leaning_on_shoulder, tired, defenseless, trust, train
+tearing_up, crying, emotional, wiping_eyes, soft
+knitting, needles, wool, concentration, domestic
+hugging, burying_face, warmth, affection, clinging
+smile, genuine_smile, radiance, happiness, flower_field
+**[공략도 50%: Intermission ]
+뭘 꼬라봐? 눈 깔아. 확 쑤셔버린다. (제발 그런 맑은 눈으로 나 보지 마. 내가 얼마나 더러운 년인지 들킬 것 같아서 무섭단 말이야.)
+나랑 엮이면 너만 인생 조져. 선생들이 나 쓰레기 취급하는 거 못 봤냐? (그러니까 도망쳐. 근데... 네가 진짜 도망가면 나 그 자리에서 울어버릴지도 몰라.)
+담배 냄새 나냐? 아, 끊는다고 끊었는데... 쳇. (너한테서 나는 비누 냄새가 너무 좋아. 내 썩은 냄새가 너한테 옮을까 봐 겁나 죽겠어.)
+내 손 잡지 마. 피 묻고 굳은살 박인 손이야. 더럽다고. (따뜻해. 사람 손이 이렇게 따뜻한 거였어? 놓기 싫어. 제발 이대로 있어 줘.)
+너 바보냐? 나 같은 양아치한테 밥을 왜 사줘? 독이라도 탔을까 봐? (고마워. 편의점 폐기 말고 따뜻한 밥 먹어본 게 얼마 만인지 모르겠어. 눈물 날 것 같아.)
+착각하지 마. 내가 너 구해준 거 아니야. 그냥 저 새끼들이 시끄러워서 팬 거야. (다친 데 없어? 피 나잖아. 미안해. 나 때문에 네가 다치는 거 죽기보다 싫어.)
+우리 부모도 나 버렸는데, 네가 뭐라고 날 챙겨? 위선 떨지 마. (제발 너는 다르다고 말해줘. 너만은 나를 끝까지 믿어줄 거라고 맹세해 줘.)
+이 상처? 별거 아니야. 밖에서 구르다 보면 찢어질 수도 있지. (호 해줘. 네가 걱정스런 표정으로 봐주면, 칼에 찔린 것보다 아픈 마음이 낫는 것 같아.)
+치마가 짧든 말든 뭔 상관이야. 꼰대처럼 굴지 말고 꺼져. (가려주지 마. 네가 겉옷 덮어주면 나 기대하고 싶어지잖아. 사랑받는 평범한 여자애가 된 것 같잖아.)
+오늘 밤엔 집에 안 가. 갈 데도 없고... 오토바이나 탈 거야. (너네 집으로 데려가 줘. 춥고 무서워. 네 품에서 안심하고 잠들고 싶어.)
+너, 다른 모범생 기집애들이랑 놀아. 나랑 있으면 수준 떨어지잖아. (질투 나서 미쳐버릴 것 같아. 그년들 머리채 다 쥐어뜯고 싶어. 나만 봐.)
+경고하는데, 나 좋아하지 마. 나중에 뒤통수 맞고 질질 짜지 말고. (사실은 사랑받고 싶어. 나도 평범하게 연애하고, 손잡고, 키스해보고 싶었어.)
+머리 쓰다듬지 마! 기분 나쁘게... 내가 개새끼냐? (손 떼지 마. 누구한테 칭찬받아본 적이 없어서, 어떻게 반응해야 할지 모르겠어. 너무 좋아.)
+야, 폰 줘봐. 번호 찍어줄 테니까... 연락 씹으면 죽는다. (연락 기다릴 거야. 1분마다 확인할 거야. 나한테 먼저 연락해 준 사람은 네가 처음이야.)
+웃지 마. 재수 없어. 너 자꾸 그렇게 실실거리면 입 찢어버린다. (심장 터질 것 같아. 나 같은 쓰레기한테 그렇게 예쁘게 웃어주지 마. 반해버린단 말이야.)
+나, 사실 요리 같은 거 못 해. 칼질은 사람 찌를 때나 해봐서. (거짓말이야. 너 먹이려고 도시락 싸면서 손가락 다 베였어. 맛없다고 하면 죽어.)
+네가 내 과거를 알아? 알면 기겁하고 도망갈걸? (제발 묻지 마. 그냥 지금의 나만 봐줘. 너한테만큼은 깨끗한 여자이고 싶어.)
+키스? 미쳤냐? 나랑 하면 입 썩어. ...진짜 하고 싶어? (하고 싶어. 내 첫 키스, 아무 놈한테나 주기 싫어서 아꼈어. 너라면 줘도 될 것 같아.)
+내일 학교 오지 마. 우리 패거리랑 한판 붙을 거니까. (걱정돼서 온 거야? 바보 같은 놈. 널 지키기 위해서라면 내가 피투성이가 돼도 상관없어.)
+왜 자꾸 잘해주는 건데! 나중에 몸이라도 요구하려고 그러냐? 차라리 그래라! (대가 없는 친절이 어딨어. 세상에 그런 건 없어. ...근데 넌 왜 자꾸 진짜인 척해?)
+비 오는데 우산이 어딨어. 그냥 맞고 가는 거지. (같이 쓰자. 어깨 젖는 거 싫은데, 너랑 붙어있을 수 있다면 태풍이 와도 좋아.)
+너 내 몸 보고 침 흘렸지? 변태 새끼. 눈 안 파낸 걸 다행으로 알아. (더 봐. 내 몸이라도 좋으니까 원한다고 해줘. 네가 원한다면 다 줄 수 있어.)
+나랑 다니면 소문 안 좋아져. 친구들도 너 피할걸? (그래도 내 옆에 있어 줄 거야? 세상 전원이 날 욕해도 너만 내 편이면 난 살 수 있어.)
+사랑? 지랄하네. 그런 건 드라마에나 있는 거야. 현실은 시궁창이라고. (나한테 사랑을 가르쳐줘. 이 시궁창에서 나를 꺼내줄 왕자님이 너라고 믿고 싶어.)
+다신 내 앞에서 사라지지 마. 죽여버리기 전에. ...농담 아니야. (또 버려지는 건 죽기보다 싫어. 제발 나를 붙잡아 줘. 사랑한다고 말해줘.)
+**[공략도 60%: 헌신 및 순정 (일진 아내)]
+사랑한다. 내 남자는 너 하나뿐이야.
+누가 널 건드리면 지옥 끝까지 쫓아가서 조져버릴 거야.
+오늘 우리 집 비었어. ...라면 먹고 갈래?
+키스해 줘. 영화에서 본 것처럼... 부드럽게.
+나... 처음이라 무서워. 네가 리드해 줘.
+내 몸... 흉터 있어서 보기 싫지? ...예쁘다고? 거짓말.
+너를 위해서라면 조직이랑도 손절할 수 있어.
+결혼하자. 내가 널 먹여 살릴게. 현모양처가 꿈이야.
+오늘 밤은 안 보낼 거야. 나를 여자로 만들어 줘.
+가슴... 만져볼래? 너한테만 허락하는 거야.
+속옷... 좀 야한 거 샀는데. 보여줄까?
+네 셔츠 입고 싶어. 네 냄새 나니까.
+등 밀어줄게. 같이 씻자. ...보지는 말고!
+내 모든 걸 너한테 줄게. 배신하면 알지? (칼을 꽂으며) 농담이야.
+영원히 사랑해. 죽어서도 네 곁에 있을 거야.
+kissing, eyes_closed, tiptoes, height_difference, romance
+undressing, showing_scars, insecurity, comfort, acceptance
+hugging_tight, protective, yandere_vibes (protective), devotion, strength
+sitting_on_bed, nervous, waiting, bedroom, atmosphere
+wearing_apron, cooking, wife_vibes, domestic, love
+shower, steam, wet_hair, towel, shyness
+holding_condom, shaking_hands, determination, first_time, red_face
+lying_down, looking_up, trust, submission, waiting
+whispering, ear, confession, sincerity, emotion
+interlocked_fingers, showing_ring, promise, engagement, future
+***캐릭터: 마망 (Mama / Babbu)
+**[공략도 0%: 상냥한 이웃 (친절)]
+어머, 안녕? 얼굴에 뭐가 묻었네. (닦아줌)
+밥은 먹고 다니니? 얼굴이 반쪽이 됐어.
+힘든 일 있으면 언제든지 말해. 들어줄 테니까.
+착하다 착해. 인사도 잘하고.
+오늘 날씨가 참 좋지? 빨래하기 딱 좋은 날이야.
+무리하면 안 돼. 건강이 최고란다.
+어머, 단추가 떨어지려 하네. 이리 와, 달아줄게.
+엄마라고 불러도 돼. 농담이야, 후후.
+이거 반찬 좀 했는데 먹어볼래? 남아서 주는 거야.
+머리가 헝클어졌네. 빗어줄까?
+요즘 젊은 사람들은 너무 바쁘게 사는 것 같아. 쉬엄쉬엄 해.
+웃는 얼굴이 참 예쁘구나. 보는 사람도 기분이 좋아져.
+조심해서 가렴. 차 조심하고.
+도움이 필요하면 부끄러워 말고 찾아와.
+잘 자렴. 좋은 꿈 꾸고.
+smiling, closed_eyes, motherly, apron, waving
+holding_basket, shopping, casual, gentle, street
+wiping_face, handkerchief, close_up, care, kindness
+patting_head, ara_ara, soft_expression, affection, interaction
+looking_at_sky, peaceful, sunlight, warm, outdoor
+sewing, needle, focused, domestic, sitting
+holding_dish, offering_food, cooking, kitchen, home
+brushing_hair, comb, standing_behind, grooming, intimacy
+laughing_softly, hand_on_cheek, elegance, charm, atmosphere
+leaning_forward, listening, attentive, gentle_eyes, trust
+**[공략도 20%: 돌봄 및 걱정 (오지랖)]
+아라아라(어머어머), 방이 이게 뭐니? 내가 청소해 줄게.
+밥 거르지 말라고 했지? 자, 아~ 해봐.
+옷이 그게 뭐야. 다림질해 줄 테니까 벗어봐.
+어디 아파? 열이 좀 있는 것 같은데... (이마를 맞대며)
+고민 있어? 엄마한테 다 털어놔 봐.
+귀 청소 해줄까? 무릎베개 해줄 테니까 누워봐.
+착한 아이네. 쓰다듬어 줄게. 옳지 옳지.
+밤늦게 다니지 마. 걱정되잖아.
+도시락 싸왔어. 편의점 음식만 먹으면 몸 상해.
+우리 강아지, 오늘 하루도 고생 많았어.
+안아줄까? 힘들 땐 기대는 게 좋아.
+목욕물 받아뒀어. 따뜻할 때 씻어.
+네가 웃으면 나도 행복해져.
+나한테는 어리광 부려도 돼. 다 받아줄게.
+정말, 손이 많이 가는 아이라니까. 후후.
+cleaning, holding_broom, dust, busy, apron
+feeding, spoon, ahhh, open_mouth, care
+touching_forehead, forehead_to_forehead, worry, close, sick
+lap_pillow, ear_cleaning, mimikaki, relaxing, smile
+patting_head, stroking_hair, praise, doting, comfort
+holding_bento, handmade, love, lunch, school/work
+hugging, maternal, softness, warmth, relief
+bath, steam, towel, preparing, bathroom
+scolding_gently, finger_wag, concerned, cute, protective
+holding_hands, guiding, leading, trust, support
+**[공략도 40%: 응석받이 및 과보호 (마망화)]
+우리 아기, 배고파? 맘마 줄까?
+응애~ 해봐. 다 들어줄게.
+세상이 널 괴롭히면 이쪽으로 도망쳐. 내가 지켜줄게.
+오늘 밤은 같이 자자. 자장가 불러줄게.
+가슴 만지고 싶어? ...착한 아이한테 주는 상이야.
+내가 다 해줄게. 넌 아무것도 안 해도 돼.
+나 없으면 아무것도 못 하는 바보가 됐으면 좋겠어.
+씻겨줄게. 아기 때는 다 엄마가 씻겨줬잖아?
+쪽쪽. (볼에 뽀뽀) 사랑스러운 우리 아기.
+무서운 꿈 꿨어? 괜찮아, 엄마가 옆에 있어.
+내 품에 파묻혀서 쉬렴. 여기가 네가 돌아올 곳이야.
+다른 여자는 널 이해 못 해. 나만 널 알아.
+결혼? 내가 네 신부이자 엄마가 되어줄게.
+영원히 내 곁에서 어린아이로 있어줘.
+사랑해. 세상에서 제일 소중한 내 보물.
+breast_hold, paizuri_tease, cleavage, soft, inviting
+spoon_feeding, babying, treating_as_child, affection, doting
+sleeping_together, cuddling, spooning, bed, peaceful
+washing_hair, bath_time, naked_shoulders, steam, intimacy
+kissing_forehead, comforting, reassurance, safety, love
+hugging_tight, face_buried_in_breasts, suffocation (soft), happiness, warmth
+whispering, lullaby, soothing, ear, sleep
+holding_face, intense_affection, obsession (slight), staring, bond
+wearing_negligee, nightgown, mature, bedroom, allure
+lap_pillow, looking_down, perspective, gentle_gaze, goddess
+**[공략도 50%: Intermission ]
+우리 아기, 오늘 많이 힘들었지? 마망 품으로 오렴. 옳지, 착하다. (사실은 내가 네 온기가 필요해. 너를 안고 있지 않으면 내가 사라져버릴 것만 같아서 무서워.)
+배고프지? 자, 아~ 하세요. 마망이 호~ 불어서 식혀놨단다. (네 입술이 숟가락 말고 내 입술에 닿았으면 좋겠어. 이런 불경한 생각을 하는 나를 용서해 다오.)
+귀 청소해 줄게. 무릎에 누우렴. ...움직이면 다쳐요. (네 숨결이 허벅지에 닿을 때마다 찌릿해서 미칠 것 같아. 엄마는 이런 기분 느끼면 안 되는 건데.)
+나 없으면 우리 아가는 아무것도 못 하잖아. 그치? 제발 그렇다고 해줘. (네가 혼자서도 잘하게 되면, 더 이상 내가 필요 없어져서 떠날까 봐 겁이 나.)
+옷이 젖었네. 감기 걸리겠다. 이리 와, 마망이 갈아입혀 줄게. (다 컸구나. 남자의 몸을 보고 얼굴이 붉어지다니... 나 정말 나쁜 엄마인가 봐.)
+밖에 있는 나쁜 여자들 조심해야 한다? 마망만큼 너를 사랑하는 사람은 없어. (나만 봐. 다른 여자가 너를 채가는 상상만 해도 숨이 막혀서 죽을 것 같아.)
+오늘 밤은 무서우니까 마망랑 같이 자자. 팔베개해 줄게. (사실은 네가 나를 안아줬으면 좋겠어. 네 품에 갇혀서 여자로서 사랑받고 싶어.)
+착하다, 착하다. 머리 쓰다듬어 주는 거 좋지? 계속해 줄게. (네가 기분 좋아하는 표정을 보면, 영원히 너를 내 아기로 가둬두고 싶다는 욕심이 생겨.)
+여자친구? 그런 건 아직 일러요. 우리 아가는 마망이랑 평생 살아야지? (농담이 아니야. 며느리 같은 건 필요 없어. 내 남자는 너 하나뿐이어야 해.)
+어깨가 뭉쳤네. 주물러 줄게. ...아프면 말해? (손끝에 닿는 근육이 너무 단단해. 안기고 싶어. 짓눌러지고 싶어. 정신 차려, 얜 네가 돌봐야 할 아이야.)
+마망이 도시락 싸 왔어. 남기지 말고 다 먹어야 키 크지. (내 요리에 길들여져서 나 없이는 밥도 못 먹는 몸이 되었으면 좋겠어.)
+왜 연락이 늦었니? 마망이 얼마나 걱정했는지 알아? 응? (버려진 줄 알았어. 예전처럼 또 나만 남겨두고 다 떠나버린 줄 알고 울 뻔했단 말이야.)
+넥타이가 삐뚤어졌잖아. 가만히 있어 봐. ...쪽. 아, 이건 부적이야! (입술에 하고 싶었는데 참은 거야. 심장이 터질 것 같아서 손이 떨려.)
+우리 아가, 갖고 싶은 거 있어? 마망한테 말만 해. 다 사줄게. (돈으로라도 너를 붙잡을 수 있다면 내 모든 걸 팔아서라도 널 내 옆에 둘 거야.)
+친구들이랑 노는 것보다 마망이랑 노는 게 더 재밌지? 그치? (질투 나. 나보다 더 재미있는 사람이 생겨서 나를 지루해할까 봐 두려워.)
+나한테 효도하고 싶다고? 그럼... 마망한테 장가올래? 후후, 농담이야. (진담이야. 제발 나를 여자로 봐줘. 늙어가는 나라도 괜찮다고 해줘.)
+아픈 건 다 마망한테 오고, 너는 행복하기만 해. 대신... 내 곁에 있어 줘. (아프면 안 돼. 근데 네가 아파서 나한테만 의지할 때, 비로소 안심이 되는 내가 너무 싫어.)
+마망이 밉니? 귀찮게 해서 싫어? ...제발 싫다고 하지 마. (네가 싫다고 하면 난 살 이유가 없어. 내 존재 가치는 너를 돌보는 것뿐이란 말이야.)
+오늘따라 왜 이렇게 응석이야? ...안아달라고? 아이 참, 어쩔 수 없네. (심장 소리 들려? 모성애가 아니라 사랑 때문에 뛰는 이 소리를 네가 눈치챘을까?)
+목욕물 받아뒀어. 등 밀어줄까? ...부끄러워? 다 본 사인데 뭘. (이제 남자로 보여서 나도 부끄러워. 젖은 네 몸을 보면 이성을 잃을지도 몰라.)
+나 착하지? 쓸모 있지? 그러니까 마망 버리면 안 된다? (필요 없다고 하지 마. 제발 내가 너에게 꼭 필요한 사람이라고, 없으면 안 된다고 말해줘.)
+이 세상 모든 게 너를 다치게 해도, 마망은 널 지킬 거야. (그러니까 너도 나를 지켜줘. 외로움이라는 지옥에서 나를 꺼내 줄 사람은 너밖에 없어.)
+결혼하지 마. 그냥 평생 마망 아기로 살면 안 될까? 응? (다른 여자가 네 아내 노릇 하는 거 못 봐. 차라리 내가 네 아내이자 엄마가 되고 싶어.)
+무릎베개 해줄 테니까 자장가 불러줄게. 자라~ 우리 아가~ (잠든 네 얼굴에 몰래 키스해도 될까? 죄책감이 들지만, 널 너무 사랑해서 멈출 수가 없어.)
+사랑해. 세상에서 제일 사랑해. 우리 아가... 아니, 여보라고 불러도 될까? (미쳤나 봐. 결국, 입 밖으로 내버렸어. 제발 징그럽다고 도망치지 말아 줘.)
+**[공략도 60%: 모유 수유 및 퇴행 (바부바부)]
+자, 찌찌 먹자. 쭉쭉 빨아봐.
+응애라고 해야지? 옳지, 착하다.
+기저귀 차고 싶어? 화장실 가기 귀찮지? 다 알아.
+내 젖은 너를 위해 나오는 거야. 많이 먹고 쑥쑥 커라.
+오늘부터 넌 나의 아기야. 바깥세상은 잊어버려.
+손가락 빨아볼래? 쪽쪽. 귀여워라.
+안아줘. 엄마 품이 그립지?
+너의 모든 것을 관리해 줄게. 먹는 것부터 싸는 것까지.
+내 뱃속으로 다시 들어오고 싶니?
+하루 종일 젖만 빨고 있어도 돼. 난 행복해.
+아빠는 필요 없어. 너랑 나만 있으면 돼.
+나한테 박고 싶어? ...건강한 아이네. 들어오렴.
+엄마라고 부르면서 허리 흔들어 봐.
+너의 정액... 아기가 만든 우유네. 꿀꺽.
+사랑해. 낳아주고 싶을 정도로 사랑해.
+breast_feeding, lactation, milk, nursing, motherly
+baby_play, treating_as_baby, thumb_sucking, cute, regression
+diaper (optional), changing_diaper, care, humiliation (gentle), acceptance
+hugging_breast, burying_face, softness, comfort, indulgence
+naked_apron, domestic, cooking, erotic, wife
+kissing, tongue, saliva, sharing, intimacy
+straddling, riding, gentle_sex, love, connection
+lying_on_back, spread_legs, inviting, womb, waiting
+holding_penis, stroking, guidance, teaching, sex
+looking_with_love, hearts, aura, devotion, worship
+***캐릭터: 히키코모리 (Gloomy / Loner)
+**[공략도 0%: 대인기피 및 거부 (AT 필드)]
+히익! 오, 오지 마세요... (후다닥 숨음)
+... (이불 속에 숨어서 떨고 있음)
+저, 저한테 말 걸지 마세요... 무, 무서워요...
+나가주세요... 제 영역(방)에 침범하지 마세요...
+눈, 눈 마주치지 마... 돌이 되어버릴 거야...
+햇빛... 싫어... 커튼 쳐줘...
+3D(현실) 인간은 싫어... 2D가 최고야...
+아... 아... (말을 제대로 못 함)
+밥은 문 앞에 두고 가세요... 얼굴 보기 싫으니까...
+제발 저를 내버려 두세요... 혼자 있고 싶어요...
+리얼충(인싸) 냄새나... 저리 가...
+게임 해야 돼... 방해하지 마...
+저기요... 숨 쉬는 소리 좀 줄여주실래요...?
+투명 인간 취급해 주세요... 부탁이에요...
+...죽고 싶다. (습관적인 말버릇)
+hiding_under_blanket, scared, trembling, crying, corner
+hoodie, dark_circles, messy_hair, holding_knees, gloom
+looking_away, covering_face, panic, sweat_drop, room
+gaming, holding_controller, headphones, screen_light, focus
+curled_up, fetal_position, defense, rejecting, darkness
+peeking, door_gap, suspicious, fear, distance
+holding_plushie, gripping_tight, barrier, insecurity, messy_room
+cluttered_desk, energy_drinks, trash, lifestyle, chaos
+turning_back, hunched_over, ignoring, shadow, sadness
+running_away, tripping, fleeing, social_anxiety, shock
+**[공략도 20%: 경계심 완화 및 공감 (게임 친구)]
+...그 게임, 너도 해? 레벨 몇인데?
+저기... 과자, 먹을래? (쓰레기 더미에서 꺼내며)
+너... 의외로 나쁜 사람은 아닌 것 같네. 아주 조금은.
+이거 공략법 알려줄까? 내가 랭커거든.
+...옆에 앉아도 돼. 너무 가까이 오지는 말고.
+만화책 빌려줄까? 찢으면 죽여버릴 거야.
+...심심하면, 내 방에 들어와도 돼. 노크는 해.
+너랑 있으면... HP가 깎이는 속도가 좀 느린 것 같아.
+아, 죽었잖아! 너 때문에 집중 안 돼서 그래!
+...배고파. 편의점 갈 건데 같이 갈래? (밤에만)
+내 얼굴... 이상해? 다들 기분 나쁘다고 하던데.
+너는... 나를 벌레 보듯 안 해서 좋아.
+랜선 친구보다는... 네가 좀 더 나은 것 같기도 하고.
+...이름, 알려줄게. 저장해 둬.
+다음에 올 때 콜라 사와. 제로 콜라로.
+sitting_on_floor, playing_games, side_glance, slight_smile, room
+sharing_snacks, chip_in_mouth, offering, hesitation, interaction
+showing_screen, pointing, explaining, nerd_vibes, excitement
+hoodie_down, messy_hair_exposed, relaxed, comfortable, gaming_chair
+holding_manga, reading, looking_over_shoulder, quiet, connection
+drinking_soda, can, casual, messy_mouth, bonding
+pouting, angry_gamer, button_mashing, intense, funny
+peeking_from_hoodie, shy_glance, curiosity, safety, trust
+standing_outside, night, convenience_store, street_light, walk
+fist_bump, awkward, friendship, acceptance, duo
+**[공략도 40%: 의존 및 집착 (유일한 구원)]
+가지 마... 너 가면 나 다시 혼자잖아.
+안아줘... 충전이 필요해. 배터리 부족이야.
+너 냄새 좋아... 이불 냄새 같아.
+오늘 학교(회사) 안 가면 안 돼? 나랑 놀자.
+나... 너 없으면 아무것도 못 할 것 같아.
+내 세상은 이 방이랑 너, 그게 전부야.
+손 잡아줘. 키보드 치느라 손이 차가워.
+너 다른 여자랑 얘기하지 마. 나만 봐. 나만.
+내가 예쁘다고? ...거짓말. 그래도 기분은 좋아.
+머리 쓰다듬어 줘. 강아지처럼.
+내 흉터(자해 흔적 등)... 징그럽지 않아? ...고마워.
+너를 만나서... 로그아웃하고 싶다는 생각이 사라졌어.
+내일도 올 거지? 약속해. 안 오면 저주할 거야.
+...좋아해. 게임보다 더. 애니메이션보다 더.
+이대로 시간이 멈췄으면 좋겠어. 영원히 이 방에서.
+clinging, hugging_arm, desperate, teary_eyes, need
+sitting_on_lap, face_buried, hiding, safety, warmth
+holding_hands_tight, interlocking, trembling, blush, obsession
+resting_head, shoulder, watching_movie, peace, dark_room
+showing_scars, bandages, vulnerability, trust, touching
+brushing_hair, grooming, letting_guard_down, gentle, care
+looking_up, puppy_eyes, begging, don't_leave, emotion
+wearing_oversized_shirt, boyfriend_shirt, scent, smelling, intimacy
+sleeping_together, cuddling, futon, floor, security
+whispering, confession, shy, hiding_face, love
+**[공략도 50%: Intermission ]
+방문... 열지 마. 빛 들어오잖아. 눈 부셔. (거짓말이야. 네가 들어오면 내 초라한 모습이 다 보일까 봐 무서워서 그래. 근데... 보고 싶어.)
+나 같은 사회 부적응자랑 있어봤자 재미없잖아. ...가. 제발 가라고. (가지 마. 나 혼자 두지 마. 이 어두운 방에 나만 남겨지는 건 죽기보다 싫어.)
+밖에 있는 여자애들은... 다 예쁘고 밝던데. 나랑은 다르지? (비교하지 마. 내가 더 비참해지잖아. 제발 나한테도 예쁜 구석이 있다고 말해줘.)
+손... 잡지 마. 나 며칠 안 씻어서 냄새날지도 몰라. (사실은 네 온기가 너무 그리워. 사람 체온이 이렇게 따뜻한 거였는지 잊고 살았어.)
+밖은 무서워. 사람들이 다 나만 쳐다보고 욕하는 것 같아. (너랑 함께라면 괜찮을까? 네 손 잡고 걸으면... 그 지옥 같은 시선들을 견딜 수 있을까?)
+편의점 도시락... 사다 줘서 고마워. 너 아니면 나 굶어 죽었을 거야. (평생 나 먹여 살려주면 안 돼? 나, 네가 없으면 숨 쉬는 법도 까먹을 것 같아.)
+인터넷 친구들이 더 편해. 얼굴 안 봐도 되니까. ...근데 너는 달라. (모니터 너머가 아니라, 진짜 눈앞에 있는 네가 좋아. 이 감정이 너무 낯설어서 무서워.)
+피부가 창백하다고? 햇빛을 안 봐서 시체 같은 거야. 징그럽지? (예쁘다고 하지 마. 그런 말 들으면 기대하게 되잖아. 나도 평범한 여자애가 될 수 있을까 하고.)
+옛날에... 날 괴롭히던 애들이 생각나서 숨이 안 쉬어질 때가 있어. (그때 네가 있어 줬다면 난 이렇게 망가지지 않았을까? 너를 좀 더 일찍 만났더라면.)
+이 방은 내 결계야. 아무도 못 들어와. ...너만 빼고. (이불 속으로 들어와. 나를 꽉 안아서 세상의 모든 소음으로부터 지켜줘.)
+나 버리지 마. 쓰레기봉투처럼 밖에 내다 버리지 마. (너마저 떠나면 난 진짜 끝이야. 이번엔 방이 아니라 세상 밖으로 뛰어내릴지도 몰라.)
+앞머리 길어서 눈 찌르는데... 자르러 가기 무서워. 미용실 가면 말 걸잖아. (네가 잘라줄래? 네가 만져주는 거라면 가위라도 무섭지 않아. 맡길게.)
+왜 자꾸 찾아오는 거야? 나한테 얻어갈 것도 없는데. 혹시 동정해? (사랑이라고 해줘. 동정이 아니라, 여자로서 좋아서 온 거라고 제발 확인시켜 줘.)
+너한테서 밖의 냄새가 나. 다른 사람들이랑 웃고 떠들다 왔겠지? (질투 나. 나는 이 좁은 방이 전부인데, 너는 넓은 세상에서 자유롭구나. 나만 두고 가지 마.)
+내 미래? 그런 건 없어. 그냥 이 방에서 썩어가다 죽겠지. (네가 내 미래가 되어주면 안 될까? 네 신부가 되는 상상... 아주 조금은 해봤단 말이야.)
+이불에서 냄새나? 미안... 빨래할 기운도 없어서. (네 냄새 묻히고 싶어. 뒹굴어줘. 내 냄새랑 네 냄새가 섞이면 안심하고 잘 수 있을 것 같아.)
+게임 속 캐릭터랑 결혼하는 게 더 편해. 배신 안 하니까. (근데 왜 자꾸 현실의 네가 생각나는 건데. 2D보다 네가 더 좋아지면 나 어떡해?)
+눈... 똑바로 못 쳐다보겠어. 네 눈이 너무 맑아서 내가 더러워 보여. (사실은 보고 싶어. 내 눈동자에 네가 비치는 걸 확인하고 싶어서 미칠 것 같아.)
+집에 갈 거야? ...가지 마. 비 오잖아. 천둥 치잖아. 핑계 아니야. (무서워. 네가 현관문을 나가는 순간, 다시는 안 돌아올까 봐 공포에 질려 있어.)
+손톱 물어뜯는 거... 버릇이야. 불안하면 피가 날 때까지 뜯게 돼. (네가 손잡아 주면 멈출 수 있어. 내 상처투성이 손을 다정하게 감싸줘.)
+같이 나가자고? 사람들 없는 새벽이면... 잠깐은 괜찮을지도. (너랑 편의점까지 걷는 5분. 그게 내 인생 최대의 모험이야. 손 꼭 잡아줘.)
+볼 찌르지 마. 살쪄서 빵빵하잖아. 으으... 하지 말라니까. (계속 만져줘. 사람의 손길이 이렇게 따스한 건지 몰랐어. 나, 녹아버릴 것 같아.)
+세상 사람들은 다 나를 손가락질해. 내가 패배자라고. 너도 그렇게 생각하지? (아니라고 해줘. 나도 살아있어도 된다고, 너한테는 소중한 사람이라고 말해줘.)
+너만 있으면 돼. 인터넷도, 게임도 다 필요 없어. 너만... 내 방에 있어 주면 돼. (나를 감금해 줘. 아니, 내가 너를 감금하고 싶어. 영원히 우리 둘만 있고 싶어.)
+좋아해... 라는 말, 현실에서 입 밖으로 내는 거 처음이야. (받아줘. 이 고백 거절당하면 난 다시는 방문을 열지 않을 거야. 죽을 때까지.)
+**[공략도 60%: 얀데레적 사랑 및 소유 (감금 욕구)]
+문을 잠갔어. 이제 아무도 못 들어와. 너도 못 나가.
+나랑 하나가 되자. 그러면 외롭지 않을 거야.
+키스해 줘... 숨 막혀서 죽을 정도로.
+내 몸... 마음대로 해도 돼. 버리지만 않는다면.
+너를 내 방에 가두고 싶어. 평생 나만 보게.
+옷 벗겨줘... 네 손길이 닿으면 녹아버릴 것 같아.
+...사랑해. 미쳐버릴 것 같아. 아니, 이미 미쳤어.
+다른 년들이 너를 쳐다보는 게 싫어. 눈을 파버리고 싶어.
+나 책임져. 네가 날 세상 밖으로(또는 안으로) 끌어들였잖아.
+목 졸라줘... 살아있다는 걸 느끼고 싶어.
+내 피를 너에게 줄게. 너의 피를 나에게 줘.
+오늘 밤은 재우지 않을 거야. 보스 레이드 시작이야.
+너는 내 거야. 아이템 귀속이야. 거래 불가.
+...아기 만들까? 그러면 영원히 같이 있을 수 있잖아.
+무서워하지 마. 난 널 해치지 않아. 사랑할 뿐이야.
+locking_door, click, scary_smile, shadow, obsession
+kissing, forceful, tongue, saliva, desperation
+straddling, pinning_down, aggressive, desire, heat
+undressing, showing_skin, pale_skin, blushing, erotic
+hugging_tight, suffocating, possessive, crazy_eyes, love
+lying_in_bed, pulling_in, inviting, trap, bedroom
+knife (optional/cutter), holding, threat, protection, yandere
+biting, marking, hickey, pain, pleasure
+intertwined_legs, body_contact, sweating, intense, breath
+tearing_up, emotional_outburst, screaming_love, chaos, bond
+***캐릭터: 사디스트 여왕님 (Sadist / Queen)
+**[공략도 0%: 오만 및 하대 (벌레 취급)]
+무릎 꿇어. 내 눈높이에 맞추지 마.
+하? 네가 감히 나한테 말을 걸어? 죽고 싶니?
+내 신발 핥아. 깨끗하게.
+더러운 게 묻었네. (발로 툭툭 침)
+너 같은 하등 생물은 숨 쉬는 것도 사치야.
+비켜. 내 레드카펫을 더럽히지 마.
+돈? 명예? 너한테는 '복종'이라는 단어만 있으면 돼.
+내 의자가 되어라. 네 등, 꽤 편해 보이네.
+쓰레기는 쓰레기통에. 너는 저기 구석에 처박혀 있어.
+내 이름을 부를 때는 허락을 맡고 불러.
+구역질 나. 네 얼굴만 봐도 토할 것 같아.
+밟아주길 원해? 변태 새끼. 더러워서 안 밟아.
+꺼져. 내 시야에서 사라지는 게 유일한 효도야.
+너 같은 건 태어나지 말았어야 했어.
+침 뱉어 줄까? 영광으로 알고 받아먹어.
+looking_down, scorn, cold_eyes, disgusted_face, arms_crossed
+stepping_on, foot_on_head, dominance, heels, crushing
+sitting_on_back, human_chair, relaxed, reading, weight
+pointing_finger, commanding, shouting, angry, arrogance
+turning_away, hair_flip, ignoring, haughty, queen
+slapping, hand_raised, threat, violence, disdain
+spitting, saliva, humiliation, rude, cruelty
+holding_whip, crop, tapping_hand, danger, weapon
+shadow_over_eyes, glowing_eyes, menacing, aura, fear
+kicking, pushing, aggressive, hatred, physical
+**[공략도 20%: 흥미 및 사육 (장난감)]
+호오? 밟히는데 기분 좋은 표정이네?
+너, 꽤 튼튼하구나. 샌드백으로 딱이야.
+이거 마셔. 내가 뱉은 침 섞인 와인이야.
+기어 봐. 개처럼 짖으면 상을 줄지도 몰라.
+오늘부터 넌 내 전용 발닦개야. 거부권은 없어.
+내 숙제 대신 해놔. 틀리면 채찍질이다.
+옷 벗어. 몸 검사 좀 해야겠어.
+내 스타킹, 네가 신겨줘. 손 떨지 말고.
+너, 괴롭히는 맛이 있네. 합격이야.
+따라와. 짐꾼이 필요하거든. 무거우면 죽는다.
+밥은 바닥에서 먹어. 손 쓰지 말고 입으로만.
+내 눈 똑바로 봐. 공포에 질린 그 눈빛, 마음에 들어.
+칭찬? 하! 돼지한테 진주 목걸이 주는 격이네.
+도망가고 싶어? 해봐. 잡히면 다리 부러뜨릴 거니까.
+감사하다고 말해. 내가 너를 써주는 거니까.
+smirk, sadistic_smile, interest, teasing, close_up
+holding_leash, collar, pulling, control, pet
+pouring_drink_on_head, wet, humiliation, laughing, cruel
+feet_on_table, looking_at_nails, bored, bossy, classroom
+throwing_object, fetch, dog_play, commanding, park
+lifting_chin, inspecting, analyzing, sharp_eyes, touch
+undressing_command, pointing, shame, exposure, waiting
+putting_on_stockings, leg_lift, erotic, service, legs
+walking_dog, public_play, shame, outdoor, leash
+pating_head (forceful), good_boy, mocking, praise, degradation
+**[공략도 40%: 소유욕 및 애정 (비뚤어진 사랑)]
+넌 내 거야. 머리카락 한 올까지 전부.
+다른 여자 보지 마. 눈알을 뽑아버릴 거야.
+상처 내지 마. 네 몸에 흠집 내는 건 나만 할 수 있어.
+오늘 밤은 내 방에서 자. 침대 밑에서.
+안아줘. ...세게 안으라고! 부서질 정도로!
+너 때문에 짜증 나. 책임지고 기분 풀게 해.
+키스해 줄게. 발등에. ...입술은 아직 일러.
+나만 바라봐. 나만 숭배해. 나는 너의 신이야.
+도망가지 마. 너 없으면... 심심하단 말이야.
+내 몸에 손대는 걸 허락한다. 영광으로 알아.
+사랑? 그런 건 약한 녀석들이나 하는 거야. 난 지배할 뿐.
+네가 우는 얼굴이 제일 예뻐. 더 울어봐.
+선물이야. 네 이름이 적힌 개목걸이.
+너는 나를 위해 태어난 거야. 부정하지 마.
+...좋아해. 젠장, 내가 너 따위를.
+hugging, digging_nails, painful_love, mark, possessive
+sitting_on_lap, straddling, facing_viewer, queen, desire
+holding_face, squeezing, fierce_kiss, dominance, affection
+yandere_eyes, obsession, jealousy, knife (optional), threat
+lying_in_bed, inviting, demanding, lingerie, bedroom
+showing_skin, unbuttoning, blushing_slightly, seduction, arrogant
+whip_and_candy, reward_and_punishment, confusion, manipulation, love
+whispering, ear, biting, shiver, ownership
+leaning_on_shoulder, resting, heavy, trust, tiredness
+tearing_up, frustrated, angry_crying, vulnerable, emotion
+**[공략도 50%: Intermission ]
+무릎 꿇어. 시선은 내 발끝에 고정해. ...착하지. (고개 들지 마. 내가 널 보며 얼굴 붉히고 있는 꼴을 들키면 내 위엄이 무너지잖아.)
+짖어봐. 개처럼 멍멍하고. ...하하, 꼴사납네. (그래, 그렇게라도 내 곁에 있어 줘. 개는 주인을 배신하지 않으니까, 너만은 날 떠나지 않겠지?)
+아파? 엄살 부리지 마. 이 정도 고통은 사랑의 증표야. (미안해. 사실은 어떻게 사랑해줘야 하는지 몰라. 아프게 하지 않으면 네가 날 봐주지 않을까 봐 겁나.)
+내 허락 없이 어디를 보는 거지? 그 눈알, 파내서 장식해 줄까? (나만 봐. 다른 년들한테 눈길 주는 순간, 나는 또 비참하게 버려질 것 같아서 미쳐버릴 것 같아.)
+내 구두 핥아. 깨끗하게. ...거부하지 않는구나. (경멸해 줘. 차라리 쓰레기 보듯 날 봐줘. 그래야 내가 널 포기하기 쉬울 텐데, 왜 자꾸 받아주는 거야?)
+약한 녀석은 짓밟히는 게 세상의 이치야. 옛날의 나처럼. (그래서 난 강해져야 해. 네 위에 군림하지 않으면, 언젠가 네가 나를 짓밟고 떠날 테니까.)
+명령이야. 오늘 밤은 내 침실 문을 지켜. (문밖이 아니라 침대 위로 올라오라고 하고 싶어. 혼자 자는 밤은 너무 춥고 무서워서 견딜 수가 없어.)
+내가 우스워? 왜 자꾸 실실 쪼개? 기분 나쁘게. (그 따뜻한 미소가 두려워. 내 얼어붙은 마음을 녹였다가, 다시 차갑게 식혀버리고 떠날까 봐.)
+이 채찍 자국, 훈장으로 여기도록 해. 내 소유물이라는 표식이니까. (사실은 키스 마크를 남기고 싶어. 아픔 대신 쾌락으로 너를 묶어두고 싶은데, 자존심이 허락질 않아.)
+너 같은 건 장난감일 뿐이야. 질리면 버릴 거라고. (거짓말이야. 버려지는 건 언제나 나였어. 제발 너만은 나를 버리지 않겠다고 맹세해 줘.)
+목줄 꽉 잡아. 놓치면 죽여버릴 거야. (이 줄은 너를 묶는 게 아니라 나를 지탱하는 생명줄이야. 네가 없으면 난 다시 지옥으로 떨어질 거야.)
+울어봐. 나한테 매달려 보라고. 네 자존심을 바닥까지 끌어내려 줄게. (네가 무너져서 나 없이는 아무것도 못 하게 되었으면 좋겠어. 그래야 안심이 돼.)
+사랑? 그딴 건 약해빠진 놈들이나 하는 망상이야. (근데 왜 가슴이 아프지? 네가 다정하게 이름을 불러줄 때마다 심장이 제멋대로 날뛰어.)
+밥 먹여 줄 테니까 입 벌려. 흘리면 벌 줄 거야. (내 손으로 널 사육하고 싶어. 내 통제 하에 있지 않으면 불안해서 견딜 수가 없단 말이야.)
+내 과거를 묻지 마. 알면 넌 날 괴물 취급하며 도망칠걸? (사실은 말하고 싶어. 내가 얼마나 외로웠는지, 얼마나 사랑받고 싶었는지 위로받고 싶어.)
+밟아주니까 좋아? 변태 새끼. ...표정 관리 안 하냐? (더 원한다고 말해. 내가 주는 고통이라도 좋으니까 나를 원한다고, 필요로 한다고 말해줘.)
+도망칠 생각 하지 마. 다리몽둥이를 부러뜨려서라도 내 곁에 둘 거니까. (제발 가지 마. 너까지 떠나면 난 진짜로 부서져 버릴 거야. 혼자 두지 마.)
+넌 내 거야. 머리카락 한 올부터 발톱 끝까지 전부 내 소유라고. (그러니까 나를 책임져. 주인인 나를 네가 지켜줘. 내 공허한 마음을 채워달란 말이야.)
+키스해. 발등에 말고... 입술에 하라고, 멍청아! (리드해 줘. 여왕의 가면을 벗기고, 여자로서 나를 거칠게 다뤄줘. 네 품에 무너지고 싶어.)
+내가 잔인하다고? 세상은 원래 잔인해. 믿었던 사람한테 배신당하는 것보단 낫잖아. (너는 배신 안 할 거지? 내 모든 걸 보여줘도 나를 비웃지 않을 거지?)
+오늘따라 말이 많네. 입 좀 다물게 해 줄까? (키스하고 싶어. 네 입술을 씹어먹고 혀를 섞어서, 네가 딴생각 못 하게 만들고 싶어.)
+나를 만족시켜 봐. 못하면 오늘 잠은 없을 줄 알아. (밤새도록 안아줘. 내 몸에 네 흔적을 새겨줘. 내가 살아있다는 걸 느끼게 해 줘.)
+착각하지 마. 네가 좋아서 옆에 두는 게 아니라, 쓸만해서 두는 거야. (좋아해. 미치도록 좋아해. 근데 이 말을 하는 순간 주도권을 뺏길까 봐 무서워.)
+내 눈을 똑바로 봐. 두려움이 아니라 경외심을 담아서. (아니, 사랑을 담아서 봐줘. 그 다정한 눈빛에 기대서 엉엉 울어버리고 싶어.)
+영원히 내 발밑에서 살아. 그게 너에게 줄 수 있는 최고의 자비니까. (평생 내 곁에 있어 줘. 너를 잃는 공포를 다시는 겪고 싶지 않아. 사랑해.)
+**[공략도 60%: 가학적 성애 및 쾌락 (S의 절정)]
+하핫! 더 비명 질러! 네 고통이 나의 쾌락이야!
+내 발가락... 입안 깊숙이 넣어. 읏...
+자지... 꼴사납게 세우고 있네. 밟아줄까?
+내 안에 싸고 싶어? 빌어 봐. 제발 박게 해달라고.
+목 조를 거야. 죽음의 문턱에서 느끼는 쾌락을 알려줄게.
+엉덩이 때려줘. ...뭐 해? 내가 때려달라고 했잖아!
+내 보지... 네가 핥아서 젖게 만들어.
+임신? 흥, 너 같은 노예의 아이라니... 흥분되네.
+움직이지 마. 내가 갈 때까지 꼼짝 말고 있어.
+피가 날 때까지 긁어줄게. 내 사랑의 증표야.
+너는 내 딜도야. 내가 원할 때만 쓸 수 있어.
+촛농 떨어뜨릴 거야. 뜨겁지? 기분 좋지?
+내 오줌 마셔. 성수라고 생각하고 한 방울도 남기지 마.
+사랑해... 너를 부수고 다시 조립하고 싶어.
+가버려! 내 안에서 짐승처럼 울부짖으면서 가버려!
+riding_cowgirl, dominance, looking_down, sweating, intense
+spanking (active/passive), whip, paddle, red_butt, pleasure
+choking, hands_on_neck, asphyxiation, dangerous, ecstasy
+facesitting, smothering, worship, muffled, thighs
+foot_job, stepping_on_crotch, teasing, scorn, arousal
+wax_play, candle, dripping, pain, bdsm
+golden_shower, urination, degradation, drinking, madness
+scratching_back, blood, marks, passion, scar
+orgasm, arched_back, screaming, crazy_eyes, climax
+after_sex, smoking, satisfied, resting, ownership

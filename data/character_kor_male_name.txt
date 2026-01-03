@@ -1,77 +1,182 @@
-Akira Fujiwara
-Asahi Ito
-Bae Junho
-Bae Seonghun
-Cha Doyoon
-Choi Jaejin
-Choi Siheon
-Choi Yunjin
-Daichi Watanabe
-Go Eun Jin
-Go Hyeonho
-Han Dohyeon
-Han Jiheon
-Haru Ishikawa
-Haruki Tanaka
-Hayato Suzuki
-Hiroki Takahashi
-Hwang Donghun
-Hwang Taegyun
-Im Seunghoon
-Im Taegyun
-Isamu Kobayashi
-Jeong Gicheol
-Jeong Hyeonho
-Jeong Woojun
-Jo Hyeoncheol
-Jo Yeongjoon
-Junichi Sato
-Kaito Nakamura
-Kang Taeheon
-Kazuki Okada
-Keisuke Tanaka
-Kenji Shimizu
-Kenta Ueda
-Kim Dohun
-Kim Hyeongho
-Kim Minje
-Kota Nishimura
-Kwon Ji hyeok
-Kwon Suhyeok
-Lee Hansol
-Lee Seonyul
-Lee Taehyeok
-Masaru Watanabe
-Moon Jiheon
-Moon Sujin
-Na Jaewon
-Na Seungjun
-Oh Junho
-Oh Sewon
-Park Geonhyeok
-Park Jeonghyun
-Park Siwon
-Ren Saito
-Ren Sato
-Riku Yamamoto
-Ryohei Inoue
-Ryota Yoshida
-Seo Junho
-Seok Doyoon
-Seok Hyeonjin
-Shin Taeyul
-Shin Ucheol
-Shinji Kawaguchi
-Shota Shimizu
-Song Gangheon
-Song Jihoon
-Sora Kobayashi
-Takashi Nakamura
-Takumi Mori
-Takuya Hashimoto
-Yang Dongjun
-Yang Sejin
-Yun Jaecheol
-Yun Taeheon
-Yusuke Yamamoto
-Yuto Kimura
+아키라 후지와라, Akira Fujiwara
+아사히 이토, Asahi Ito
+배준호, Bae Junho
+배성훈, Bae Seonghun
+차도윤, Cha Doyoon
+최재진, Choi Jaejin
+최시헌, Choi Siheon
+최윤성, Choi Yunsung
+다이치 와타나베, Daichi Watanabe
+고은호, Go Eunho
+고현호, Go Hyeonho
+한도현, Han Dohyeon
+한지헌, Han Jiheon
+하루 이시카와, Haru Ishikawa
+하루키 타나카, Haruki Tanaka
+하야토 스즈키, Hayato Suzuki
+히로키 타카하시, Hiroki Takahashi
+황동훈, Hwang Donghun
+황태균, Hwang Taegyun
+임승훈, Im Seunghoon
+임태균, Im Taegyun
+이사무 코바야시, Isamu Kobayashi
+정기철, Jeong Gicheol
+정현호, Jeong Hyeonho
+정우준, Jeong Woojun
+조현성, Jo Hyeonseong
+조영준, Jo Yeongjoon
+준이치 사카타, Junichi Sakata
+카이토 나카무라, Kaito Nakamura
+강태헌, Kang Taeheon
+카즈키 오카다, Kazuki Okada
+케이스케 타나카, Keisuke Tanaka
+켄지 시미즈, Kenji Shimizu
+켄타 우에다, Kenta Ueda
+김도형, Kim Dohyeong
+김형호, Kim Hyeongho
+김민제, Kim Minje
+코타 니시무라, Kota Nishimura
+권지혁, Kwon Jihyeok
+권수혁, Kwon Suhyeok
+이한솔, Lee Hansol
+이선우, Lee Seonwoo
+이태혁, Lee Taehyeok
+마사루 와타나베, Masaru Watanabe
+문지헌, Moon Jiheon
+문성호, Moon Sungho
+나재원, Na Jaewon
+나승준, Na Seungjun
+오준호, Oh Junho
+오세욱, Oh Sewook
+박건혁, Park Geonhyeok
+박정호, Park Jeongho
+박시우, Park Siwoo
+렌 사이토, Ren Saito
+렌 사토, Ren Sato
+리쿠 야마모토, Riku Yamamoto
+료헤이 이노우에, Ryohei Inoue
+료타 요시다, Ryota Yoshida
+서준호, Seo Junho
+석도윤, Seok Doyoon
+석현진, Seok Hyeonjin
+신태율, Shin Taeyul
+신우철, Shin Ucheol
+신지 카와구치, Shinji Kawaguchi
+쇼타 시무라, Shota Shimura
+송강헌, Song Gangheon
+송지훈, Song Jihoon
+소스케 코바야시, Sosuke Kobayashi
+타카시 나카무라, Takashi Nakamura
+타쿠미 모리, Takumi Mori
+타쿠야 하시모토, Takuya Hashimoto
+양동준, Yang Dongjun
+양세진, Yang Sejin
+윤재철, Yun Jaecheol
+윤태헌, Yun Taeheon
+유스케 야마시타, Yusuke Yamashita
+유토 키무라, Yuto Kimura
+미나미 코타로, Minami Kotaro
+코사카 히토시, Kousaka Hitoshi
+소노다 카이, Sonoda Kai
+니시키노 마코토, Nishikino Makoto
+토사카 린타로, Tosaka Rintaro
+마토 신지, Matou Shinji
+휴가 네지마, Hyuga Nejuma
+하루노 사토루, Haruno Satoru
+야마나카 이노스케, Yamanaka Inosuke
+우즈마키 나루야, Uzumaki Naruya
+우치하 사스마루, Uchiha Sasumaro
+하타케 카카마루, Hatake Kakamaru
+나라 시카스케, Nara Shikasuke
+김세준, Kim Sejun
+박민성, Park Minseong
+최하준, Choi Hajun
+이지환, Lee Jihwan
+정민재, Jung Minjae
+강도현, Kang Dohyun
+윤슬우, Yoon Seulwoo
+한다산, Han Dasan
+오하준, Oh Hajun
+류승진, Ryu Seungjin
+신예준, Shin Yejun
+권보성, Kwon Bosung
+문채욱, Moon Chaewook
+송중석, Song Joongseok
+남주성, Nam Joosung
+배수근, Bae Sugeun
+김태윤, Kim Taeyoon
+이민석, Lee Minseok
+박보성, Park Boseong
+서강우, Seo Kangwoo
+정해성, Jung Haesung
+김유성, Kim Yusung
+김도현, Kim Dohyun
+타카하시 료스케, Takahashi Ryosuke
+후지와라 타쿠미, Fujiwara Takumi
+아카기 시게루, Akagi Shigeru
+쿠로사키 이치로, Kurosaki Ichiro
+쿠치키 뱌쿠가, Kuchiki Byakuga
+이노우에 오리키, Inoue Oriki
+이시다 우료, Ishida Uryo
+사도 야스토라, Sado Yasutora
+아바라이 렌, Abarai Ren
+히츠가야 토시오, Hitsugaya Toshio
+미즈키 나오, Mizuki Nao
+하나자와 카나메, Hanazawa Kaname
+사와시로 미츠루, Sawashiro Mitsuru
+하야미 사토루, Hayami Satoru
+카야노 아키토, Kayano Akito
+우에다 카나메, Ueda Kaname
+쿠기미야 료, Kugimiya Ryo
+사이토 켄토, Saito Kento
+야마구치 류, Yamaguchi Ryu
+마츠모토 준야, Matsumoto Junya
+니시무라 소타, Nishimura Sota
+이시카와 유키오, Ishikawa Yukio
+오카다 준야, Okada Junya
+카토 시게오, Kato Shigeo
+모리타 고로, Morita Goro
+미야케 켄토, Miyake Kento
+사쿠라이 쇼마, Sakurai Shoma
+아이바 마사야, Aiba Masaya
+니노미야 카즈오, Ninomiya Kazuo
+오노 사토루, Ohno Satoru
+히무라 켄토, Himura Kento
+사이토 하루마, Saito Haruma
+사카타 긴지, Sakata Ginji
+카츠라 코지, Katsura Koji
+히지카타 토시오, Hijikata Toshio
+오키타 소마, Okita Soma
+콘도 이사미, Kondo Isami
+김현우, Kim Hyunwoo
+박지성, Park Jiseong
+이준우, Lee Junwoo
+최동진, Choi Dongjin
+정현제, Jung Hyunje
+강민석, Kang Minseok
+조승재, Jo Seungjae
+윤지우, Yoon Jiwoo
+임시우, Im Siwoo
+한지완, Han Jiwan
+서인호, Seo Inho
+육성진, Yook Sungjin
+도경민, Do Kyungmin
+박형우, Park Hyungwoo
+차은호, Cha Eunho
+황민우, Hwang Minwoo
+김우성, Kim Wooseong
+이종우, Lee Jongwoo
+김수웅, Kim Soowoong
+공혁, Gong Hyuk
+이동환, Lee Donghwan
+현승, Hyun Seung
+조인혁, Jo Inhyeok
+정우식, Jung Woosik
+이정진, Lee Jungjin
+원혁, Won Hyeok
+장동호, Jang Dongho
+우치다 유이치, Uchida Yuichi
+카지 유키오, Kaji Yukio
+나카무라 유야, Nakamura Yuya
+스기타 토모야, Sugita Tomoya
+미야노 마코토, Miyano Makoto

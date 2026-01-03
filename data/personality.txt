@@ -1,16 +1,19 @@
-INTJ
-INTP
-ENTP
-ENFP
-INFJ
-INTJ
-ISTP
-ISFP
-ESTJ
-ESFJ
-ENFJ
-ENTJ
-ISTJ
-ISFJ
-ESTP
-ESFP
+츤데레,Tsundere,tsundere,angry,blushing,looking_away,pout,crossed_arms
+쿨데레,Kuudere,kuudere,expressionless,stare,half-closed_eyes,slight_smile
+메가데레,Megadere,excessively_happy,heart_in_eyes,hugging,open_mouth,intense_stare,drooling
+얀데레,Yandere,yandere,empty_eyes,yandere_trance,blood_on_face,holding_knife,scary_smile
+안하무인 아가씨,Ojou-sama,ojousama,smug,hand_fan,ohoho,hands_on_hips,haughty_gaze
+소악마,Little Devil,mischievous,tongue_out,licking_lips,smug,winking,heart_eyes
+갸루,Gyaru,gyaru,grin,v_sign,thick_makeup,tanned_skin,open_mouth
+위원장,Class Rep,adjusting_glasses,serious,angry_vein,lecturing,blushing,pointing
+도짓코,Dojikko,clumsy,tearing_up,bandaid,spiral_eyes,falling,embarrassed
+보쿠 소녀,Bokukko,tomboy,confident,shark_teeth,grin,blushing,fist_pump
+누님,Onee-san,motherly,ara_ara,gentle_smile,closed_eyes,hand_on_cheek,patting_head
+독설가,Sharp Tongue,disgust,jitome,looking_down,cold_stare,frown,ignoring
+야마토 나데시코,Yamato Nadeshiko,yamato_nadeshiko,kimono,bowing,gentle_smile,eyes_closed,blushing
+중2병,Chuunibyou,chuunibyou,eyepatch,dramatic_pose,smug,glowing_eye,shouting
+다루데레,Darudere,sleepy,yawning,rubbing_eyes,drooling,messy_hair,half-closed_eyes
+갭 모에 불량소녀,Delinquent,glare,mask,blushing,embarrassed,holding_cat,squatting
+마망,Mama,doted,breast_hold,gentle_smile,affectionate,hugging,motherly
+히키코모리,Gloomy/Loner,gloomy,bags_under_eyes,hoodie,holding_game_controller,scared,hiding
+사디스트 여왕님,Sadist/Queen,sadist,sadistic_smile,stepping_on,looking_down,scorn,licking_lips
