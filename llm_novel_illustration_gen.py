@@ -280,7 +280,11 @@ if json_value["extended"] == "yes":
     dialog5_1 += temp[2] + "\n"
 else:    
     episode5_1 = episode4_1
-    dialog5_1 = dialog4_1
+    if 60 in config.dialog_dict:
+        temp = rand.sample(config.dialog_dict[60], 3)
+    else:        
+        temp = rand.sample(config.dialog_dict[40], 3)
+    dialog5_1 = temp[0] + "\n"
     prompt_end = prompt4_1 + "," + title4_prom
     body_final = ""
 
@@ -297,14 +301,15 @@ else:
 base_prompt = comfyui_base_gen(sex, age, json_value, artist_prompt, comfyui_prompt, name)
 #comfyui_run_normal(json_value, "level1", base_prompt, job_clothes + "," + prompt1_1)
 
-# Lamda set
 # Test
 config.openpose_set()
 order = "Analyze this SDXL prompt and fix duplicated or unnecesarry ones. Remove pose/motion prompt. Write updated prompt only.\n\n" + job_clothes + "," + prompt3_1
 dummy, full_response = openAI_response(client_rp, system_line_1chat_eng, order ,2, 1)
-updated_prompt = full_response.strip()
+updated_prompt = full_response.strip() 
 if updated_prompt[len(updated_prompt)-1] == ".":
     updated_prompt = updated_prompt[:len(updated_prompt)-1]
+updated_prompt += "," + config.openpose_prom    
+
 comfyui_run_openpose(json_value, "level3", base_prompt, updated_prompt)
 
 config.openpose_set()
@@ -316,9 +321,10 @@ for temp in full_response.splitlines():
         updated_prompt = temp.strip()
         break
 
-#updated_prompt = full_response.strip()
 if updated_prompt[len(updated_prompt)-1] == ".":
     updated_prompt = updated_prompt[:len(updated_prompt)-1]
+updated_prompt += "," + config.openpose_prom    
+
 comfyui_run_openpose(json_value, "level4", base_prompt, updated_prompt)
 #comfyui_run_simple(json_value, "level3", base_prompt, job_clothes + "," + prompt3_1)
 #comfyui_run_simple(json_value, "level4", base_prompt, job_clothes + "," + prompt4_1)

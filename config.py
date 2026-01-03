@@ -21,6 +21,7 @@ love_table = []
 submission_level = ""
 clothes_level = "fully_clothed, adjusting_clothes, clothes_intact"
 openpose = ""
+openpose_prom = ""
 openpose_width = 0
 openpose_height = 0
 openpose_sel = 0
@@ -235,18 +236,29 @@ def random_prompt(wildcard, mynumber):
 
 def openpose_set():
     global openpose
+    global openpose_prom
     global openpose_height
     global openpose_width
     global openpose_sel
-    with open("./data_comfyui/openposeSFW2/json.list", 'r', encoding='utf-8') as r1:
+    pos = str(rand.randint(0,1)) + "/" 
+    with open("./data_comfyui/openposeSFW" + pos + "json.list", 'r', encoding='utf-8') as r1:
         json_list = r1.readlines()
     json_list2 = rand.sample(json_list, 1)[0].strip()
-    with open("./data_comfyui/openposeSFW2/" + json_list2, 'r', encoding='utf-8') as r1:
+
+    with open("./data_comfyui/json_pose.list", 'r', encoding='utf-8') as r1:
+        temp = r1.readlines()
+
+    for temp2 in temp:
+        if json_list2.find(temp2.strip()) > -1:
+            openpose_prom = temp2.replace("_",",").lower().strip()
+            print(openpose_prom, json_list2)
+
+    with open("./data_comfyui/openposeSFW" + pos + json_list2 , 'r', encoding='utf-8') as r1:
         openpose = r1.readline()
 
     temp = openpose.find('"canvas_height":')
     temp2 = openpose.find('"canvas_width":')
-    print(temp,temp2)
+    print(temp,temp2, openpose_prom)
     openpose_height = int(openpose[temp+16:len(openpose)-1])
     openpose_width  = int(openpose[temp2+15:temp-1])
   
