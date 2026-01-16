@@ -199,6 +199,7 @@ fem = ""
 final_corr = ""
 half_corr = ""
 dialog5_1 = ""
+dialog6_1 = ""
 episodekeep = ""
 story_summary = ""
 

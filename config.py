@@ -215,6 +215,7 @@ def character_sheet(sex, age, title1, title2, name, love_value):
 
     character_sheet += "머리색: " + hair_color + "\n"
     character_sheet += "헤어스타일: " + hair_style + "\n"
+    character_sheet += "눈 색깔: " + eye_color + "\n"
     character_sheet_add = "가슴크기: " +body_dic["breasts_size"][breasts_size] + "\n"
     character_sheet_add = character_sheet_add.replace("NONE", "평범")
     character_sheet += character_sheet_add
