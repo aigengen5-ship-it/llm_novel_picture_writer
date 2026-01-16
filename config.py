@@ -14,6 +14,11 @@ personality = ""
 personality_eng = ""
 personality_diag = ""
 personality_prom = ""
+personality_text = ""
+personality_verbal_tic = ""
+personality_consist = ""
+relationship = ""
+
 dialog_dict = {}
 prompt_dict = {}
 love_value = 0
@@ -96,14 +101,40 @@ def body_init(sex, json_value):
 
 def personality_init():
     global personality
+    global personality_eng
     global personality_prom
     global personality_diag
+    global personality_verbal_tic
+    global personality_text
+    global personality_consist
     global love_table
     global dialog_dict
     global prompt_dict
-    personality = random_prompt("data/personality.txt", -1).split(",",2)[0]
-    personality_eng  = random_prompt("data/personality.txt", -1).split(",",2)[1]
-    personality_prom = random_prompt("data/personality.txt", -1).split(",",2)[2]
+
+    # Setup personality
+    if rand.randint(0,1) == 0:
+        personality_consist = "내숭"
+    else:        
+        personality_consist = "순수함"
+    personality = random_prompt("data/personality_tag.txt", -1)
+    personality_text = ""
+
+    with open("./data/personality.txt", 'r', encoding='utf-8') as r1:
+        lines = r1.readlines()
+    
+    line_start = 0    
+    for line in lines:
+        if line[:2] == "##":
+            if line_start == 1:
+                line_start = 0
+            elif line.find(personality) > -1:
+                personality_eng  = line.split(",",2)[1]
+                personality_prom = line.split(",",2)[2].strip()
+                line_start = 1
+        elif line_start == 1:
+            if (line.find("**자주 쓰는") > -1):
+                personality_verbal_tic = line        
+            personality_text += line        
 
     with open("./data/all_char.txt", 'r', encoding='utf-8') as r1:
         lines = r1.readlines()
@@ -113,6 +144,7 @@ def personality_init():
     prevkey = 0
     diag_list = []
     prom_list = []
+
     love_value = 0
     for line in lines:
         # Find line
@@ -132,7 +164,7 @@ def personality_init():
                 love_meter = love_meter.replace(":", "")
                 love_table.append(love_meter.strip())
                 love_value = love_value + 20
-
+    
             pattern = r'(\d+(?:\.\d+)?)%'
             numbers_only = re.findall(pattern, line)
             if (numbers_only):
@@ -161,24 +193,25 @@ def personality_init():
     #print(personality)
     personality_diag = rand.sample(dialog_dict[0], 1)
 
-def character_sheet(sex, age, title1, title2, name):
+def character_sheet(sex, age, title1, title2, name, love_value):
     global body_dic
     global personality
     global personality_prom
+    global dialog_dict
     global hair_color
     global hair_style
     global eye_color
     global face_style
     global love_table
-    global love_value
     temp = int(love_value / 20)
-    character_sheet = ""
+    character_sheet = "## Character Sheet ##\n"
     character_sheet += "이름: " + name + "\n"
     character_sheet += "나이: " + str(age) + "\n"
     character_sheet += "성별: " + sex + "\n"
-    character_sheet += "성격: " + personality + "\n"
+    character_sheet += "성격/말투: " + personality + "\n"
     character_sheet += "직업: " + title2[:len(title2)-1] + "\n"
     character_sheet += "호감도: " + love_table[temp] + "\n"
+#    character_sheet += "대사: " + personality_diag + "\n"
 
     character_sheet += "머리색: " + hair_color + "\n"
     character_sheet += "헤어스타일: " + hair_style + "\n"
@@ -191,6 +224,7 @@ def character_sheet(sex, age, title1, title2, name):
     character_sheet_add = "몸매: " +body_dic["body_size"][body_size] + "\n"
     character_sheet_add = character_sheet_add.replace("NONE", "평범")
     character_sheet += character_sheet_add
+    character_sheet += "\n기타 특징\n\n" + personality_text + "\n"
 
     comfyui_prompt = hair_color + ","
     comfyui_prompt += hair_style + "," + eye_color + ","
@@ -201,17 +235,14 @@ def character_sheet(sex, age, title1, title2, name):
     return character_sheet, comfyui_prompt
 
 # Update Character body
-def character_update():
-    global love_value
+def character_update(love_value):
     global clothes_level
     global personality_diag
     global personality_prom
 
-    # Increase
-    love_value = love_value + 20
     # Personality_prom        
-    if love_value in prompt_dict:
-        personality_diag = rand.sample(dialog_dict[love_value], 1)
+    if love_value in dialog_dict.keys():
+        personality_diag = rand.sample(dialog_dict[love_value], 1)[0].strip()
         #print(personality_diag)
         personality_prom = ",".join(rand.sample(prompt_dict[love_value], 1))
         

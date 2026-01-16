@@ -294,10 +294,6 @@
 큐레이터가,Curator,26,35,evening gown,gallery opening party,champagne
 큐레이터가,Curator,26,35,smart casual blazer,museum pass,art gallery
 큐레이터가,Curator,26,35,working clothes,white gloves,handling artifacts,storage
-통솔자가,Leader,25,39,charismatic uniform,pointing forward,flag
-통솔자가,Leader,25,39,gang leader suit,sunglasses,tattoos,luxury car
-통솔자가,Leader,25,39,revolutionary leader outfit,beret,megaphone,crowd
-통솔자가,Leader,25,39,tribal chief gear,feathers,staff,jungle village
 통역사가,Interpreter,24,35,business suit,headset,notepad,conference room
 통역사가,Interpreter,24,35,smart casual,earpiece,taking notes,interview
 통역사가,Interpreter,24,35,tour guide outfit,flag,leading tourists,historic site

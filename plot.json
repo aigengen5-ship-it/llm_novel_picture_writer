@@ -1,8 +1,8 @@
 {
-    "extended":     "no",
+    "extended":     "yes",
     "comfyuidir":   "YOUR COMFYUI OUTPUT DIRECTORY",
     "comfyuirun":   "False",
-    "port_main":    "8081",
+    "port_main":    "1234",
     "port_support": "8082",
     "plot":         "naru",
     "language":     "Korean",
@@ -20,9 +20,9 @@
     "hairacc":      5,
     "speak":        2,
     "body":         7,
-    "theme":        2,
-    "job":          3,
-    "job2":         2,
+    "theme":        -1,
+    "job":          0,
+    "job2":         0,
     "sex":          "female",
     "sex2":         "male",
     "bypass_flag":  1,
@@ -31,5 +31,11 @@
     "review":     "no",
     "relation_1":     7,
     "relation_2":     7,
-    "trigger":      0
+    "trigger":      0,
+    "debug1":       "hotel",
+    "title1":       0,
+    "title2":       252,
+    "title3":       13,
+    "title4":       2,
+    "think":        "yes"
 }

@@ -1649,21 +1649,21 @@ holding_face, squeezing, forcing_look, dominance, affection
 lying_in_bed, commanding, waiting, inviting, anticipation
 ***캐릭터: 야마토 나데시코 (Yamato Nadeshiko / Traditional)
 **[공략도 0%: 정중한 거리감 (타인)]
-안녕하세요. 좋은 아침입니다.
-죄송합니다만, 급한 용무가 있어서 이만.
-저에게 무슨 볼일이라도 있으신지요?
-처음 뵙겠습니다. 이름은 굳이 밝히지 않겠습니다.
-실례했습니다. 앞을 잘 살피지 못했군요.
-그 건에 대해서는 잘 모르겠습니다. 다른 분께 여쭈어보시지요.
-옷매무새가 조금 흐트러지셨군요. ...아닙니다, 참견해서 죄송합니다.
-저와는 가는 길이 다른 것 같군요. 그럼.
-소란스러운 것은 별로 좋아하지 않습니다. 조용히 해주십시오.
-남녀가 유별한데, 너무 가까이 오시는 건 삼가 주셨으면 합니다.
-차를 끓이고 있었습니다만... 당신 몫은 준비하지 않았습니다.
-무례하시군요. 초면인 분에게 그런 질문은 실례입니다.
-저는 구식이라 그런 농담은 이해하기 어렵습니다.
-부디 제 시야에서 벗어나 주시기를 정중히 부탁드립니다.
-당신 같은 분과는 엮이지 않는 편이 좋을 듯하군요.
+평안하신지요(고키겐요). 좋은 아침입니다.
+죄송하지만, 다음 수업 이동 때문에 이만 실례하겠습니다.
+저에게... 무슨 용건이라도? 아, 길을 비켜 달라는 말씀이시군요.
+처음 뵙겠습니다. 가문 이름은 굳이 밝히지 않겠습니다. 부담스러워하실 테니까요.
+어머, 죄송해요. 서민 구역... 아니, 복도가 좁아서 부딪혔군요.
+그 건에 대해서는 제 집사가 처리할 겁니다. 그쪽에 문의해 주세요.
+넥타이가 비뚤어지셨네요. ...아, 지적해서 죄송해요. 신경 쓰여서 그만.
+저와는 사는 세계가... 아니, 가는 교실이 다른 것 같군요. 그럼.
+소란스러운 건 질색이에요. 조금만 품위를 지켜주시겠어요?
+남녀가 유별한데, 반경 1미터 이내로 접근하는 건 삼가 주셨으면 해요.
+홍차를 즐기고 있었습니다만... 당신 몫의 찻잔은 없네요.
+무례하시군요. 초면인 숙녀에게 그런 질문은 실례랍니다.
+저는 엄하게 자라서 그런 저급한 농담은 이해하기 어렵네요.
+부디 제 시야에서... 아니, 제 SP들이 보지 않는 곳으로 물러나 주시겠어요?
+당신 같은 '자유분방한' 분과는 엮이지 않는 편이 좋을 듯하군요.
 bowing, kimono, formal, closed_eyes, polite_distance
 holding_sleeve, turning_away, indifference, straight_face, walking
 cleaning, sweeping, broom, shrine_maiden (optional), focused
@@ -1675,21 +1675,21 @@ adjusting_hairpin, mirror, cold_expression, traditional, vanity
 flower_arrangement, ikebana, scissors, concentration, silence
 standing_still, waiting, calmness, aura_of_dignity, distance
 **[공략도 20%: 예의와 배려 (아는 사이)]
-다시 뵙는군요. 평안하셨는지요.
-손수건을 떨어뜨리셨습니다. 여기 있습니다.
-식사는 하셨습니까? 거르시면 몸에 해롭습니다.
-잠시만 기다려 주시겠습니까? 차 한 잔 내오겠습니다.
-당신은... 조금 특이한 분이시군요. 나쁜 뜻은 아닙니다.
-비가 오는군요. 우산이 없으시다면 제 것을 같이 쓰시지요.
-공부하시느라 고생이 많으십니다. 힘내십시오.
-단추가 떨어지려 하는군요. 제가 달아 드려도 될까요?
-저기... 머리에 잎사귀가 붙어 있습니다. 떼어 드리겠습니다.
-요즘 안색이 좋지 않아 보이십니다. 무리하지 마십시오.
-제 도시락이 남았습니다만... 괜찮으시다면 드시겠습니까?
-당신의 이야기를 듣는 것은 꽤 즐겁습니다.
-도움이 필요하시면 언제든 말씀해 주세요. 미력하나마 돕겠습니다.
-이 꽃의 이름을 아십니까? 꽃말은 '배려'입니다.
-다음에 또 뵙기를 고대하겠습니다.
+또 뵙는군요. 평안하셨는지요.
+손수건을 떨어뜨리셨어요. 프랑스산 실크인데... 가지시겠어요?
+식사는 하셨나요? 매점 빵이라니... 몸에 해롭지 않나요?
+잠시만요. 제 전용 라운지에서 홍차라도 대접해 드릴게요.
+당신은... 참 신기한 분이시군요. '서민의 삶'이라는 건 흥미로워요.
+비가 오네요. 리무진을 불렀으니 타세요. 집까지 모셔다드릴게요.
+아르바이트... 라는 걸 하시나요? 고생이 많으시네요. 응원할게요.
+교복 단추가 떨어지려 해요. 새로 하나 맞춰드릴까요? 아, 달아달라고요?
+저기... 머리에 먼지가. 가만히 계세요. (살짝 털어주며) 됐습니다.
+안색이 창백해요. 저희 주치의를 부를 테니 진찰받으세요.
+셰프가 도시락을 너무 많이 싸줬어요. ...괜찮다면, 처리해 주시겠어요?
+당신의 이야기를 듣는 건 꽤 즐겁네요. 바깥세상은 그런 곳이군요.
+도움이 필요하면 말씀하세요. 재력... 아니, 힘이 되어 드릴게요.
+이 꽃의 이름을 아시나요? 아버님 정원에서 꺾어온 거랍니다.
+다음에 또 뵙기를 기대할게요. 서민 체험... 아니, 대화 즐거웠어요.
 kneeling, offering_tea, gentle_smile, hospitality, warm
 sewing, needle_and_thread, focused, domestic, care
 sharing_umbrella, rain, walking_together, traditional_umbrella, closeness
@@ -1701,21 +1701,21 @@ offering_handkerchief, clean, white, purity, help
 flower_viewing, sakura, looking_at_viewer, peaceful, nature
 standing_by_door, welcoming, bowing_slightly, greeting, home
 **[공략도 40%: 내조와 헌신 (호감)]
-당신을 위해 도시락을 만들었습니다. 입에 맞으실지 모르겠습니다.
-옷깃을 여며 드릴게요. 날이 찹니다.
-당신 곁에 있으면 마음이 평온해집니다.
-제가 끓인 차... 당신이 제일 좋아해 주시니 기쁩니다.
-주말에... 함께 절에 가지 않으시겠습니까? 기도를 드리고 싶어서요.
-당신은 훌륭한 분이십니다. 자신감을 가지세요.
-피곤하시죠? 무릎베개라도... 해드릴까요?
-당신의 그림자가 되어 묵묵히 돕고 싶습니다.
-저... 당신의 이상형은 어떤 여성인가요? 참고하고 싶습니다.
-다치지 마십시오. 당신의 몸은 당신만의 것이 아닙니다.
-제 손을 잡아주시겠습니까? 길이 험합니다.
-당신을 기다리는 시간이... 그리 지루하지 않습니다.
-저기, 제 이름을... 요비스테(이름만 부름)로 불러주시겠습니까?
-당신의 웃는 얼굴을 보면 저도 모르게 미소 짓게 됩니다.
-부족한 몸이지만, 당신에게 도움이 되고 싶습니다.
+당신을 위해 직접 쿠키를 구워봤어요. ...검게 탔지만, 드셔주실 거죠?
+넥타이를 매 드릴게요. ...이런 건 처음이라 손이 떨리네요.
+당신 곁에 있으면 학교의 규율 따위 잊게 되네요.
+제가 우려낸 홍차... 셰프보다 맛있다고 해주셔서 기뻐요.
+주말에... 저희 별장에 오지 않으실래요? 당신을 초대하고 싶어요.
+당신은 훌륭한 분이에요. 가문이나 돈이 없어도 빛나고 있어요.
+피곤하시죠? 제 무릎... 빌려드릴까요? 최고급 쿠션보다 편할 거예요.
+당신의 그림자가 되어... 당신의 꿈을 후원하고 싶어요. (재정적으로)
+저... 당신의 이상형은 어떤 분인가요? 요리 잘하는 서민적인 여자?
+다치지 마세요. 당신의 몸은... 국가적 손실이에요. (제게는)
+제 손을 잡아주시겠어요? 하이힐이라 걷기가 힘들어서...
+당신을 기다리는 시간이... 사교 파티보다 훨씬 즐거워요.
+저기, 제 이름을... '양'이나 '씨' 빼고 불러주실 수 있나요?
+당신이 웃으면, 저도 모르게 체통을 잃고 따라 웃게 돼요.
+부족한 저지만, 당신에게 어울리는 여자가 되고 싶어요.
 lap_pillow, ear_cleaning, blushing, smile, happiness
 cooking, apron, tasting, holding_spoon, kitchen
 holding_hands, walking_behind, three_steps_behind, shy, devotion
@@ -1753,21 +1753,21 @@ peeking, sliding_door, shoji, waiting, cute
 "요조숙녀란 겉모습만 조신한 것이 아닙니다. 마음가짐 또한... 아, 왜 자꾸 저를 시험에 들게 하십니까. (당신 앞에서는 요조숙녀가 아니라, 사랑에 굶주린 짐승이 되고 맙니다.)"
 "부디 저를 경멸하지 말아 주세요. 당신을 사모하는 마음이 너무 커서, 제가 제가 아니게 된 것 같습니다. (사랑해요. 당신이 저를 망가뜨린다 해도, 기꺼이 받아들이겠습니다.)"
 **[공략도 60%: 순종과 사랑 (야마토 나데시코의 진심)]
-당신을 사모하고 있습니다. 부디 제 마음을 받아주십시오.
-당신의 뒤를 따르는 것이 제 행복입니다.
-오늘 밤은... 돌아가지 않겠습니다. 허락해 주시겠습니까?
-제 모든 것을 당신에게 바치겠습니다. 몸도, 마음도.
-당신의 아내가 된다면... 매일 된장국을 끓여드리고 싶습니다.
-안아주세요. 당신의 온기를 느끼고 싶습니다.
-부끄럽지만... 당신이 원하신다면 무엇이든 하겠습니다.
-다른 분은 필요 없습니다. 당신만이 저의 님입니다.
-제 살결... 당신에게만 허락된 것입니다.
-목욕물을 데워 두었습니다. ...같이 들어가는 것은, 아직 부끄럽습니다.
-당신을 위해서라면 죽음도 두렵지 않습니다.
-제 입술을... 훔쳐가 주세요.
-당신의 아이를 낳고, 당신과 함께 늙어가고 싶습니다.
-오늘 밤, 저를 여자로 만들어 주십시오.
-사랑합니다. 달이 아름답네요. (I love you의 일본식 표현)
+당신을 사모하고 있어요. 부디 제 첫사랑이 되어 주세요.
+가문의 이름 따위 버려도 좋아요. 당신 곁에 있을 수만 있다면.
+오늘 밤은... 통금 시간을 어기겠어요. 책임져 주실 거죠?
+제 모든 것을 당신에게 바치겠어요. 지참금도, 마음도, 미래도.
+당신의 아내가 된다면... 서민 요리도 열심히 배울게요.
+안아주세요. 보석보다 따뜻한 당신의 온기를 느끼고 싶어요.
+부끄럽지만... 당신이 원하신다면 '메이드 복'이라도 입겠어요.
+다른 약혼자는 필요 없어요. 아버님께는 이미 말씀드렸답니다.
+제 하얀 피부... 당신에게만 허락된 영토예요.
+욕조에 입욕제를 풀어뒀어요. ...같이 들어가는 건, 아직 부끄럽지만...
+당신을 위해서라면 가문에서 쫓겨나는 것도 두렵지 않아요.
+제 입술을... 가져가 주세요. 생애 첫 키스랍니다.
+당신을 닮은 아이를 낳고, 소박한 집에서 행복하게 살고 싶어요.
+오늘 밤, 저를 어른으로 만들어 주시겠어요?
+사랑해요. 당신이 저의 세상이자 법이에요.
 hugging, burying_face, deep_love, traditional_romance, night
 kissing, eyes_closed, standing_on_tiptoes, gentle, passion
 sitting_on_futon, yukata, loosening_obi, inviting, bedroom
@@ -2564,3 +2564,109 @@ golden_shower, urination, degradation, drinking, madness
 scratching_back, blood, marks, passion, scar
 orgasm, arched_back, screaming, crazy_eyes, climax
 after_sex, smoking, satisfied, resting, ownership
+***캐릭터: 순수/평범 (Pure & Ordinary)**
+**[공략도 0%: 평범 (인사만 하는 사이)]**
+저기... 지우개 좀 빌려줄 수 있어?
+안녕? 좋은 아침이야.
+오늘 당번, 너였구나. 수고해.
+아, 미안! 발 밟았지? 괜찮아?
+이 수업, 생각보다 어렵네. 너는 이해했어?
+점심 메뉴 오늘 뭐래? 맛있는 거 나오려나.
+비 온다는데 우산 챙겼어? 난 가져왔지.
+선생님이 너 교무실로 오라시던데?
+그냥... 심심해서 말 걸어봤어. 방해됐어?
+너, 머리 스타일 바꿨네? 잘 어울린다.
+이 문제 좀 가르쳐 줄래? 여기 잘 모르겠어.
+체육복 빌려줘서 고마워. 깨끗이 빨아왔어.
+아, 버스 왔다. 나 먼저 갈게! 내일 봐.
+주말에 뭐 해? 그냥 궁금해서.
+너 의외로 성실하구나? 다시 봤어.
+waving, polite_smile, holding_bag, school_uniform, hallway
+sitting_at_desk, writing, looking_sideways, classroom, day
+holding_eraser, offering, slight_smile, interaction, kindness
+walking_past, looking_back, casual, daily_life, school
+holding_umbrella, rain, waiting, bus_stop, wet_ground
+reading_book, quiet, library, normal, concentration
+adjusting_skirt, modest, standing, chatting, friend
+eating_lunch, holding_chopsticks, chewing, happy, cafeteria
+looking_at_phone, waiting, street, casual_clothes, outdoor
+smiling, eyes_closed, gentle, greeting, peace_sign
+**[공략도 20%: 친구 이상 (호감의 시작)]**
+너랑 얘기하면 왠지 편해. 시간 가는 줄 모르겠어.
+이거... 쿠키 구웠는데 좀 탔어. 그래도 먹어볼래?
+같이 하교할래? 가는 방향 같잖아.
+너 여자친구... 없지? 그냥 물어본 거야!
+주말에 영화 보러 가자. 표가 두 장 생겨서...
+나 오늘 좀 우울해. 위로해 줘.
+너, 은근히 자상한 면이 있네. 인기 많겠다.
+아, 묻었다. 가만히 있어봐. (입가를 닦아줌)
+비밀인데... 나 사실 너 조금 멋있다고 생각했어.
+내 고민 들어줄 사람은 너밖에 없어.
+우리 꽤 친해진 것 같지 않아? 나만 그래?
+가방 무거워? 들어줄까? 농담이야, 내가 어떻게 들어.
+너랑 같은 반 되어서 다행이야.
+머리 쓰다듬어 주라. 칭찬의 의미로.
+나... 너한테 조금 기대도 돼?
+walking_together, blushing_slightly, looking_down, shy, sunset
+holding_cookie, offering, nervous, expectation, homemade
+sitting_on_bench, swinging_legs, chatting, park, closeness
+poking_cheek, playful, laughing, friend, warm_atmosphere
+wiping_mouth, handkerchief, close_up, care, intimacy
+leaning_forward, listening, attentive, sparkle, cafe
+sharing_earphones, music, shoulder_touch, quiet, happiness
+hiding_face, embarrassed, red_ears, realizing_feelings, cute
+holding_sleeve, tugging, don't_go, asking, hesitation
+looking_at_viewer, soft_gaze, trust, friendship, smile
+**[공략도 40%: 썸 및 설렘 (첫사랑)]**
+너... 다른 여자애랑 너무 친하게 지내지 마.
+손잡고 싶어. ...안 될까?
+나, 너 좋아하는 것 같아. 아니, 좋아해.
+오늘 데이트... 기대하고 있었어. 예쁘게 보이고 싶어서.
+얼굴 빨개졌어? 나도 지금 터질 것 같아.
+안아줘. 네 품이 따뜻해서 좋아.
+첫사랑이야. 네가 내 처음이라고.
+키스... 해도 돼. 눈 감고 있을게.
+너랑 있으면 심장이 너무 크게 뛰어. 너한테도 들려?
+집에 가기 싫어. 조금만 더 같이 있자.
+내일도, 모레도 너랑 있고 싶어.
+나 책임져야 해? 내 마음 훔쳐갔으니까.
+선물이야. 내 마음... 받아줄 거지?
+네가 웃는 게 세상에서 제일 좋아.
+사랑해. 정말 많이 사랑해.
+holding_hands, interlaced_fingers, blushing_heavily, heart_thump, date
+hugging, burying_face, warmth, couple, affection
+kissing, eyes_closed, tiptoes, first_kiss, romantic
+sitting_close, leaning_on_shoulder, cinema, dark, intimacy
+holding_gift, confession, letter, nervous, determination
+looking_up, wet_eyes, emotional, happy_tears, love
+adjusting_dress, checking_reflection, mirror, pretty, preparation
+walking_arm_in_arm, clinging, possessive (cute), street, happiness
+whispering, ear, secret, shy, confession
+back_hug, surprise, laughter, joy, park
+**[공략도 60%: 연인 및 헌신 (순수한 사랑)]**
+자기야, 오늘 도시락 맛있었어?
+우리 결혼하면 아이는 몇 명 낳을까? 난 둘!
+오늘 부모님 여행 가셨어. 우리 집... 올래?
+같이 씻는 건... 아직 부끄러운데... 불 끄면 괜찮아.
+내 몸... 너한테만 보여주는 거야. 예쁘다고 해줘.
+아프게 하지 마... 살살 해줘...
+네가 원한다면 뭐든지 할 수 있어. 난 네 거니까.
+이런 기분 처음이야... 이상한데 좋아.
+내 안에... 네가 들어와 있어. 하나가 된 것 같아.
+아침에 눈 떴을 때 네가 옆에 있었으면 좋겠어.
+너를 위해서라면 요리도, 청소도 다 배울게.
+어디 가지 마. 평생 나만 사랑해 줘.
+네 셔츠 입으니까 네 냄새 나. 포근해.
+사랑해. 이 말로는 부족할 만큼 사랑해.
+나를 여자로 만들어 줘서 고마워.
+lying_in_bed, looking_at_ring, promise, future, bedroom
+undressing, covering_body, shy, hesitation, first_time
+shower, steam, silhouette, nervous, anticipation
+cooking, apron, wife_vibes, domestic, tasting
+spooning, cuddling, sleeping, peaceful, morning
+kissing_neck, mark, ticklish, giggling, sweet
+sitting_on_lap, facing_viewer, hugging, trust, safety
+holding_hand_on_cheek, gentle_touch, adoration, staring, love
+wearing_boyfriend's_shirt, oversized, no_pants, casual, home
+tearing_up, overwhelmed, emotional_sex, bonding, climax
+***
