@@ -17,9 +17,9 @@ While you are free to modify and redistribute this program, we provide it "as is
 
 1.  `git clone https://github.com/aigengen5-ship-it/llm_novel_picture_writer`
 2.  Create a virtual environment: python3 -m venv ./venv
-3.  Install dependencies: `pip install -r requirements.txt`
-4.  Activate the virtual environment: `source venv/bin/activate`
-5.  Run the script: python llm_novel_illustration_gen.py data/plot_gen_mild.txt
+3.  Activate the virtual environment: `source venv/bin/activate`
+4.  Install dependencies: `pip install -r requirements.txt`
+5.  Run the script: run.scr(or you can add your dialog)
 
 **Output:**
 
@@ -30,8 +30,8 @@ While you are free to modify and redistribute this program, we provide it "as is
 
 All settings can be modified within the `plot.json` file as below.
 1) Please fix plot.json line 2 to sync with your Comfyui environment.
-2) If you don't have enough VRAM, comfyuirun == False will store prompt into ./result directory.
-3) debug is reserved
+2) If you don't have enough VRAM, set comfyuirun to 'False', it will store SDXL prompt into ./result directory.
+3) debug features are reserved ones. Do not modify them.
 4) Do not change line 5-7
 5) artist value is matched with data_comfyui/ura_artist_300.txt line numbers. Value 0 is 'random selection'
 6) freckles value indicates the random possibility(0: 0%, 10:100%)
@@ -43,6 +43,8 @@ All settings can be modified within the `plot.json` file as below.
 12) Do not touch line 15-19.
 13) relation value is matched with data/relationship.txt line number. Value 0 is 'random selection'.
 14) trigger value is matched with data/trigger.txt line number. Value 0 is 'random selection'
+
+Here is plot.json example, you can add/modify json control for your local setup.
 
   1 {
   2     "comfyuidir":   "YOUR COMFYUI OUTPUT DIRECTORY",
