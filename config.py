@@ -99,7 +99,7 @@ def body_init(sex, json_value):
 
     return                
 
-def personality_init():
+def personality_init(json_value):
     global personality
     global personality_eng
     global personality_prom
@@ -108,6 +108,7 @@ def personality_init():
     global personality_text
     global personality_consist
     global love_table
+    global love_value
     global dialog_dict
     global prompt_dict
 
@@ -116,7 +117,7 @@ def personality_init():
         personality_consist = "내숭"
     else:        
         personality_consist = "순수함"
-    personality = random_prompt("data/personality_tag.txt", -1)
+    personality = random_prompt("data/personality_tag.txt", json_value["personality"] - 1)
     personality_text = ""
 
     with open("./data/personality.txt", 'r', encoding='utf-8') as r1:
@@ -203,7 +204,8 @@ def character_sheet(sex, age, title1, title2, name, love_value):
     global eye_color
     global face_style
     global love_table
-    temp = int(love_value / 20)
+    global relationship
+    temp = love_value
     character_sheet = "## Character Sheet ##\n"
     character_sheet += "이름: " + name + "\n"
     character_sheet += "나이: " + str(age) + "\n"
@@ -225,13 +227,18 @@ def character_sheet(sex, age, title1, title2, name, love_value):
     character_sheet_add = "몸매: " +body_dic["body_size"][body_size] + "\n"
     character_sheet_add = character_sheet_add.replace("NONE", "평범")
     character_sheet += character_sheet_add
+    if (relationship != ""):
+        character_sheet += "\n혈연관계:" + relationship + "\n"
+
     character_sheet += "\n기타 특징\n\n" + personality_text + "\n"
 
-    comfyui_prompt = hair_color + ","
-    comfyui_prompt += hair_style + "," + eye_color + ","
-    comfyui_prompt += body_dic["breasts_size"][breasts_size].replace("NONE", "") + ","
+
+    comfyui_prompt = ""
+    #comfyui_prompt = hair_color + ","
+    #comfyui_prompt += hair_style + "," + eye_color + ","
+    #comfyui_prompt += body_dic["breasts_size"][breasts_size].replace("NONE", "") + ","
     #comfyui_prompt += body_dic["hip_size"][hip_size].replace("NONE", "") + ","
-    comfyui_prompt += body_dic["body_size"][body_size].replace("NONE", "") + ","
+    #comfyui_prompt += body_dic["body_size"][body_size].replace("NONE", "") + ","
 
     return character_sheet, comfyui_prompt
 

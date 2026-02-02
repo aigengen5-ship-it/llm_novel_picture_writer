@@ -1,1 +1,1 @@
-python -u llm_novel_illustration_gen.py data/rag_diag.txt data/story_gen.txt | tee result/temp.txt
+python -u llm_novel_illustration_gen.py data/rag_diag.txt data/plot_gen_naru.txt | tee result/temp.txt

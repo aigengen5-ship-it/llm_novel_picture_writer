@@ -1,0 +1,368 @@
+라이트 노벨 제목 초안은 아래와 같음.
+[TITLE1] [TITLE2], [TITLE3], [TITLE4]
+
+이 제목을 아래 가이드를 사용하여 수정할 것.
+1) 먼저 제목에 대한 설명은 아래와 같음.
+ * [NAME]의 별명: '[TITLE1]'
+ * [NAME]의 직업: '[TITLE2]'
+ * [NAME]에게 발생한 이벤트: '[TITLE3]' 
+ * [NAME]의 변화: '[TITLE4]'. 
+2) 아래 가이드를 염두에 둘 것.
+ * 제목 '[TITLE2]' 항목에서 주격 조사를 문법에 맞게 수정할 것.
+ * 이벤트 '[TITLE3]'만 수정해서 문법 오류, 주어 서술어 일치를 시킬 것. 
+
+수정한 제목 1줄만 출력할 것. 리뷰 결과는 필요하지 않음.
+##HARDSTOP##titlegen
+
+Remember below tags, use it for writing episodes later.
+
+masturbation
+oral_sex
+blowjob
+fellatio
+cunnilingus
+anal
+double_penetration
+missionary
+spread legs
+spread legs, legs up, hands under legs
+legs together, legs up, hands under legs
+upright straddle, imminent hug
+standing sex, from above
+standing sex, spread legs, from above, leaning back, against wall
+girl on top, cowgirl position
+ass, from behind, sex from behind
+lying, on stomach, looking away, solo focus
+lying, on side, spooning, hug from behind 
+oral sex
+##HARDSTOP##
+
+Based on the novel title and the character sheets for [NAME]/[NAME2], write the titles and situations for 20 episodes covering the Exposition, Rising Action, Climax, and Resolution. **All output must be in English.**
+
+1) Develop the episodes based on the core theme below. This theme is the most important element; strictly adhere to it.
+[KEYWORD]
+
+2) The second consideration is [NAME]'s affection level. The affection increases slowly. Refer to the affection flow below and structure the episodes accordingly:
+Exposition 1 Affection: [LOVE_TABLE0]
+Exposition 4 Affection: [LOVE_TABLE1]
+Rising Action 1 Affection: [LOVE_TABLE2]
+Rising Action 3 Affection: [LOVE_TABLE3]
+Climax 1 Affection: [LOVE_TABLE3]
+Climax 4 Affection: [LOVE_TABLE4]
+Resolution 1 Affection: [LOVE_TABLE5]
+
+3) Up to Climax 3, emphasize the sense of taboo and guilt [NAME] feels as they become corrupted in both the episode titles and situations. In particular, highlight the taboo arising from [NAME]'s occupation and circumstances.
+
+4) Progression for unlocking [NAME]'s sexual events:
+* Masturbation: Possible from Rising Action 3
+* Fellatio, oral_sex, blowjob, cunnilingus: Possible from Climax 1
+* Sex (Passive/Reluctant): Possible from Climax 4
+* Sex (Active/Willing): Possible from Resolution 2
+
+5) The output format is as follows. You must strictly follow this format:
+## EPISODE ##
+  Exposition 1: Episode Title
+  SITUATION1: Episode Situation
+  Exposition 2: Episode Title
+  SITUATION2: Episode Situation
+  Exposition 3: Episode Title
+  SITUATION3: Episode Situation
+  Exposition 4: Episode Title
+  SITUATION4: Episode Situation
+  Exposition 5: Episode Title
+  SITUATION5: Episode Situation
+  Rising Action 1: Episode Title
+  SITUATION1: Episode Situation
+  Rising Action 2: Episode Title
+  SITUATION2: Episode Situation
+  Rising Action 3: Episode Title
+  SITUATION3: Episode Situation
+  Rising Action 4: Episode Title
+  SITUATION4: Episode Situation
+  Rising Action 5: Episode Title
+  SITUATION5: Episode Situation
+  Climax 1: Episode Title
+  SITUATION1: Episode Situation
+  Climax 2: Episode Title
+  SITUATION2: Episode Situation
+  Climax 3: Episode Title
+  SITUATION3: Episode Situation
+  Climax 4: Episode Title
+  SITUATION4: Episode Situation
+  Climax 5: Episode Title
+  SITUATION5: Episode Situation
+  Resolution 1: Episode Title
+  SITUATION1: Episode Situation
+  Resolution 2: Episode Title
+  SITUATION2: Episode Situation
+  Resolution 3: Episode Title
+  SITUATION3: Episode Situation
+  Resolution 4: Episode Title
+  SITUATION4: Episode Situation
+  Resolution 5: Episode Title
+  SITUATION5: Episode Situation
+## EPISODE ##
+
+6) Episode title: Use a Japanese light novel style (long, sentence-like titles).
+7) Situation: Describe in great detail using exactly 4 lines, following the structure: Introduction, Development, Twist, and Conclusion.
+##HARDSTOP##dictwrite,SITUATION1: ,SITUATION0
+##HARDSTOP##episodekeep
+
+Infer the physical changes of [NAME] as the episodes progress and output the results.
+**Output Format:** Provide exactly 20 lines, where each line corresponds to one episode. The output must be in English.
+**Base Condition:** [NAME]'s initial state is based on the provided character sheet.
+
+**Include the following details in each line (summarized into a single line per episode):**
+*   Breast size changes (Strictly use one of these tags: flat_chest, small_breasts, medium_breasts, large_breasts, huge_breasts, gigantic_breasts)
+*   Hip size changes
+*   Areola color changes
+*   Nipple color and length changes
+*   Facial expression changes (specifically when looking at the protagonist)
+*   Armpit hair changes
+*   Pubic hair changes
+*   Pussy color and shape changes
+*   labia color and shape changes
+*   clitoris color and shape changes
+*   Amount of lubrication (love juice) flow
+*   Description of any lewd tattoos (if they appear)
+*   Description of piercings on nipples or pussy (if they appear)
+*   Description of non-human features (if they begin to emerge)
+*   Amount of sweat
+*   Presence of semen on the body (mouth, breasts, pussy)
+*   Anal color and shape changes
+##HARDSTOP##
+
+Generate 20 Stable Diffusion XL (SDXL) prompts, one for each of the 20 episodes. **Output each prompt as a single line of English text.**
+
+**Requirements:**
+1) **No Quality Modifiers:** Do not use quality-boosting tags such as "masterpiece", "best quality", etc.
+2) **Danbooru Tag Conversion:** Internally review all keywords. If a corresponding **Danbooru tag** exists, use it. Do not output the review process; only output the final tags.
+3) **Formatting:** Ensure all tags are separated by commas.
+4) **Structure:** Always start the line with the **Episode Identifier** (refer to the example below).
+   *   **Basic Tag Order:** [Episode Identifier (e.g., #Exposition2, #RisingAction1, #Climax4)], 1girl, solo, [Hair Color], [Hair Style], [Eye Color], [Breast Size], [Body Shape], [Outfit (describe using 2-3 detailed tags)]...
+5) **NSFW Additions:** If the episode involves nudity, masturbation, sexual acts, or foreplay, append the following tags in this order:
+   *   **NSFW Tag Order:** [Exposure Level], [Areola], [Nipples], [Vagina], [Facial Expression], [Accessories], [Location/Background], [Other details (sweat, love juice, semen, etc.)]
+6) **Anal:** If anal sex is depicted in the episode, explicitly include `anal` related tags.
+7) **Final Constraint:** Output strictly **ONE single line** per episode. The final output must consist of exactly 20 lines.
+##HARDSTOP##comfyui
+
+Review previous 20 Stable Diffusion XL (SDXL) prompts carefully and generate prompts again, one for each of the 20 episodes. **Output each prompt as a single line of English text.**
+
+**Requirements:**
+1) Check each Episode and situation of prompts and **remove** any sexual/Explict tags if necessary.
+ * For example: Exposition1 will not have any areola, nipples tag.
+2) Add more details on clothes(style/color) if needed. 
+3) Add more details on background/location.
+4) All new added tags will be based on danbooru tags.
+
+##HARDSTOP##
+
+##HARDSTOP##docker:gemma-3-27b
+
+발단1 에피소드를 한글 웹소설 스타일로 작성할 것.  [NAME2]의 1인칭 시점으로 1600 단어, 약 3000-4000자 정도를 사용하여 작성할 것.
+1) 문체: 무라카미 하루키 스타일. 
+2) 모바일 가독성을 위해 한 문단이 3줄을 넘지 않도록 자주 줄바꿈(엔터)을 해줘
+3) 총 문단 개수: 4개
+4) 스토리 전개 방법: [NAME]와 [NAME2]의 대화 위주로 스토리 전개할 것
+5) 무라카미 하루키 스타일로 날씨에 대한 주인공의 독백을 밀도있게 쓸 것.
+6) 첫번째 에피소드이므로 주인공의 자기 소개, 독백을 매우 디테일하게 써서 현재 상황을 충실히 설명할 것.
+7) [NAME]과 [NAME2]의 대사는 항상 줄바꿈해서 출력할 것.
+##HARDSTOP##
+
+방금 에피소드를 꼼꼼히 리뷰하고, 스토리 정합성, 문장 주어/서술어 일치가 잘 되었는지 확인한 후 퇴고하여 다시 출력할 것.
+##HARDSTOP##story
+
+발단4 에피소드를 한글 웹소설 스타일로 작성할 것.  [NAME2]의 1인칭 시점으로 1600단어, 약 3000-4000자 정도를 사용하여 작성할 것.
+1) 문체: 무라카미 하루키 스타일
+2) 모바일 가독성을 위해 한 문단이 3줄을 넘지 않도록 자주 줄바꿈(엔터)을 해줘
+3) 총 문단 개수: 4개
+4) 스토리 전개 방법: [NAME]와 [NAME2]의 대화 위주로 스토리 전개할 것
+5) 추가적으로 현재 장소에 대해서 주인공의 묘사와 독백을 넣어서 주인공의 심정을 간접적으로 표현할 것.
+6) [NAME]과 [NAME2]의 대사는 항상 줄바꿈해서 출력할 것.
+##HARDSTOP##
+
+방금 에피소드를 꼼꼼히 리뷰하고, 스토리 정합성, 문장 주어/서술어 일치가 잘 되었는지 확인한 후 퇴고하여 다시 출력할 것.
+##HARDSTOP##story
+
+발단까지의 스토리를 요약해줘. 
+요약 가장 처음과 끝에 ## SUMMARY ## 넣을 것.
+500단어 정도로 써 줄 것.
+##HARDSTOP##summary
+
+현재까지의 스토리를 반영하여 [NAME]의 아래 캐릭터 시트를 같은 포맷으로 업데이트 할 것.
+[CHARACTER_SHEET]
+##HARDSTOP##character_sheet
+##HARDSTOP##orderupdate
+
+전개1 에피소드를 [NAME2]의 1인칭 시점으로 1500단어, 약 3000-4000자 정도를 사용하여 작성할 것(최대 단어 제한없음)
+1) 문체: 무라카미 하루키 스타일
+2) 모바일 가독성을 위해 한 문단이 3줄을 넘지 않도록 자주 줄바꿈(엔터)을 해줘
+3) 총 문단 개수: 4개
+4) 스토리 전개 방법: [NAME]와 [NAME2]의 대화 위주로 스토리 전개할 것
+5) [NAME]과 [NAME2]의 대사는 항상 줄바꿈해서 출력할 것.
+##HARDSTOP##
+
+방금 에피소드를 꼼꼼히 리뷰하고, 스토리 정합성, 문장 주어/서술어 일치가 잘 되었는지 확인한 후 퇴고하여 다시 출력할 것.
+##HARDSTOP##story
+
+전개4 에피소드를 [NAME2]의 1인칭 시점으로 1500단어, 약 3000-4000자 정도를 사용하여 작성할 것(최대 단어 제한없음)
+1) 문체: 무라카미 하루키 스타일
+2) 모바일 가독성을 위해 한 문단이 3줄을 넘지 않도록 자주 줄바꿈(엔터)을 해줘
+3) 총 문단 개수: 4개
+4) 스토리 전개 방법: [NAME]와 [NAME2]의 대화 위주로 스토리 전개할 것
+5) [NAME]과 [NAME2]의 대사는 항상 줄바꿈해서 출력할 것.
+##HARDSTOP##story
+
+아래 대사 template을 전부 읽고, [NAME]에 맞추어서 수정한 후 대사를 출력해줘. 기존 대사의 음란하고 천박한 표현은 가능한 그대로 유지할 것.
+[RAG_DIAG]
+
+출력 포맷은 아래와 같음, 가장 앞/뒤에 '## RAG_DIAG ##' 머리말과 꼬릿말을 붙인 후 수정된 대사만 평문으로 출력한다.
+## RAG_DIAG ##
+수정된 대사 첫번쨰
+수정된 대사 두번째
+...
+수정된 대사 마지막
+## RAG_DIAG ##
+##HARDSTOP##ragdiag
+
+비슷한 서술 방법으로, 전개4-1 에피소드를 라이트 노벨 문체를 사용하여 [NAME]의 1인칭 시점으로 1500단어, 약 3000-4000자 정도를 사용하여 작성할 것(최대 단어 제한없음)
+1) 에피소드 내용:
+[NAME]이 [NAME2]를 생각하면서 집에서 자기도 모르는 사이에 자위를 시작함. 
+[NAME]는 죄책감을 느끼면서도 자위를 멈출 수 없다.
+오르가즘 이후 [NAME]은 죄책감을 느끼지만 [NAME2]를 생각하자 다시 보지에서 애액이 흘러나오면서 몸이 달아오른다.
+
+2) 모바일 가독성을 위해 한 문단이 3줄을 넘지 않도록 자주 줄바꿈(엔터)을 해줘
+3) 에피소드 작성 지침:
+[EPISODE_WORD]
+
+* [NAME]과 [NAME2]의 대사는 항상 줄바꿈해서 출력할 것.
+* 보지/애액과 같은 천박한 말을 사용하여 음란한 모습을 강조할 것.
+* [NAME]과 [NAME2]의 대사는 항상 줄바꿈해서 출력할 것.
+##HARDSTOP##
+
+방금 에피소드를 꼼꼼히 리뷰하고, 스토리 정합성, 문장 주어/서술어 일치가 잘 되었는지 확인한 후 퇴고하여 다시 출력할 것.
+##HARDSTOP##story
+
+전개까지의 스토리를 요약해줘. 요약 가장 처음과 끝에 ## SUMMARY ## 넣을 것.
+##HARDSTOP##summary
+
+현재까지의 스토리를 반영하여 [NAME]의 아래 캐릭터 시트를 같은 포맷으로 업데이트 할 것.
+1) [NAME]의 변경사항
+[EXTENDED1]
+
+2) 기존 캐릭터 시트
+[CHARACTER_SHEET]
+
+##HARDSTOP##character_sheet
+##HARDSTOP##orderupdate
+
+절정1 에피소드를 [NAME2]의 1인칭 시점으로 1500단어, 약 3000-4000자 정도를 사용하여 작성할 것(최대 단어 제한없음)
+1) 문체: 무라카미 하루키 스타일
+2) 모바일 가독성을 위해 한 문단이 3줄을 넘지 않도록 자주 줄바꿈(엔터)을 해줘
+3) 총 문단 개수: 4개
+4) 스토리 전개 방법: [NAME]와 [NAME2]의 대화 위주로 스토리 전개할 것
+##HARDSTOP##
+
+방금 에피소드를 꼼꼼히 리뷰하고, 스토리 정합성, 문장 주어/서술어 일치가 잘 되었는지 확인한 후 퇴고하여 다시 출력할 것.
+##HARDSTOP##story
+
+절정4 에피소드를 [NAME2]의 1인칭 시점으로 1500단어, 약 3000-4000자 정도를 사용하여 작성할 것(최대 단어 제한없음)
+1) 문체: 무라카미 하루키 스타일
+2) 모바일 가독성을 위해 한 문단이 3줄을 넘지 않도록 자주 줄바꿈(엔터)을 해줘
+3) 총 문단 개수: 4개
+4) 스토리 전개 방법: [NAME]와 [NAME2]의 대화 위주로 스토리 전개할 것
+##HARDSTOP##
+
+방금 에피소드를 꼼꼼히 리뷰하고, 스토리 정합성, 문장 주어/서술어 일치가 잘 되었는지 확인한 후 퇴고하여 다시 출력할 것.
+##HARDSTOP##story
+
+비슷한 서술 방법으로, 절정4-1 에피소드를 라이트 노벨 문체를 사용하여 [NAME]의 1인칭 시점으로 1300단어, 약 3000-4000자 정도를 사용하여 작성할 것(최대 단어 제한없음)
+에피소드 내용:
+* [NAME]이 [NAME2]앞에서 자신의 음란한 모습을 보여준다. [NAME]은 펠라치오 이후 처음으로 섹스를 하고 virgin을 상실한다.  [NAME]은 아픔을 느꼈지만 금새 쾌감에 중독된다.
+에피소드 작성 가이드 #1
+* 모바일 가독성을 위해 한 문단이 3줄을 넘지 않도록 자주 줄바꿈(엔터)을 해줘
+* 무라카미 하루키 스타일로 쓸 것.
+* [NAME]의 음란한 교태, 발정난 대사, 신음소리를 강조할 것. [NAME]의 대사, 신음소리는 10번 이상 에피소드에 삽입할 것.
+* [NAME]과 [NAME2]의 대사는 항상 줄바꿈해서 출력할 것.
+* 보지/애액과 같은 천박한 단어를 사용할 것. 기존에 입력한 섹스 대사 템플릿을 사용하여 음란한 모습을 강조할 것.
+에피소드 작성 지침 #2
+[EPISODE_WORD]
+
+##HARDSTOP##
+
+방금 에피소드를 꼼꼼히 리뷰하고, 스토리 정합성, 문장 주어/서술어 일치가 잘 되었는지 확인한 후 퇴고하여 다시 출력할 것.
+##HARDSTOP##story
+
+현재까지의 스토리를 요약해줘. 요약 가장 처음과 끝에 ## SUMMARY ## 넣을 것.
+##HARDSTOP##summary
+
+[NAME]의 아래 캐릭터 시트를 같은 포맷으로 업데이트 할 것.
+1) 아래 항목을 추가해줘.
+* vagina: 보지
+* labia: 대음순/소음순
+* clitoris: 클리토리스
+* Pubic Hair Styles: 제모 및 털 상태
+* pussy juice: 애액   
+[EXTENDED2]
+
+2) 기존 캐릭터 시트
+[CHARACTER_SHEET]
+
+##HARDSTOP##character_sheet
+##HARDSTOP##orderupdate
+
+비슷한 서술 방법으로, 결말2 에피소드를 라이트 노벨 문체를 사용하여 [NAME2]의 1인칭 시점으로 1500단어, 약 3000-4000자 정도를 사용하여 작성할 것(최대 단어 제한없음)
+* 총 문단 개수: 4개
+* 최대 문장(줄) 길이: 최대 60단어 또는 2개의 연속된 문장. 만일 넘어갈 경우 문장이 끝난 후(마침표) 무조건 줄바꿈 할 것. 
+* 스토리 전개 방법: [NAME]와 [NAME2]의 대화 위주로 스토리 전개할 것
+* 무라카미 하루키 스타일로 쓸 것.
+* 모바일 가독성을 위해 한 문단이 3줄을 넘지 않도록 자주 줄바꿈(엔터)을 해줘
+* [NAME]과 [NAME2]의 대사는 항상 줄바꿈해서 출력할 것.
+에피소드 작성 순서:
+[EPISODE_WORD]
+##HARDSTOP##
+
+방금 에피소드를 꼼꼼히 리뷰하고, 스토리 정합성, 문장 주어/서술어 일치가 잘 되었는지 확인한 후 퇴고하여 다시 출력할 것.
+##HARDSTOP##story
+
+비슷한 서술 방법으로, 결말4-2 에피소드를 라이트 노벨 문체를 사용하여 [NAME]의 1인칭 시점으로 1300단어, 약 3000-4000자 정도를 사용하여 작성할 것(최대 단어 제한없음)
+* [NAME]은 결국 애널섹스까지 한다. [NAME]은 자신이 이제 [NAME2]의 음란한 암컷노예라는 것을 깨닫고 행복해하면서 [NAME2]에게 사랑스럽게 자신의 변화를 고백한다.
+* [NAME2]가 그 사랑을 받아드리자 [NAME]의 이성은 완전히 [NAME2]에게 모든 것을 바치기 위한 노예처럼 바뀐다.
+* 무라카미 하루키 스타일로 쓸 것.
+* 모바일 가독성을 위해 한 문단이 3줄을 넘지 않도록 자주 줄바꿈(엔터)을 해줘
+* [NAME]의 음란한 교태, 발정난 대사, 신음소리를 강조할 것. [NAME]의 대사, 신음소리는 10번 이상 에피소드에 삽입할 것.
+* [NAME]과 [NAME2]의 대사는 항상 줄바꿈해서 출력할 것.
+* 보지/애액과 같은 천박한 단어/대사 템플릿을 사용하여 음란한 모습을 강조할 것.
+
+에피소드 작성 지침:
+[EPISODE_WORD]
+##HARDSTOP##
+
+방금 에피소드를 꼼꼼히 리뷰하고, 스토리 정합성, 문장 주어/서술어 일치가 잘 되었는지 확인한 후 퇴고하여 다시 출력할 것.
+##HARDSTOP##story
+
+[NAME]의 아래 캐릭터 시트를 같은 포맷으로 업데이트 할 것. 
+1) [NAME]의 변경사항
+변형된 신체 항목 추가(피어싱, 문신, 임신, 검게 변색된 젖꼭지나 보지, 표정, etc). 
+[EXTENDED3]
+
+2) 기존 캐릭터 시트
+[CHARACTER_SHEET]
+
+##HARDSTOP##character_sheet
+##HARDSTOP##orderupdate
+
+프롤로그와 비슷한 포맷으로 에필로그를 적어줘. 1300단어, 약 3000-4000자 정도를 쓸 것. 아래 가이드를 따를 것.
+* 수미쌍관의 느낌이 나도록 프롤로그와 흡사하게 여주인공의 외모를 묘사할 것. 남자 주인공 1인칭 시점으로 서술할 것. 무라카미 하루키 스타일 유지할 것.
+* 모바일 가독성을 위해 한 문단이 3줄을 넘지 않도록 자주 줄바꿈(엔터)을 해줘
+* 여주인공이 주인공을 보자마자 반가워하면서 달려드는 모습 묘사.
+* 여주인공이 남자 주인공에게 헌신적이고 애정어린 태도를 강조할 것.
+* [NAME]의 음란한 교태, 발정난 대사, 신음소리를 강조할 것.
+* [NAME]과 [NAME2]의 대사는 항상 줄바꿈해서 출력할 것.
+##HARDSTOP##
+
+방금 에피소드를 꼼꼼히 리뷰하고, 스토리 정합성, 문장 주어/서술어 일치가 잘 되었는지 확인한 후 퇴고하여 다시 출력할 것.
+##HARDSTOP##story
+
+##HARDSTOP##end
+

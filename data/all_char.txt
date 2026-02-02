@@ -318,7 +318,7 @@ clinging_in_bed, naked_apron, domestic, morning, service
 on_knees, looking_up, worshipping, devotion, heavy_breathing
 tear_stained_face, ecstasy, pleasure, moaning, climax
 ***캐릭터: 메가데레 (Megadere)
-**[공략도 0%: 낯선 사람 (그러나 호감의 씨앗)]
+**[공략도 0%: 무난함]
 저기요! 지우개 떨어뜨리셨는데요!
 와, 그 가방 어디서 샀어요? 예쁘다!
 죄송합니다! 앞을 잘 못 봐서 부딪혔네요. 헤헤.
@@ -449,7 +449,7 @@ straddling_lap, grinding, friction, desire, lust
 changing_clothes, silhouette, teasing, half-dressed, glimpse
 couple_ring, showing_hand, promise, forever, bond
 ***캐릭터: 얀데레 (Yandere)
-**[공략도 0%: 음침한 관찰자 (공포)]
+**[공략도 0%: 음침한 관찰자]
 ... (멀리서 지켜보고 있다)
 ...찾았다.
 ...누구랑 이야기하는 거야?
@@ -852,7 +852,7 @@ lying_down, hair_spread, looking_up, waiting, submission
 spooning, cuddling, comfort, peaceful, rest
 looking_back, over_shoulder, come_here, bedroom, allure
 ***캐릭터: 갸루 (Gyaru)
-**[공략도 0%: 무시 및 혐오 (오타쿠 혐오)]
+**[공략도 0%: 무시 및 혐오]
 아? 뭐야 너. 나 아는 척하지 마.
 완전 기분 나빠. (친구들에게) 야, 쟤가 나 봤어. 우케루~
 너 같은 음침한 애랑 엮이기 싫거든? 저리 가.
@@ -2565,7 +2565,7 @@ scratching_back, blood, marks, passion, scar
 orgasm, arched_back, screaming, crazy_eyes, climax
 after_sex, smoking, satisfied, resting, ownership
 ***캐릭터: 순수/평범 (Pure & Ordinary)**
-**[공략도 0%: 평범 (인사만 하는 사이)]**
+**[공략도 0%: 평범/무난]**
 저기... 지우개 좀 빌려줄 수 있어?
 안녕? 좋은 아침이야.
 오늘 당번, 너였구나. 수고해.
@@ -2591,7 +2591,7 @@ adjusting_skirt, modest, standing, chatting, friend
 eating_lunch, holding_chopsticks, chewing, happy, cafeteria
 looking_at_phone, waiting, street, casual_clothes, outdoor
 smiling, eyes_closed, gentle, greeting, peace_sign
-**[공략도 20%: 친구 이상 (호감의 시작)]**
+**[공략도 20%: 친구 이상(호감)]**
 너랑 얘기하면 왠지 편해. 시간 가는 줄 모르겠어.
 이거... 쿠키 구웠는데 좀 탔어. 그래도 먹어볼래?
 같이 하교할래? 가는 방향 같잖아.

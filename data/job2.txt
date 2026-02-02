@@ -1,11 +1,9 @@
-middle school student, 14, 16, NONE
-high school student, 16, 18, NONE
-university student, 18, 22, NONE
-teacher, 25, 40, NONE
-otaku, 18, 25, NONE
-office worker, 35, 45, NONE
-office worker, 15, 35, NONE
-clergyman/Priestess, 35, 35, NONE
-young yakuza boss, 15, 20, NONE
-demon who lives while hiding his identity, 15, 200
-villain of an evil organization who lives while hiding his identity, 15, 60
+중학생,14, 16, [NAME]가 연인이 되었으면 한다.
+고등학생,16, 18, [NAME]가 연인이 되었으면 한다.
+대학생, 18, 22,[NAME]가 연인이 되었으면 한다.  
+선생님,25, 40,[NAME]가 자신의 연인이 되었으면 한다.   
+오타쿠,18, 25,[NAME]가 자신의 연인이 되었으면 한다.   
+직장인,35, 45,[NAME]가 자신의 연인이 되었으면 한다. 
+젊은 야쿠자 보스,15, 35, [NAME]를 [NAME2]만을 사랑하는 여자 야쿠자로 타락시키고 싶어함.
+정체를 숨긴 악마,15, 200, [NAME]를 [NAME2]만을 사랑하는 여자 악마로 타락시키고 싶어함.
+정체를 숨긴 악의 조직 보스, 15, 60, [NAME]를 [NAME2]만을 사랑하는 악의 조직 간부로 만들고 싶어함.

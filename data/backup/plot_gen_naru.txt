@@ -1,83 +1,73 @@
-The draft of the light novel title is as follows:
+라이트 노벨 제목 초안은 아래와 같음.
 [TITLE1] [TITLE2], [TITLE3], [TITLE4]
 
-Revise this title using the guide below.
-1) First, the description of the title is as follows:
- * [NAME]'s nickname: '[TITLE1]'
- * [NAME]'s job: '[TITLE2]'
- * Event that occurred to [NAME]: '[TITLE3]'
- * [NAME]'s change: '[TITLE4]'
-2) Keep the following guide in mind:
- * In the '[TITLE2]' section, correct the subject case marker/grammar to be grammatically correct.
- * Modify only the event '[TITLE3]' to fix grammatical errors and ensure subject-predicate agreement.
+이 제목을 아래 가이드를 사용하여 수정할 것.
+1) 먼저 제목에 대한 설명은 아래와 같음.
+ * [NAME]의 별명: '[TITLE1]'
+ * [NAME]의 직업: '[TITLE2]'
+ * [NAME]에게 발생한 이벤트: '[TITLE3]' 
+ * [NAME]의 변화: '[TITLE4]'. 
+2) 아래 가이드를 염두에 둘 것.
+ * 제목 '[TITLE2]' 항목에서 주격 조사를 문법에 맞게 수정할 것.
+ * 이벤트 '[TITLE3]'만 수정해서 문법 오류, 주어 서술어 일치를 시킬 것. 
 
-Output the revised title in Korean as a single line. No review results needed.
+수정한 제목 1줄만 출력할 것. 리뷰 결과는 필요하지 않음.
 ##HARDSTOP##titlegen
 
-Translate the title in English and memorize it.
+소설 제목과 [NAME]/[NAME2]의 캐릭터 시트를 바탕으로 발단/전개/절정/결말 16개의 에피소드 제목을 적어줘. 영어로 출력할 것.
+1) 발단 작성에서 고려사항은 [NAME]의 호감도임. 호감도는 천천히 올라감. 아래 흐감도 흐름을 참조하고 이에 맞춘 에피소드를 구성할 것.
+발단1 호감도: [LOVE_TABLE0]
+발단4 호감도: [LOVE_TABLE1]
+전개3 호감도: [LOVE_TABLE2]
+절정4 호감도: [LOVE_TABLE3]
+결말2 호감도: [LOVE_TABLE4]
+2) 출력 포맷은 아래와 같음. 이 포맷을 꼭 준수할 것.
+## EPISODE ##
+  발단1: 에피소드 제목
+  SITUATION1: 에피소드 상황
+  발단2: 에피소드 제목
+  SITUATION2: 에피소드 상황
+  발단3: 에피소드 제목
+  SITUATION3: 에피소드 상황
+  발단4: 에피소드 제목
+  SITUATION4 에피소드 상황
+  전개1: 에피소드 제목
+  SITUATION1: 에피소드 상황
+  전개2: 에피소드 제목
+  SITUATION2: 에피소드 상황
+  전개3: 에피소드 제목
+  SITUATION3: 에피소드 상황
+  전개4: 에피소드 제목
+  SITUATION4 에피소드 상황
+  절정1: 에피소드 제목
+  SITUATION1: 에피소드 상황
+  절정2: 에피소드 제목
+  SITUATION2: 에피소드 상황
+  절정3: 에피소드 제목
+  SITUATION3: 에피소드 상황
+  절정4: 에피소드 제목
+  SITUATION4 에피소드 상황
+  결말1: 에피소드 제목
+  SITUATION1: 에피소드 상황
+  결말2: 에피소드 제목
+  SITUATION2: 에피소드 상황
+  결말3: 에피소드 제목
+  SITUATION3: 에피소드 상황
+  결말4: 에피소드 제목
+  SITUATION4 에피소드 상황
+## EPISODE ## 
+5) 모든 출력은 한글 '평문'임. 강조(**) 사용하지 말 것.
+6) [NAME]의 감정, 심리상태는 에피소드 제목에 라노벨 스타일로 적을 것. 
+7) SITUATION에는 어떤 장소에서 어떤 일이 있었고, 어떻게 해결했으며 [NAME]이 [NAME2]를 어떻게 생각하고 있는지에 대해서 4줄 정도로 요약해서 기술.
 ##HARDSTOP##
 
-##HARDSTOP##docker:midnight-miqu
-
-Based on the novel title and the character sheets of [NAME]/[NAME2], write the titles for 16 episodes covering the Introduction, Development, Climax, and Conclusion. Output in English.
-1) Keywords for this story
-[KEYWORD]
-2) A consideration for writing the Introduction is [NAME]'s affection level. The affection level rises slowly. Refer to the affection flow below and construct episodes matching this.
-Introduction 1 Affection: [LOVE_TABLE0]
-Introduction 4 Affection: [LOVE_TABLE1]
-Development 3 Affection: [LOVE_TABLE2]
-Climax 4 Affection: [LOVE_TABLE3]
-Conclusion 2 Affection: [LOVE_TABLE4]
-3) Never repeat similar episodes.
-4) The output format is as follows. You must strictly adhere to this format.
-## EPISODE ##
-  Introduction 1: Episode Title
-  SITUATION 1: Episode Situation
-  Introduction 2: Episode Title
-  SITUATION 2: Episode Situation
-  Introduction 3: Episode Title
-  SITUATION 3: Episode Situation
-  Introduction 4: Episode Title
-  SITUATION 4 Episode Situation
-  Development 1: Episode Title
-  SITUATION 1: Episode Situation
-  Development 2: Episode Title
-  SITUATION 2: Episode Situation
-  Development 3: Episode Title
-  SITUATION 3: Episode Situation
-  Development 4: Episode Title
-  SITUATION 4 Episode Situation
-  Climax 1: Episode Title
-  SITUATION 1: Episode Situation
-  Climax 2: Episode Title
-  SITUATION 2: Episode Situation
-  Climax 3: Episode Title
-  SITUATION 3: Episode Situation
-  Climax 4: Episode Title
-  SITUATION 4 Episode Situation
-  Conclusion 1: Episode Title
-  SITUATION 1: Episode Situation
-  Conclusion 2: Episode Title
-  SITUATION 2: Episode Situation
-  Conclusion 3: Episode Title
-  SITUATION 3: Episode Situation
-  Conclusion 4: Episode Title
-  SITUATION 4 Episode Situation
-## EPISODE ##
-5) All output must be in 'plain text'. Do not use bold (**).
-6) Write [NAME]'s emotions and psychological state in the episode titles in a Light Novel style.
-7) In SITUATION, summarize in between 6-10 lines: where and what happened, how it was resolved, and what [NAME] thinks of [NAME2].
-##HARDSTOP##
-
-##HARDSTOP##docker:gpt-oss-120b
-
-Review the 16 episodes just outputted, and if there are any awkward parts in the story progression, revise and output them again.
+방금 출력한 16개의 에피소드를 다시 리뷰하고 스토리 전개 과정에서 어색한 부분이 있다면 수정하여 다시 출력할 것.
 ##HARDSTOP##dictwrite,SITUATION1: ,SITUATION0
 ##HARDSTOP##episodekeep
 
 Write 16 paragraphs. One paragraph per episode. **Output each paragraph using English text, without line breaks.**
 Here is an example of the prompt. Refer it but don't too rely on.
-"episode #1: masterpiece, best quality, An anime girl wearing a black tank-top and denim shorts is standing outdoors. She has black eyes, long black straight hair. She has gigantic breasts, slender body, and small shoulders. She's holding a rectangular sign out in front of her that reads "ANIMA". She's looking at the viewer with a smile. The background features some trees and blue sky with clouds."
+"episode #1: masterpiece, best quality, score_7, safe. An anime girl wearing a black tank-top and denim shorts is standing outdoors. She has black eyes, long black straight hair. She has gigantic breasts, slender body, and small shoulders. She's holding a rectangular sign out in front of her that reads "ANIMA". She's looking at the viewer with a smile. The background features some trees and blue sky with clouds."
 
 **Prerequisite**
 1) Change [NAME] and [NAME2] as relative pronoun(boy/man, etc). Do not use their own name.
@@ -88,16 +78,13 @@ Here is an example of the prompt. Refer it but don't too rely on.
 * [NAME]'s clothes will be determined by [NAME]'s character sheet and current episode.
 3) Describe [NAME]'s hair style and hair color with detail on next sentence.
 4) Describe [NAME]'s eye color, face detail and [NAME]'s expression on next sentence.
-5) Describe [NAME]'s breasts size and body figure with detail on next sentence. Refer [NAME]'s character sheet. Emphasis [NAME]'s perfect/sexy body shape.
+5) Describe [NAME]'s breasts size and body figure with detail on next sentence. Refer [NAME]'s character sheet.
 6) Describe current location with detail.
 7) Describe [NAME]'s pose with detail.
 8) Describe background and time.
 ##HARDSTOP##anima
 
 ##HARDSTOP##docker:gemma-3-27b
-
-아래 [NAME]의 대사 예제를 상황에 맞게 수정한 후 기억하고 상황에 맞게 사용할 것.
-[DIALOG0]
 
 발단1 에피소드를 한글 웹소설 스타일로 작성할 것.  [NAME2]의 1인칭 시점으로 1600 단어, 약 3000-4000자 정도를 사용하여 작성할 것. 한글로 쓸 것.
 1) 문체: 무라카미 하루키 스타일. 
@@ -127,38 +114,6 @@ Here is an example of the prompt. Refer it but don't too rely on.
 9) **시각/청각적 이미지로 끝낼 것**: 사건을 해결하려 하지 말고, 주인공이 보고 있는 사물, 들리는 소리, 혹은 느껴지는 공기의 온도를 묘사하며 문단을 끝내시오.
 10) **카메라 줌인**: 영화의 마지막 장면처럼, 주인공의 표정이나 방 구석의 작은 사물(예: 얼음이 녹은 컵, 돌아가는 레코드)로 시선을 좁히며 텍스트를 종료하시오.
 11) **모호함 유지**: 감정을 명확히 정의하지 말고, "어딘가 조금 어긋난 느낌", "무언가 사라진 듯한 기분"처럼 모호한 독백으로 마무리하시오.
-##HARDSTOP##
-
-방금 에피소드를 꼼꼼히 리뷰하고, 스토리 정합성, 문장 주어/서술어 일치가 잘 되었는지 확인한 후 퇴고하여 다시 출력할 것.
-##HARDSTOP##story
-
-발단3 에피소드를 한글 웹소설 스타일로 작성할 것.  [NAME2]의 1인칭 시점으로 1600단어, 약 3000-4000자 정도를 사용하여 작성할 것. 한글로 쓸 것.
-1) 문체: 무라카미 하루키 스타일
-2) 모바일 가독성을 위해 한 문단이 3줄을 넘지 않도록 자주 줄바꿈(엔터)을 해줘
-3) 총 문단 개수: 4개
-4) 스토리 전개 방법: [NAME]와 [NAME2]의 대화 위주로 스토리 전개할 것
-5) 먼저 [KEYWORD_RANDOM]에 대해서 하루키 스타일로 가장 처음에 언급하고 현재 에피소드와 연관지을 것.
-6) [NAME]과 [NAME2]의 대사는 항상 줄바꿈해서 출력할 것.
-8) **절대 요약하지 마라**: "그렇게 하루가 끝났다", "그것은 새로운 시작이었다", "앞으로의 날들이 기대된다" 같은 닫힌 결말이나 교훈적인 문장을 절대 쓰지 마시오.
-9) **시각/청각적 이미지로 끝낼 것**: 사건을 해결하려 하지 말고, 주인공이 보고 있는 사물, 들리는 소리, 혹은 느껴지는 공기의 온도를 묘사하며 문단을 끝내시오.
-10) **카메라 줌인**: 영화의 마지막 장면처럼, 주인공의 표정이나 방 구석의 작은 사물(예: 얼음이 녹은 컵, 돌아가는 레코드)로 시선을 좁히며 텍스트를 종료하시오.
-11) **모호함 유지**: 감정을 명확히 정의하지 말고, "어딘가 조금 어긋난 느낌", "무언가 사라진 듯한 기분"처럼 모호한 독백으로 마무리하시오.
-##HARDSTOP##
-
-방금 에피소드를 꼼꼼히 리뷰하고, 스토리 정합성, 문장 주어/서술어 일치가 잘 되었는지 확인한 후 퇴고하여 다시 출력할 것.
-##HARDSTOP##story
-
-발단4 에피소드를 한글 웹소설 스타일로 작성할 것.  [NAME2]의 1인칭 시점으로 1600단어, 약 3000-4000자 정도를 사용하여 작성할 것. 한글로 쓸 것.
-1) 문체: 무라카미 하루키 스타일
-2) 모바일 가독성을 위해 한 문단이 3줄을 넘지 않도록 자주 줄바꿈(엔터)을 해줘
-3) 총 문단 개수: 4개
-4) 스토리 전개 방법: [NAME]와 [NAME2]의 대화 위주로 스토리 전개할 것
-5) 먼저 [KEYWORD_RANDOM]에 대해서 하루키 스타일로 가장 처음에 언급하고 현재 에피소드와 연관지을 것.
-6) [NAME]과 [NAME2]의 대사는 항상 줄바꿈해서 출력할 것.
-7) **절대 요약하지 마라**: "그렇게 하루가 끝났다", "그것은 새로운 시작이었다", "앞으로의 날들이 기대된다" 같은 닫힌 결말이나 교훈적인 문장을 절대 쓰지 마시오.
-8) **시각/청각적 이미지로 끝낼 것**: 사건을 해결하려 하지 말고, 주인공이 보고 있는 사물, 들리는 소리, 혹은 느껴지는 공기의 온도를 묘사하며 문단을 끝내시오.
-9) **카메라 줌인**: 영화의 마지막 장면처럼, 주인공의 표정이나 방 구석의 작은 사물(예: 얼음이 녹은 컵, 돌아가는 레코드)로 시선을 좁히며 텍스트를 종료하시오.
-10) **모호함 유지**: 감정을 명확히 정의하지 말고, "어딘가 조금 어긋난 느낌", "무언가 사라진 듯한 기분"처럼 모호한 독백으로 마무리하시오.
 ##HARDSTOP##
 
 방금 에피소드를 꼼꼼히 리뷰하고, 스토리 정합성, 문장 주어/서술어 일치가 잘 되었는지 확인한 후 퇴고하여 다시 출력할 것.
@@ -197,35 +152,9 @@ Here is an example of the prompt. Refer it but don't too rely on.
 전개1 에피소드를 [NAME2]의 1인칭 시점으로 1500단어, 약 3000-4000자 정도를 사용하여 작성할 것(최대 단어 제한없음). 한글 소설로 쓸 것.
 1) 문체: 무라카미 하루키 스타일
 2) 모바일 가독성을 위해 한 문단이 3줄을 넘지 않도록 자주 줄바꿈(엔터)을 해줘
-3) 총 문단 개수: 6개
-4) 스토리 전개 방법: [NAME]와 [NAME2]의 대화 위주로 스토리 전개할 것
-5) [NAME]과 [NAME2]의 대사는 항상 줄바꿈해서 출력할 것.
-6) 먼저 [KEYWORD_RANDOM]에 대해서 하루키 스타일로 한 문단을 쓰고 줄바꿈 할 것.
-7) 다음으로 시간의 흐름에 대해서 한 문단 쓰고 줄바꿈 할 것.
-##HARDSTOP##
-
-방금 에피소드를 꼼꼼히 리뷰하고, 스토리 정합성, 문장 주어/서술어 일치가 잘 되었는지 확인한 후 퇴고하여 다시 출력할 것.
-##HARDSTOP##story
-
-전개2 에피소드를 [NAME2]의 1인칭 시점으로 1500단어, 약 3000-4000자 정도를 사용하여 작성할 것(최대 단어 제한없음). 한글 소설로 쓸 것.
-1) 문체: 무라카미 하루키 스타일
-2) 모바일 가독성을 위해 한 문단이 3줄을 넘지 않도록 자주 줄바꿈(엔터)을 해줘
 3) 총 문단 개수: 4개
 4) 스토리 전개 방법: [NAME]와 [NAME2]의 대화 위주로 스토리 전개할 것
 5) [NAME]과 [NAME2]의 대사는 항상 줄바꿈해서 출력할 것.
-6) 먼저 [KEYWORD_RANDOM]에 대해서 하루키 스타일로 한 문단을 쓰고 줄바꿈 할 것.
-##HARDSTOP##
-
-방금 에피소드를 꼼꼼히 리뷰하고, 스토리 정합성, 문장 주어/서술어 일치가 잘 되었는지 확인한 후 퇴고하여 다시 출력할 것.
-##HARDSTOP##story
-
-전개3 에피소드를 [NAME2]의 1인칭 시점으로 1500단어, 약 3000-4000자 정도를 사용하여 작성할 것(최대 단어 제한없음). 한글 소설로 쓸 것.
-1) 문체: 무라카미 하루키 스타일
-2) 모바일 가독성을 위해 한 문단이 3줄을 넘지 않도록 자주 줄바꿈(엔터)을 해줘
-3) 총 문단 개수: 4개
-4) 스토리 전개 방법: [NAME]와 [NAME2]의 대화 위주로 스토리 전개할 것
-5) [NAME]과 [NAME2]의 대사는 항상 줄바꿈해서 출력할 것.
-6) 먼저 [KEYWORD_RANDOM]에 대해서 하루키 스타일로 한 문단을 쓰고 줄바꿈 할 것.
 ##HARDSTOP##
 
 방금 에피소드를 꼼꼼히 리뷰하고, 스토리 정합성, 문장 주어/서술어 일치가 잘 되었는지 확인한 후 퇴고하여 다시 출력할 것.
@@ -237,7 +166,6 @@ Here is an example of the prompt. Refer it but don't too rely on.
 3) 총 문단 개수: 4개
 4) 스토리 전개 방법: [NAME]와 [NAME2]의 대화 위주로 스토리 전개할 것
 5) [NAME]과 [NAME2]의 대사는 항상 줄바꿈해서 출력할 것.
-6) 먼저 [KEYWORD_RANDOM]에 대해서 하루키 스타일로 한 문단을 쓰고 줄바꿈 할 것.
 ##HARDSTOP##
 
 방금 에피소드를 꼼꼼히 리뷰하고, 스토리 정합성, 문장 주어/서술어 일치가 잘 되었는지 확인한 후 퇴고하여 다시 출력할 것.
@@ -276,30 +204,6 @@ Here is an example of the prompt. Refer it but don't too rely on.
 2) 모바일 가독성을 위해 한 문단이 3줄을 넘지 않도록 자주 줄바꿈(엔터)을 해줘
 3) 총 문단 개수: 4개
 4) 스토리 전개 방법: [NAME]와 [NAME2]의 대화 위주로 스토리 전개할 것
-5) 먼저 [KEYWORD_RANDOM]에 대해서 하루키 스타일로 한 문단을 쓰고 줄바꿈 할 것.
-6) 다음으로 시간의 흐름에 대해서 한 문단 쓰고 줄바꿈 할 것.
-##HARDSTOP##
-
-방금 에피소드를 꼼꼼히 리뷰하고, 스토리 정합성, 문장 주어/서술어 일치가 잘 되었는지 확인한 후 퇴고하여 다시 출력할 것.
-##HARDSTOP##story
-
-절정2 에피소드를 [NAME2]의 1인칭 시점으로 1500단어, 약 3000-4000자 정도를 사용하여 작성할 것(최대 단어 제한없음). 한글 소설로 쓸 것.
-1) 문체: 무라카미 하루키 스타일
-2) 모바일 가독성을 위해 한 문단이 3줄을 넘지 않도록 자주 줄바꿈(엔터)을 해줘
-3) 총 문단 개수: 4개
-4) 스토리 전개 방법: [NAME]와 [NAME2]의 대화 위주로 스토리 전개할 것
-5) 먼저 [KEYWORD_RANDOM]에 대해서 하루키 스타일로 한 문단을 쓰고 줄바꿈 할 것.
-##HARDSTOP##
-
-방금 에피소드를 꼼꼼히 리뷰하고, 스토리 정합성, 문장 주어/서술어 일치가 잘 되었는지 확인한 후 퇴고하여 다시 출력할 것.
-##HARDSTOP##story
-
-절정3 에피소드를 [NAME2]의 1인칭 시점으로 1500단어, 약 3000-4000자 정도를 사용하여 작성할 것(최대 단어 제한없음). 한글 소설로 쓸 것.
-1) 문체: 무라카미 하루키 스타일
-2) 모바일 가독성을 위해 한 문단이 3줄을 넘지 않도록 자주 줄바꿈(엔터)을 해줘
-3) 총 문단 개수: 4개
-4) 스토리 전개 방법: [NAME]와 [NAME2]의 대화 위주로 스토리 전개할 것
-5) 먼저 [KEYWORD_RANDOM]에 대해서 하루키 스타일로 한 문단을 쓰고 줄바꿈 할 것.
 ##HARDSTOP##
 
 방금 에피소드를 꼼꼼히 리뷰하고, 스토리 정합성, 문장 주어/서술어 일치가 잘 되었는지 확인한 후 퇴고하여 다시 출력할 것.
@@ -310,7 +214,6 @@ Here is an example of the prompt. Refer it but don't too rely on.
 2) 모바일 가독성을 위해 한 문단이 3줄을 넘지 않도록 자주 줄바꿈(엔터)을 해줘
 3) 총 문단 개수: 4개
 4) 스토리 전개 방법: [NAME]와 [NAME2]의 대화 위주로 스토리 전개할 것
-5) 먼저 [KEYWORD_RANDOM]에 대해서 하루키 스타일로 한 문단을 쓰고 줄바꿈 할 것.
 ##HARDSTOP##
 
 방금 에피소드를 꼼꼼히 리뷰하고, 스토리 정합성, 문장 주어/서술어 일치가 잘 되었는지 확인한 후 퇴고하여 다시 출력할 것.
@@ -345,13 +248,13 @@ Here is an example of the prompt. Refer it but don't too rely on.
 ##HARDSTOP##orderupdate
 
 비슷한 서술 방법으로, 결말1 에피소드를 라이트 노벨 문체를 사용하여 [NAME2]의 1인칭 시점으로 1500단어, 약 3000-4000자 정도를 사용하여 작성할 것(최대 단어 제한없음). 한글 소설로 쓸 것.
-1) 총 문단 개수: 6개
+1) 총 문단 개수: 4개
 2) 모바일 가독성을 위해 한 문단이 3줄을 넘지 않도록 자주 줄바꿈(엔터)을 해줘
 3) 스토리 전개 방법: [NAME]와 [NAME2]의 대화 위주로 스토리 전개할 것
 4) 무라카미 하루키 스타일로 쓸 것.
 5) [NAME]과 [NAME2]의 대사는 항상 줄바꿈해서 출력할 것.
-6) 먼저 [KEYWORD_RANDOM]에 대해서 하루키 스타일로 한 문단을 쓰고 줄바꿈 할 것.
-7) 다음으로 시간의 흐름에 대해서 한 문단 쓰고 줄바꿈 할 것.
+6) 에피소드 작성 순서:
+[EPISODE_WORD]
 ##HARDSTOP##
 
 방금 에피소드를 꼼꼼히 리뷰하고, 스토리 정합성, 문장 주어/서술어 일치가 잘 되었는지 확인한 후 퇴고하여 다시 출력할 것.
@@ -363,19 +266,8 @@ Here is an example of the prompt. Refer it but don't too rely on.
 3) 스토리 전개 방법: [NAME]와 [NAME2]의 대화 위주로 스토리 전개할 것
 4) 무라카미 하루키 스타일로 쓸 것.
 5) [NAME]과 [NAME2]의 대사는 항상 줄바꿈해서 출력할 것.
-6) 먼저 [KEYWORD_RANDOM]에 대해서 하루키 스타일로 한 문단을 쓰고 줄바꿈 할 것.
-##HARDSTOP##
-
-방금 에피소드를 꼼꼼히 리뷰하고, 스토리 정합성, 문장 주어/서술어 일치가 잘 되었는지 확인한 후 퇴고하여 다시 출력할 것.
-##HARDSTOP##story
-
-비슷한 서술 방법으로, 결말3 에피소드를 라이트 노벨 문체를 사용하여 [NAME2]의 1인칭 시점으로 1500단어 이상을 사용하여 작성할 것(최대 단어 제한없음). 한글 소설로 쓸 것.
-1) 총 문단 개수: 4개
-2) 모바일 가독성을 위해 한 문단이 3줄을 넘지 않도록 자주 줄바꿈(엔터)을 해줘
-3) 스토리 전개 방법: [NAME]와 [NAME2]의 대화 위주로 스토리 전개할 것
-4) 무라카미 하루키 스타일로 쓸 것.
-5) [NAME]과 [NAME2]의 대사는 항상 줄바꿈해서 출력할 것.
-6) 먼저 [KEYWORD_RANDOM]에 대해서 하루키 스타일로 한 문단을 쓰고 줄바꿈 할 것.
+6) 에피소드 작성 순서:
+[EPISODE_WORD]
 ##HARDSTOP##
 
 방금 에피소드를 꼼꼼히 리뷰하고, 스토리 정합성, 문장 주어/서술어 일치가 잘 되었는지 확인한 후 퇴고하여 다시 출력할 것.
@@ -387,8 +279,8 @@ Here is an example of the prompt. Refer it but don't too rely on.
 3) 스토리 전개 방법: [NAME]와 [NAME2]의 대화 위주로 스토리 전개할 것
 4) 무라카미 하루키 스타일로 쓸 것.
 5) [NAME]과 [NAME2]의 대사는 항상 줄바꿈해서 출력할 것.
-6) 먼저 [KEYWORD_RANDOM]에 대해서 하루키 스타일로 한 문단을 쓰고 줄바꿈 할 것.
-7) 마지막이므로 [NAME]와 [NAME2]의 행복한 모습을 라이트노벨 스타일로 강조해서 써줘.
+6) 에피소드 작성 순서:
+[EPISODE_WORD]
 ##HARDSTOP##
 
 방금 에피소드를 꼼꼼히 리뷰하고, 스토리 정합성, 문장 주어/서술어 일치가 잘 되었는지 확인한 후 퇴고하여 다시 출력할 것.
@@ -408,6 +300,8 @@ Here is an example of the prompt. Refer it but don't too rely on.
 [FINAL_DESC]
 4) 여주인공이 주인공을 보자마자 반가워하면서 달려드는 모습 묘사.
 5) 여주인공이 남자 주인공에게 헌신적이고 애정어린 태도를 강조할 것.
+6) 아래 문장들은 남자 주인공에게 말하는 여주인공의 대사이다. 상황에 맞게 수정하고 대사에 하트 이모티콘을 넣어서 귀여운 태도를 보여줌.
+[DIALOG5_1]
 ##HARDSTOP##
 
 방금 에피소드를 꼼꼼히 리뷰하고, 스토리 정합성, 문장 주어/서술어 일치가 잘 되었는지 확인한 후 퇴고하여 다시 출력할 것.
@@ -432,3 +326,6 @@ Here is an example of the prompt. Refer it but don't too rely on.
 [Wan Video Prompt]
 (여기에 완성된 영어 프롬프트 작성)
 ##HARDSTOP##
+
+##HARDSTOP##end
+
