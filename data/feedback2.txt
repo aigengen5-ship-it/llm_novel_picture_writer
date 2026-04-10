@@ -1,0 +1,4 @@
+[Character A] feels a sense of depravity and guilt regarding the change in circumstances.
+[Character A] feels a sense of depravity regarding the change in circumstances, but does not feel much guilt.
+[Character A] doesn’t find the change in circumstances particularly strange.
+[Character A] happily embraces the change in circumstances and actively seduces the other person.

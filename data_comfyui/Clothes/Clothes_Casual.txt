@@ -1,0 +1,49 @@
+casual
+penguin hood
+(brown check pattern shawl around own arms:1.2), (black simple long skirt:1.1), (white simple off-shoulder sweater:1.1)
+black bustier
+black long jacket, {black tank top, brown skirt|white t-shirt, shorts|crop top}
+(black beret, black denim jacket:1.1), white shirt, miniskirt
+blazer
+bustier
+bustier, collared shirt, black beret
+bustier, white shirt, black hat
+coat, cutoff jeans
+collared shirt, {jeans|panties|shorts|denum shorts|dolphin shorts|skirt|miniskirt}
+compression shirt
+crop top
+cropped hoodie
+cropped jacket
+frilled shirt
+hooded jacket, {hood up|hood down}
+hoodie
+jacket
+knit legwear
+long coat
+long skirt, {white t-shirt|shirt|dress shirt|off shoulder shirt|sweater}
+long sleeves v-neck dress
+maternity wear
+off-shoulder shirt
+overcoat
+padded coat
+print hoodie
+pullover
+safari jacket
+shirt, {jeans|panties|shorts|denum shorts|dolphin shorts|skirt|miniskirt}
+shirt, skirt, sneakers
+short sleeves, t-shirt, shorts
+sleeveless shirt
+sleevesless hoodie
+sleeveless turtleneck
+striped hoodie
+striped shirt
+sweater
+sweater vest
+sweater, sleeveless
+tank top
+top
+tracksuit
+trench coat
+t-shirt, {jeans|panties|shorts|denum shorts|dolphin shorts|skirt|miniskirt}
+turtleneck
+halterneck, bare shoulders, strapless, cleavage, collarbone, miniskirt

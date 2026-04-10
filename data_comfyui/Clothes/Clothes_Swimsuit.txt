@@ -1,0 +1,24 @@
+bikini
+bikini, short shorts
+micro bikini
+string bikini
+sports bikini
+school swimsuit
+swimsuit
+casual one-piece swimsuit
+dress swimsuit
+sarong
+rash guard (swim shirt)
+bikini, eyewear on head
+bikini under hoodie, unbuttoned zip-up hoodie, {hood on|hood down}
+(white wedding dress bikini, (dress bikini:1.2), laced dress bikini, cleavage:1.1), wedding veil
+bikini, {bikini open, breasts out, nipples|bikini pull, breasts out, nipples|bikini aside|bikini top only, bottomless|bikini lift, breasts out, nipples|bikini bottom only, topless}
+bikini, short shorts, {bikini open, breasts out, nipples|bikini pull, breasts out, nipples|bikini lift, breasts out, nipples}
+micro bikini, {bikini open, breasts out, nipples|bikini pull, breasts out, nipples|bikini aside|bikini top only, bottomless|bikini lift, breasts out, nipples|bikini bottom only, topless}
+string bikini, {bikini open, breasts out, nipples|bikini pull, breasts out, nipples|bikini aside|bikini top only, bottomless|bikini lift, breasts out, nipples|bikini bottom only, topless}
+sports bikini, {bikini open, breasts out, nipples|bikini pull, breasts out, nipples|bikini aside|bikini top only, bottomless|bikini lift, breasts out, nipples|bikini bottom only, topless}
+school swimsuit, {swimsuit aside|swimsuit aside pull, breasts out, nipples}
+swimsuit, {swimsuit aside|swimsuit aside pull, breasts out, nipples}
+casual one-piece swimsuit, {swimsuit aside|swimsuit aside pull, breasts out, nipples}
+dress swimsuit, {swimsuit aside|swimsuit aside pull, breasts out, nipples}
+rash guard (swim shirt), {swimsuit aside|swimsuit aside pull, breasts out, nipples}

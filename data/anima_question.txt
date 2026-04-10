@@ -1,0 +1,22 @@
+Here is a prompt template which describes [NAME]'s appearance and execute orders. Please remember these rules to update prompt.
+1) After executing whole order, print prompt only with same sentence style.
+2) Use line break to keep same output style as original.
+3) To split new prompt, add ##PROMPT## header at the start/end of new prompt. So there will be two '##PROMPT##' header.
+4) Do not use [NAME2]'s name directly, use 'faceless male' danbooru tag if necessary.
+* Here is an output example.
+##PROMPT##
+She(or He) has a blue.....
+Her face...
+##PROMPT##
+
+** Current prompt **
+[PROMPT]
+
+** execute orders **
+1) Find and replace the variable '[WORDS]' based on [NAME]'s emotion. Use **Emoticon** only(3-4 characters). Never change other words in this line.
+2) Update [NAME]'s face(hair style and color, emotion and others) in line [LINE_NUM]. Refer [NAME]'s character sheet and current episode. 
+3) Update appearance(clothes) in line 4. Refer [NAME]'s character sheet and current episode. 
+4) Update [NAME]'s body style in line 5. Refer [NAME]'s character sheet and current episode. 
+5) Update [NAME]'s exposed level in line 6. Refer [NAME]'s character sheet and current episode. 
+6) Update [NAME]'s pose in line 7. Refer [NAME]'s character sheet and current episode. 
+7) Update current background/location and time in line 8. Refer [NAME]'s character sheet and current episode. 

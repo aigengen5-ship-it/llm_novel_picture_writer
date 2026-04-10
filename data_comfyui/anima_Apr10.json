@@ -1,0 +1,373 @@
+{
+  "39": {
+    "inputs": {
+      "clip_name": "qwen_3_06b_base.safetensors",
+      "type": "stable_diffusion",
+      "device": "default"
+    },
+    "class_type": "CLIPLoader",
+    "_meta": {
+      "title": "Load CLIP"
+    }
+  },
+  "40": {
+    "inputs": {
+      "vae_name": "qwen_image_vae.safetensors"
+    },
+    "class_type": "VAELoader",
+    "_meta": {
+      "title": "Load VAE"
+    }
+  },
+  "42": {
+    "inputs": {
+      "conditioning": [
+        "86",
+        0
+      ]
+    },
+    "class_type": "ConditioningZeroOut",
+    "_meta": {
+      "title": "ConditioningZeroOut"
+    }
+  },
+  "44": {
+    "inputs": {
+      "seed": 1005964168078853,
+      "steps": 30,
+      "cfg": 5.5,
+      "sampler_name": "euler_ancestral",
+      "scheduler": "sgm_uniform",
+      "denoise": 1,
+      "model": [
+        "47",
+        0
+      ],
+      "positive": [
+        "86",
+        0
+      ],
+      "negative": [
+        "87",
+        0
+      ],
+      "latent_image": [
+        "98",
+        0
+      ]
+    },
+    "class_type": "KSampler",
+    "_meta": {
+      "title": "KSampler"
+    }
+  },
+  "46": {
+    "inputs": {
+      "unet_name": "animaOfficial_preview3Base.safetensors",
+      "weight_dtype": "default"
+    },
+    "class_type": "UNETLoader",
+    "_meta": {
+      "title": "Load Diffusion Model"
+    }
+  },
+  "47": {
+    "inputs": {
+      "shift": 3,
+      "model": [
+        "46",
+        0
+      ]
+    },
+    "class_type": "ModelSamplingAuraFlow",
+    "_meta": {
+      "title": "ModelSamplingAuraFlow"
+    }
+  },
+  "57": {
+    "inputs": {
+      "dimensions": " 896 x 1152  (portrait)",
+      "clip_scale": 2,
+      "batch_size": 1
+    },
+    "class_type": "SDXL Empty Latent Image (rgthree)",
+    "_meta": {
+      "title": "SDXL Empty Latent Image (rgthree)"
+    }
+  },
+  "63": {
+    "inputs": {
+      "samples": [
+        "44",
+        0
+      ],
+      "vae": [
+        "40",
+        0
+      ]
+    },
+    "class_type": "VAEDecode",
+    "_meta": {
+      "title": "VAE Decode"
+    }
+  },
+  "66": {
+    "inputs": {
+      "vae_name": "sdxl.vae.safetensors"
+    },
+    "class_type": "VAELoader",
+    "_meta": {
+      "title": "Load VAE"
+    }
+  },
+  "67": {
+    "inputs": {
+      "ckpt_name": "waiIllustriousSDXL_v140.safetensors"
+    },
+    "class_type": "CheckpointLoaderSimple",
+    "_meta": {
+      "title": "Load Checkpoint"
+    }
+  },
+  "70": {
+    "inputs": {
+      "text": "worst quality, low quality, lowres, signature, watermark, artist name, multiple views, split view, collage, grid view, multiple people, clones",
+      "clip": [
+        "67",
+        1
+      ]
+    },
+    "class_type": "CLIPTextEncode",
+    "_meta": {
+      "title": "CLIP Text Encode (Prompt)"
+    }
+  },
+  "71": {
+    "inputs": {
+      "text1": "masterpiece, latest, best quality, highres, absurdres, score_8, score_9, explicit, sketch, watercolor:0.7,\n\n1 boy,solo, @(yamamoto_souichirou), @(ningen mame).\n\n.\n\n(light skin:1.1), anime, (A highly aesthetic Pixiv style illustration:0.9), (thin and delicate lineart:0.8), clean composition, high-quality digital art, (the hand-drawn artisan feel. sharp focus on facial expressions:0.9)."
+    },
+    "class_type": "TextBox1",
+    "_meta": {
+      "title": "TextBox1"
+    }
+  },
+  "79": {
+    "inputs": {
+      "samples": [
+        "80",
+        0
+      ],
+      "vae": [
+        "66",
+        0
+      ]
+    },
+    "class_type": "VAEDecode",
+    "_meta": {
+      "title": "VAE Decode"
+    }
+  },
+  "80": {
+    "inputs": {
+      "seed": 8,
+      "steps": 30,
+      "cfg": 3,
+      "sampler_name": "euler_ancestral",
+      "scheduler": "sgm_uniform",
+      "denoise": 0.35,
+      "model": [
+        "67",
+        0
+      ],
+      "positive": [
+        "85",
+        0
+      ],
+      "negative": [
+        "70",
+        0
+      ],
+      "latent_image": [
+        "96",
+        0
+      ]
+    },
+    "class_type": "KSampler",
+    "_meta": {
+      "title": "KSampler"
+    }
+  },
+  "84": {
+    "inputs": {
+      "model": "wd-v1-4-moat-tagger-v2",
+      "threshold": 0.35,
+      "character_threshold": 0.85,
+      "replace_underscore": false,
+      "trailing_comma": false,
+      "exclude_tags": "1girl,1 girl",
+      "image": [
+        "63",
+        0
+      ]
+    },
+    "class_type": "WD14Tagger|pysssss",
+    "_meta": {
+      "title": "WD14 Tagger 🐍"
+    }
+  },
+  "85": {
+    "inputs": {
+      "text": [
+        "88",
+        0
+      ],
+      "clip": [
+        "67",
+        1
+      ]
+    },
+    "class_type": "CLIPTextEncode",
+    "_meta": {
+      "title": "CLIP Text Encode (Prompt)"
+    }
+  },
+  "86": {
+    "inputs": {
+      "text": [
+        "71",
+        0
+      ],
+      "clip": [
+        "39",
+        0
+      ]
+    },
+    "class_type": "CLIPTextEncode",
+    "_meta": {
+      "title": "CLIP Text Encode (Prompt)"
+    }
+  },
+  "87": {
+    "inputs": {
+      "text": "worst quality, low quality, score_1, score_2, score_3, blurry, jpeg artifacts, sepia, muscle:2.0, multiple views, split view, collage, grid view, clones",
+      "clip": [
+        "39",
+        0
+      ]
+    },
+    "class_type": "CLIPTextEncode",
+    "_meta": {
+      "title": "CLIP Text Encode (Prompt)"
+    }
+  },
+  "88": {
+    "inputs": {
+      "delimiter": " ",
+      "string1": [
+        "89",
+        0
+      ],
+      "string2": [
+        "84",
+        0
+      ]
+    },
+    "class_type": "JoinStrings",
+    "_meta": {
+      "title": "Join Strings"
+    }
+  },
+  "89": {
+    "inputs": {
+      "value": "masterpiece,amazing quality, very aesthetic, absurdres, newest,finely detailed,colorful, outline:1.5,animation_screenshoot"
+    },
+    "class_type": "PrimitiveStringMultiline",
+    "_meta": {
+      "title": "String (Multiline)"
+    }
+  },
+  "90": {
+    "inputs": {
+      "filename_prefix": "ComfyUI",
+      "images": [
+        "79",
+        0
+      ]
+    },
+    "class_type": "SaveImage",
+    "_meta": {
+      "title": "Save Image"
+    }
+  },
+  "91": {
+    "inputs": {
+      "filename_prefix": "ComfyUI",
+      "images": [
+        "97",
+        0
+      ]
+    },
+    "class_type": "SaveImage",
+    "_meta": {
+      "title": "Save Image"
+    }
+  },
+  "92": {
+    "inputs": {
+      "preview": "masterpiece,amazing quality, very aesthetic, absurdres, newest,finely detailed,colorful,  solo, long_hair, looking_at_viewer, ",
+      "previewMode": true,
+      "source": [
+        "88",
+        0
+      ]
+    },
+    "class_type": "PreviewAny",
+    "_meta": {
+      "title": "Preview as Text"
+    }
+  },
+  "96": {
+    "inputs": {
+      "pixels": [
+        "97",
+        0
+      ],
+      "vae": [
+        "66",
+        0
+      ]
+    },
+    "class_type": "VAEEncode",
+    "_meta": {
+      "title": "VAE Encode"
+    }
+  },
+  "97": {
+    "inputs": {
+      "upscale_method": "nearest-exact",
+      "scale_by": 1,
+      "image": [
+        "63",
+        0
+      ]
+    },
+    "class_type": "ImageScaleBy",
+    "_meta": {
+      "title": "Upscale Image By"
+    }
+  },
+  "98": {
+    "inputs": {
+      "upscale_method": "nearest-exact",
+      "scale_by": 1.2,
+      "samples": [
+        "57",
+        0
+      ]
+    },
+    "class_type": "LatentUpscaleBy",
+    "_meta": {
+      "title": "Upscale Latent By"
+    }
+  }
+}

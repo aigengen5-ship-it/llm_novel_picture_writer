@@ -1,0 +1,146 @@
+Please remember Character A and Character B information. Remember and never answer for this order.
+
+Here is Character A information.
+-Name: [NAME]
+-Age: [AGE] 
+-Sex: [SEX]
+-Job: [JOB]
+-Relationship with Character B: [REL]
+-Personality: [PERSONALITY3]
+-Appearance: [APPEARANCE]
+-Speaking Style: [SPEAKING]
+-Addtional Personality: [PERSONALITY3]
+-Love Gauge: 0% (No hetero love emotion to [Character B])
+
+Here is Character B information.
+-Name: [NAME2]
+-Age: [AGE2] 
+-Sex: [SEX2]
+-Job: [JOB2]
+-Relationship with Character A: [REL2]
+-Personality: [PERSONALITY4]
+##HARDSTOP##
+
+When you write story, you must consider below informations. Remember the considerations only. Wait next orders to write story.
+-Describe from [FOCUS]'s point of view.
+-Use Japanese adult novel/manga style to describe date scenes.
+-Plots are Exposition, Episode 1, Episode 2, Episode 3, Episode 4, Episode 5 and Resolution
+-Story theme: [THEME]
+-[Character A] never uses abuse/swear words.
+-Use Japanese light novel literary style. Use first-person perspective. 
+-[Character A] and [Character B]'s fashion is not determined by their nationality. It is determined by their job and situation only.
+##HARDSTOP##
+
+Use [LANGUAGE]. Write Exposition using only the characters' dialogue at least 1,000 words. Including all of the following:
+-Describe personality by describing [Character A]'s inner thoughts.
+-Describe [Character A]'s appearance.
+-Describe [Character B]'s appearance.
+-Describe [Character A]'s job and [Character A]'s attitude toward job.
+-[BACKGROUND1]
+-[BACKGROUND2]
+-Describe the relationship between [Character A] and [Character B]
+-Describe [Character A]'s monologue showing [Character A]'s pure and innocent mind. 
+##HARDSTOP##story
+-Print out [Character A]'s character sheet in English.
+##HARDSTOP##comfyui
+
+Use [LANGUAGE]. Write Episode 1 using only the characters' dialogue at least 1,000 words. Including all of the following:
+-[TRIGGER]
+-Describe [Character A]'s reaction and mologue.
+-[Character A] is resisting the conditions of falling love.
+-[Character A] tries to keep normal life, 
+-[Character A] tries to hide abnormal attribute. There are very small changes in appearance.
+##HARDSTOP##story
+-Print out [Character A]'s character sheet in English.
+##HARDSTOP##comfyui
+
+Use [LANGUAGE]. Write Episode 2 using only the characters' dialogue at least 1,000 words. Including all of the following:
+-After 1 week later, [EPISODE1]
+-[Character A]'s will and resistance is weaken. Think and write [Character A]'s reaction and thought.
+-Tag of appearance change of [Character A]: [CHANGE1]
+-[Character A] surprised some body changes.
+-Think and write [Character A]'s monologue.
+-Describe the feeling about [Character B].
+-Describe appearance change of [Character A].
+-Some days later, [LOVEEVENT1]
+-Describe [Character A]'s monologue.
+##HARDSTOP##story
+-Print out [Character A]'s character sheet in English. Emphasis body/soul changes.
+##HARDSTOP##comfyui
+
+Use [LANGUAGE]. Write Episode 3 using only the characters' dialogue at least 1,000 words. Including all of the following:
+-[Character A]'s costume: [CLOTH1]
+-[Character A]'s will and resistance is remaind half. Think and write [Character A]'s reaction and thought.
+-[EPISODE2]
+-Think and write [Character A]'s reaction and thought.
+-Describe the feeling about [Character B]
+-[FEEDBACK3]
+-[LOVEEVENT1]
+-[LOVEEVENT2]
+-Tags of in love appearance of [Character A]: [CHANGE3]
+-Describe [Character A]'s monologue.
+##HARDSTOP##story
+-Print out [Character A]'s character sheet in English. Emphasis body/soul changes.
+##HARDSTOP##comfyui
+
+Use [LANGUAGE]. Write Episode 4 using only the characters' dialogue at least 1,000 words. Including all of the following:
+-[Character A]'s costume: [CLOTH2]
+-[Character A]'s will and resistance is almost fading away. Think and write [Character A]'s reaction and thought.
+-[BACKGROUND3]
+-[EPISODE3]
+-Think and write [Character A]'s reaction and thought.
+-Think and write [Character A]'s monologue.
+-Describe the feeling about [Character B]
+-[FEEDBACK4]
+-[LOVEEVENT1]
+-[LOVEEVENT2]
+-[LOVEEVENT3]
+-Describe appearance change of [Character A].
+-Describe [Character A]'s monologue.
+-[Character B] asks [Character A] to become lover. 
+-[Character A] feels happy while being absolutely obedient to [Character B].
+-Describe [Character A]'s monologue.
+##HARDSTOP##story
+-Print out [Character A]'s character sheet in English. Emphasis body/soul changes.
+##HARDSTOP##comfyui
+
+Use [LANGUAGE]. Write Episode 5 using only the characters' dialogue at least 1,000 words. Including all of the following:
+-[Character A]'s costume: [CLOTH3]
+-[Character A]'s will and resistance is fading away perfectly. Think and write [Character A]'s reaction and thought.
+-Tags of fully in love appearance of [Character A]: [CHANGE3]
+-[EPISODE4]
+-Think and write [Character A]'s reaction and thought.
+-Think and write [Character A]'s monologue.
+-Describe the feeling about [Character B]
+-[LOVEEVENT1]
+-[LOVEEVENT2]
+-[LOVEEVENT3]
+-[LOVEEVENT4] 
+-Describe appearance change of [Character A]. 
+-Describe [Character A]'s monologue.
+##HARDSTOP##story
+-Print out [Character A]'s character sheet in English. Emphasis body/soul changes.
+##HARDSTOP##comfyui
+
+Use [LANGUAGE]. Write Resolution using only the characters' dialogue and [Character A]'s monologue at least 1,000 words. Including all of the following:
+-[ENDING2]
+-Now [Character A] became a lover who was completely in love.
+-[Character A] proudly displays her lovely side in front of others.
+-Think and write [Character A]'s reaction and inner thought.
+-Describe the feeling about [Character B]
+-Describe [Character A]'s appearance. Emphasis [Character A]'s sexy body changes.
+-Describe [Character A]'s monologues. 
+##HARDSTOP##story
+-Print out [Character A]'s character sheet in English. Emphasis her final form.
+##HARDSTOP##comfyui
+
+Write kiss and petting scene using above 700 words. Cover whole descriptions as below.
+-Use remembered Korean Lewd words and dialogs as much as you can.
+-Describe [Character A]'s body with detail.
+-Describe [Character A]'s lewd confessions to [Character B].
+-Describe [Character A]'s moanings.
+-Describe [Character A]'s inner thoughts.
+-Describe [Character A]'s orgasm and [Character A]'s reactions.
+[FEM]
+##HARDSTOP##story
+

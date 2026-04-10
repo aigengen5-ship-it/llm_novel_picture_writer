@@ -1,0 +1,15 @@
+<Prompt Example>
+photo of a 18 year old girl,hurdle race,happy,ray tracing,detail shadow,shot on Fujifilm X-T4,85mm f1.2,sharp focus,depth of field,blurry background,bakeh,
+
+<Option Prompt>
+jumping,
+
+
+<Camera Angle for some poses>
+from below
+from above
+from behind
+
+<Option for feet shape of some poses>
+floating in the air
+jumping in the air

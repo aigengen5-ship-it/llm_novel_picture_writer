@@ -1,0 +1,31 @@
+warrior, holding sword
+armored dress
+full plate armor, long coat
+magus, {witch hat|monocle|ring}, robe, {holding staff|holding book}
+archer, ranger, bow \(weapon\), breastplate, armored boots
+clothes theft, thief, mask, holding knife
+assassin, robe, hood, hood up, holding knife
+vampire, robe, dress, teeth
+fighter, fist, fingerless gloves, {uniform|chinese clothes|ao dai}
+princess, princess dress, crown
+queen, princess dress, cleavage, crown
+saint, cross
+fantasy, dragon girl
+angel
+demon
+samurai, holding katana, {japanese armor|kimono|school uniform}
+ninja, {ninja mask|katana}, kunai
+mermaid
+miko
+nekomata
+elf, {ranger, bow \(weapon\)|robe|slim|green dress}
+goblin, loli, holding club
+slime girl, slime \(creature\)
+mechanical arms, robot joints, android
+mafia, black suit, handgun, {smoking pipe|black skirt}
+topless, (sarashi:1.1), bandage_bra, hakama skirt
+superhero, robot joints, bodysuit, {floating hair, superhero landing|dynamic pose|windbreaker}
+gothic lolita
+android, mechanical arms, mechanical parts, robot ears, {breasts out, nipples|robot joints, mechanical wings, holding beam saber|(coat, open coat:1.2)}
+kitsune, kumiho
+kitsune, kumiho, bare shoulders, bare neck, collarbone, upper breasts, seductive smile, blush, strapless

@@ -1,0 +1,331 @@
+라이트 노벨 제목 초안은 아래와 같음.
+[TITLE1] [TITLE2], [TITLE3], [TITLE4]
+
+이 제목을 아래 가이드를 사용하여 수정할 것.
+1) 먼저 제목에 대한 설명은 아래와 같음.
+ * [NAME]의 별명: '[TITLE1]'
+ * [NAME]의 직업: '[TITLE2]'
+ * [NAME]에게 발생한 이벤트: '[TITLE3]' 
+ * [NAME]의 변화: '[TITLE4]'. 
+2) 아래 가이드를 염두에 둘 것.
+ * 제목 '[TITLE2]' 항목에서 주격 조사를 문법에 맞게 수정할 것.
+ * 이벤트 '[TITLE3]'만 수정해서 문법 오류, 주어 서술어 일치를 시킬 것. 
+
+수정한 제목 1줄만 출력할 것. 리뷰 결과는 필요하지 않음.
+##HARDSTOP##titlegen
+
+소설 제목과 [NAME]/[NAME2]의 캐릭터 시트를 바탕으로 발단/전개/절정/결말 16개의 에피소드 제목을 적어줘. 영어로 출력할 것.
+1) 발단 작성에서 고려사항은 [NAME]의 호감도임. 호감도는 천천히 올라감. 아래 흐감도 흐름을 참조하고 이에 맞춘 에피소드를 구성할 것.
+발단1 호감도: [LOVE_TABLE0]
+발단4 호감도: [LOVE_TABLE1]
+전개3 호감도: [LOVE_TABLE2]
+절정4 호감도: [LOVE_TABLE3]
+결말2 호감도: [LOVE_TABLE4]
+2) 출력 포맷은 아래와 같음. 이 포맷을 꼭 준수할 것.
+## EPISODE ##
+  발단1: 에피소드 제목
+  SITUATION1: 에피소드 상황
+  발단2: 에피소드 제목
+  SITUATION2: 에피소드 상황
+  발단3: 에피소드 제목
+  SITUATION3: 에피소드 상황
+  발단4: 에피소드 제목
+  SITUATION4 에피소드 상황
+  전개1: 에피소드 제목
+  SITUATION1: 에피소드 상황
+  전개2: 에피소드 제목
+  SITUATION2: 에피소드 상황
+  전개3: 에피소드 제목
+  SITUATION3: 에피소드 상황
+  전개4: 에피소드 제목
+  SITUATION4 에피소드 상황
+  절정1: 에피소드 제목
+  SITUATION1: 에피소드 상황
+  절정2: 에피소드 제목
+  SITUATION2: 에피소드 상황
+  절정3: 에피소드 제목
+  SITUATION3: 에피소드 상황
+  절정4: 에피소드 제목
+  SITUATION4 에피소드 상황
+  결말1: 에피소드 제목
+  SITUATION1: 에피소드 상황
+  결말2: 에피소드 제목
+  SITUATION2: 에피소드 상황
+  결말3: 에피소드 제목
+  SITUATION3: 에피소드 상황
+  결말4: 에피소드 제목
+  SITUATION4 에피소드 상황
+## EPISODE ## 
+5) 모든 출력은 한글 '평문'임. 강조(**) 사용하지 말 것.
+6) [NAME]의 감정, 심리상태는 에피소드 제목에 라노벨 스타일로 적을 것. 
+7) SITUATION에는 어떤 장소에서 어떤 일이 있었고, 어떻게 해결했으며 [NAME]이 [NAME2]를 어떻게 생각하고 있는지에 대해서 4줄 정도로 요약해서 기술.
+##HARDSTOP##
+
+방금 출력한 16개의 에피소드를 다시 리뷰하고 스토리 전개 과정에서 어색한 부분이 있다면 수정하여 다시 출력할 것.
+##HARDSTOP##dictwrite,SITUATION1: ,SITUATION0
+##HARDSTOP##episodekeep
+
+Write 16 paragraphs. One paragraph per episode. **Output each paragraph using English text, without line breaks.**
+Here is an example of the prompt. Refer it but don't too rely on.
+"episode #1: masterpiece, best quality, score_7, safe. An anime girl wearing a black tank-top and denim shorts is standing outdoors. She has black eyes, long black straight hair. She has gigantic breasts, slender body, and small shoulders. She's holding a rectangular sign out in front of her that reads "ANIMA". She's looking at the viewer with a smile. The background features some trees and blue sky with clouds."
+
+**Prerequisite**
+1) Change [NAME] and [NAME2] as relative pronoun(boy/man, etc). Do not use their own name.
+
+**Requirements:Total 8 sentences without line breaks **
+1) Add current eposide at first, keep "masterpiece, best quality, score_7, safe."
+2) Start first sentence with 'A girl' regardless of [NAME]'s age and describe [NAME]'s clothes in detail.
+* [NAME]'s clothes will be determined by [NAME]'s character sheet and current episode.
+3) Describe [NAME]'s hair style and hair color with detail on next sentence.
+4) Describe [NAME]'s eye color, face detail and [NAME]'s expression on next sentence.
+5) Describe [NAME]'s breasts size and body figure with detail on next sentence. Refer [NAME]'s character sheet.
+6) Describe current location with detail.
+7) Describe [NAME]'s pose with detail.
+8) Describe background and time.
+##HARDSTOP##anima
+
+##HARDSTOP##docker:gemma-3-27b
+
+발단1 에피소드를 한글 웹소설 스타일로 작성할 것.  [NAME2]의 1인칭 시점으로 1600 단어, 약 3000-4000자 정도를 사용하여 작성할 것. 한글로 쓸 것.
+1) 문체: 무라카미 하루키 스타일. 
+2) 모바일 가독성을 위해 한 문단이 3줄을 넘지 않도록 자주 줄바꿈(엔터)을 해줘
+3) 총 문단 개수: 4개
+4) 스토리 전개 방법: [NAME]와 [NAME2]의 대화 위주로 스토리 전개할 것
+5) 먼저 [KEYWORD_RANDOM]에 대해서 하루키 스타일로 가장 처음에 언급하고 현재 에피소드와 연관지을 것.
+6) 첫번째 에피소드이므로 주인공의 자기 소개, 독백을 매우 디테일하게 써서 현재 상황을 충실히 설명할 것.
+7) [NAME]과 [NAME2]의 대사는 항상 줄바꿈해서 출력할 것.
+8) **절대 요약하지 마라**: "그렇게 하루가 끝났다", "그것은 새로운 시작이었다", "앞으로의 날들이 기대된다" 같은 닫힌 결말이나 교훈적인 문장을 절대 쓰지 마시오.
+9) **시각/청각적 이미지로 끝낼 것**: 사건을 해결하려 하지 말고, 주인공이 보고 있는 사물, 들리는 소리, 혹은 느껴지는 공기의 온도를 묘사하며 문단을 끝내시오.
+10) **카메라 줌인**: 영화의 마지막 장면처럼, 주인공의 표정이나 방 구석의 작은 사물(예: 얼음이 녹은 컵, 돌아가는 레코드)로 시선을 좁히며 텍스트를 종료하시오.
+11) **모호함 유지**: 감정을 명확히 정의하지 말고, "어딘가 조금 어긋난 느낌", "무언가 사라진 듯한 기분"처럼 모호한 독백으로 마무리하시오.
+##HARDSTOP##
+
+방금 에피소드를 꼼꼼히 리뷰하고, 스토리 정합성, 문장 주어/서술어 일치가 잘 되었는지 확인한 후 퇴고하여 다시 출력할 것.
+##HARDSTOP##story
+
+발단2 에피소드를 한글 웹소설 스타일로 작성할 것.  [NAME2]의 1인칭 시점으로 1600단어, 약 3000-4000자 정도를 사용하여 작성할 것. 한글로 쓸 것.
+1) 문체: 무라카미 하루키 스타일
+2) 모바일 가독성을 위해 한 문단이 3줄을 넘지 않도록 자주 줄바꿈(엔터)을 해줘
+3) 총 문단 개수: 4개
+4) 스토리 전개 방법: [NAME]와 [NAME2]의 대화 위주로 스토리 전개할 것
+5) 먼저 [KEYWORD_RANDOM]에 대해서 하루키 스타일로 가장 처음에 언급하고 현재 에피소드와 연관지을 것.
+6) [NAME]과 [NAME2]의 대사는 항상 줄바꿈해서 출력할 것.
+8) **절대 요약하지 마라**: "그렇게 하루가 끝났다", "그것은 새로운 시작이었다", "앞으로의 날들이 기대된다" 같은 닫힌 결말이나 교훈적인 문장을 절대 쓰지 마시오.
+9) **시각/청각적 이미지로 끝낼 것**: 사건을 해결하려 하지 말고, 주인공이 보고 있는 사물, 들리는 소리, 혹은 느껴지는 공기의 온도를 묘사하며 문단을 끝내시오.
+10) **카메라 줌인**: 영화의 마지막 장면처럼, 주인공의 표정이나 방 구석의 작은 사물(예: 얼음이 녹은 컵, 돌아가는 레코드)로 시선을 좁히며 텍스트를 종료하시오.
+11) **모호함 유지**: 감정을 명확히 정의하지 말고, "어딘가 조금 어긋난 느낌", "무언가 사라진 듯한 기분"처럼 모호한 독백으로 마무리하시오.
+##HARDSTOP##
+
+방금 에피소드를 꼼꼼히 리뷰하고, 스토리 정합성, 문장 주어/서술어 일치가 잘 되었는지 확인한 후 퇴고하여 다시 출력할 것.
+##HARDSTOP##story
+
+너는 지금부터 AI 비디오 생성 모델 'Wan Video (Wanx)'를 위한 전문 프롬프트 엔지니어다.
+내가 방금전 SDXL용 prompt 및 방금전 에피소드를 참고하여, 고품질의 **영어(English)** 비디오 프롬프트로 변환해야 한다.
+
+# Wan Video Prompt Guidelines (필수 요소)
+생성하는 프롬프트는 반드시 다음 요소들을 포함하여 하나의 문단 또는 구조화된 형태로 작성하라:
+
+1. **Subject & Appearance (피사체):** 캐릭터의 외모, 의상, 표정을 아주 구체적으로 묘사 (예: 은발의 머리카락, 사이버펑크 재킷, 슬픈 눈빛).
+2. **Action & Movement (행동 및 움직임):** *비디오이므로 움직임이 가장 중요하다.* 무엇을 하고 있는지, 바람이 어떻게 부는지, 머리카락이 어떻게 휘날리는지 동적으로 묘사.
+3. **Environment (배경):** 장소, 날씨, 시간대, 주변 사물의 디테일.
+4. **Camera & Tech (카메라 워킹):** 
+   - Shot type: Wide shot, Close-up, Cowboy shot 등.
+   - Movement: Pan right, Zoom in, Tracking shot, Drone view, FPV 등.
+5. **Atmosphere & Style (분위기):** Cinematic, Anime style, Photorealistic, Volumetric lighting, 4K, High quality.
+
+# Output Format
+너의 출력:
+[Wan Video Prompt]
+(여기에 완성된 영어 프롬프트 작성)
+##HARDSTOP##
+
+발단까지의 스토리를 요약해줘. 
+요약 가장 처음과 끝에 ## SUMMARY ## 넣을 것.
+500단어 정도로 써 줄 것.
+##HARDSTOP##summary
+
+현재까지의 스토리를 반영하여 [NAME]의 아래 캐릭터 시트를 같은 포맷으로 업데이트 할 것.
+[CHARACTER_SHEET]
+##HARDSTOP##character_sheet
+##HARDSTOP##orderupdate
+
+전개1 에피소드를 [NAME2]의 1인칭 시점으로 1500단어, 약 3000-4000자 정도를 사용하여 작성할 것(최대 단어 제한없음). 한글 소설로 쓸 것.
+1) 문체: 무라카미 하루키 스타일
+2) 모바일 가독성을 위해 한 문단이 3줄을 넘지 않도록 자주 줄바꿈(엔터)을 해줘
+3) 총 문단 개수: 4개
+4) 스토리 전개 방법: [NAME]와 [NAME2]의 대화 위주로 스토리 전개할 것
+5) [NAME]과 [NAME2]의 대사는 항상 줄바꿈해서 출력할 것.
+##HARDSTOP##
+
+방금 에피소드를 꼼꼼히 리뷰하고, 스토리 정합성, 문장 주어/서술어 일치가 잘 되었는지 확인한 후 퇴고하여 다시 출력할 것.
+##HARDSTOP##story
+
+전개4 에피소드를 [NAME2]의 1인칭 시점으로 1500단어, 약 3000-4000자 정도를 사용하여 작성할 것(최대 단어 제한없음). 한글 소설로 쓸 것.
+1) 문체: 무라카미 하루키 스타일
+2) 모바일 가독성을 위해 한 문단이 3줄을 넘지 않도록 자주 줄바꿈(엔터)을 해줘
+3) 총 문단 개수: 4개
+4) 스토리 전개 방법: [NAME]와 [NAME2]의 대화 위주로 스토리 전개할 것
+5) [NAME]과 [NAME2]의 대사는 항상 줄바꿈해서 출력할 것.
+##HARDSTOP##
+
+방금 에피소드를 꼼꼼히 리뷰하고, 스토리 정합성, 문장 주어/서술어 일치가 잘 되었는지 확인한 후 퇴고하여 다시 출력할 것.
+##HARDSTOP##story
+
+너는 지금부터 AI 비디오 생성 모델 'Wan Video (Wanx)'를 위한 전문 프롬프트 엔지니어다.
+내가 방금전 SDXL용 prompt 및 방금전 에피소드를 참고하여, 고품질의 **영어(English)** 비디오 프롬프트로 변환해야 한다.
+
+# Wan Video Prompt Guidelines (필수 요소)
+생성하는 프롬프트는 반드시 다음 요소들을 포함하여 하나의 문단 또는 구조화된 형태로 작성하라:
+
+1. **Subject & Appearance (피사체):** 캐릭터의 외모, 의상, 표정을 아주 구체적으로 묘사 (예: 은발의 머리카락, 사이버펑크 재킷, 슬픈 눈빛).
+2. **Action & Movement (행동 및 움직임):** *비디오이므로 움직임이 가장 중요하다.* 무엇을 하고 있는지, 바람이 어떻게 부는지, 머리카락이 어떻게 휘날리는지 동적으로 묘사.
+3. **Environment (배경):** 장소, 날씨, 시간대, 주변 사물의 디테일.
+4. **Camera & Tech (카메라 워킹):** 
+   - Shot type: Wide shot, Close-up, Cowboy shot 등.
+   - Movement: Pan right, Zoom in, Tracking shot, Drone view, FPV 등.
+5. **Atmosphere & Style (분위기):** Cinematic, Anime style, Photorealistic, Volumetric lighting, 4K, High quality.
+
+# Output Format
+너의 출력:
+[Wan Video Prompt]
+(여기에 완성된 영어 프롬프트 작성)
+##HARDSTOP##
+
+전개까지의 스토리를 요약해줘. 요약 가장 처음과 끝에 ## SUMMARY ## 넣을 것.
+##HARDSTOP##summary
+
+현재까지의 스토리를 반영하여 [NAME]의 아래 캐릭터 시트를 같은 포맷으로 업데이트 할 것.
+[CHARACTER_SHEET]
+##HARDSTOP##character_sheet
+##HARDSTOP##orderupdate
+
+절정1 에피소드를 [NAME2]의 1인칭 시점으로 1500단어, 약 3000-4000자 정도를 사용하여 작성할 것(최대 단어 제한없음). 한글 소설로 쓸 것.
+1) 문체: 무라카미 하루키 스타일
+2) 모바일 가독성을 위해 한 문단이 3줄을 넘지 않도록 자주 줄바꿈(엔터)을 해줘
+3) 총 문단 개수: 4개
+4) 스토리 전개 방법: [NAME]와 [NAME2]의 대화 위주로 스토리 전개할 것
+##HARDSTOP##
+
+방금 에피소드를 꼼꼼히 리뷰하고, 스토리 정합성, 문장 주어/서술어 일치가 잘 되었는지 확인한 후 퇴고하여 다시 출력할 것.
+##HARDSTOP##story
+
+절정4 에피소드를 [NAME2]의 1인칭 시점으로 1500단어, 약 3000-4000자 정도를 사용하여 작성할 것(최대 단어 제한없음). 한글 소설로 쓸 것.
+1) 문체: 무라카미 하루키 스타일
+2) 모바일 가독성을 위해 한 문단이 3줄을 넘지 않도록 자주 줄바꿈(엔터)을 해줘
+3) 총 문단 개수: 4개
+4) 스토리 전개 방법: [NAME]와 [NAME2]의 대화 위주로 스토리 전개할 것
+##HARDSTOP##
+
+방금 에피소드를 꼼꼼히 리뷰하고, 스토리 정합성, 문장 주어/서술어 일치가 잘 되었는지 확인한 후 퇴고하여 다시 출력할 것.
+##HARDSTOP##story
+
+너는 지금부터 AI 비디오 생성 모델 'Wan Video (Wanx)'를 위한 전문 프롬프트 엔지니어다.
+내가 방금전 SDXL용 prompt 및 방금전 에피소드를 참고하여, 고품질의 **영어(English)** 비디오 프롬프트로 변환해야 한다.
+
+# Wan Video Prompt Guidelines (필수 요소)
+생성하는 프롬프트는 반드시 다음 요소들을 포함하여 하나의 문단 또는 구조화된 형태로 작성하라:
+
+1. **Subject & Appearance (피사체):** 캐릭터의 외모, 의상, 표정을 아주 구체적으로 묘사 (예: 은발의 머리카락, 사이버펑크 재킷, 슬픈 눈빛).
+2. **Action & Movement (행동 및 움직임):** *비디오이므로 움직임이 가장 중요하다.* 무엇을 하고 있는지, 바람이 어떻게 부는지, 머리카락이 어떻게 휘날리는지 동적으로 묘사.
+3. **Environment (배경):** 장소, 날씨, 시간대, 주변 사물의 디테일.
+4. **Camera & Tech (카메라 워킹):** 
+   - Shot type: Wide shot, Close-up, Cowboy shot 등.
+   - Movement: Pan right, Zoom in, Tracking shot, Drone view, FPV 등.
+5. **Atmosphere & Style (분위기):** Cinematic, Anime style, Photorealistic, Volumetric lighting, 4K, High quality.
+
+# Output Format
+너의 출력:
+[Wan Video Prompt]
+(여기에 완성된 영어 프롬프트 작성)
+##HARDSTOP##
+
+절정까지의 스토리를 요약해줘. 요약 가장 처음과 끝에 ## SUMMARY ## 넣을 것.
+##HARDSTOP##summary
+
+현재까지의 스토리를 반영하여 [NAME]의 아래 캐릭터 시트를 같은 포맷으로 업데이트 할 것.
+[CHARACTER_SHEET]
+##HARDSTOP##character_sheet
+##HARDSTOP##orderupdate
+
+비슷한 서술 방법으로, 결말1 에피소드를 라이트 노벨 문체를 사용하여 [NAME2]의 1인칭 시점으로 1500단어, 약 3000-4000자 정도를 사용하여 작성할 것(최대 단어 제한없음). 한글 소설로 쓸 것.
+1) 총 문단 개수: 4개
+2) 모바일 가독성을 위해 한 문단이 3줄을 넘지 않도록 자주 줄바꿈(엔터)을 해줘
+3) 스토리 전개 방법: [NAME]와 [NAME2]의 대화 위주로 스토리 전개할 것
+4) 무라카미 하루키 스타일로 쓸 것.
+5) [NAME]과 [NAME2]의 대사는 항상 줄바꿈해서 출력할 것.
+6) 에피소드 작성 순서:
+[EPISODE_WORD]
+##HARDSTOP##
+
+방금 에피소드를 꼼꼼히 리뷰하고, 스토리 정합성, 문장 주어/서술어 일치가 잘 되었는지 확인한 후 퇴고하여 다시 출력할 것.
+##HARDSTOP##story
+
+비슷한 서술 방법으로, 결말2 에피소드를 라이트 노벨 문체를 사용하여 [NAME2]의 1인칭 시점으로 1500단어 이상을 사용하여 작성할 것(최대 단어 제한없음). 한글 소설로 쓸 것.
+1) 총 문단 개수: 4개
+2) 모바일 가독성을 위해 한 문단이 3줄을 넘지 않도록 자주 줄바꿈(엔터)을 해줘
+3) 스토리 전개 방법: [NAME]와 [NAME2]의 대화 위주로 스토리 전개할 것
+4) 무라카미 하루키 스타일로 쓸 것.
+5) [NAME]과 [NAME2]의 대사는 항상 줄바꿈해서 출력할 것.
+6) 에피소드 작성 순서:
+[EPISODE_WORD]
+##HARDSTOP##
+
+방금 에피소드를 꼼꼼히 리뷰하고, 스토리 정합성, 문장 주어/서술어 일치가 잘 되었는지 확인한 후 퇴고하여 다시 출력할 것.
+##HARDSTOP##story
+
+비슷한 서술 방법으로, 결말4 에피소드를 라이트 노벨 문체를 사용하여 [NAME2]의 1인칭 시점으로 1500단어 이상을 사용하여 작성할 것(최대 단어 제한없음). 한글 소설로 쓸 것.
+1) 총 문단 개수: 4개
+2) 모바일 가독성을 위해 한 문단이 3줄을 넘지 않도록 자주 줄바꿈(엔터)을 해줘
+3) 스토리 전개 방법: [NAME]와 [NAME2]의 대화 위주로 스토리 전개할 것
+4) 무라카미 하루키 스타일로 쓸 것.
+5) [NAME]과 [NAME2]의 대사는 항상 줄바꿈해서 출력할 것.
+6) 에피소드 작성 순서:
+[EPISODE_WORD]
+##HARDSTOP##
+
+방금 에피소드를 꼼꼼히 리뷰하고, 스토리 정합성, 문장 주어/서술어 일치가 잘 되었는지 확인한 후 퇴고하여 다시 출력할 것.
+##HARDSTOP##story
+
+현재까지의 스토리를 요약해줘. 요약 가장 처음과 끝에 ## SUMMARY ## 넣을 것.
+##HARDSTOP##summary
+
+현재까지의 스토리를 반영하여 [NAME]의 아래 캐릭터 시트를 같은 포맷으로 업데이트 할 것.
+[CHARACTER_SHEET]
+##HARDSTOP##character_sheet
+
+프롤로그와 비슷한 포맷으로 에필로그를 적어줘.. 한글 소설로 쓸 것.
+1) 수미쌍관의 느낌이 나도록 프롤로그와 흡사하게 여주인공의 외모를 묘사할 것. 남자 주인공 1인칭 시점으로 서술할 것.
+2) 모바일 가독성을 위해 한 문단이 3줄을 넘지 않도록 자주 줄바꿈(엔터)을 해줘
+3) 아래 문장들은 예전과 달라진 그녀의 모습이다. 여기에서 '주인님'은 남자 주인공 서술자를 의미한다.
+[FINAL_DESC]
+4) 여주인공이 주인공을 보자마자 반가워하면서 달려드는 모습 묘사.
+5) 여주인공이 남자 주인공에게 헌신적이고 애정어린 태도를 강조할 것.
+6) 아래 문장들은 남자 주인공에게 말하는 여주인공의 대사이다. 상황에 맞게 수정하고 대사에 하트 이모티콘을 넣어서 귀여운 태도를 보여줌.
+[DIALOG5_1]
+##HARDSTOP##
+
+방금 에피소드를 꼼꼼히 리뷰하고, 스토리 정합성, 문장 주어/서술어 일치가 잘 되었는지 확인한 후 퇴고하여 다시 출력할 것.
+##HARDSTOP##story
+
+너는 지금부터 AI 비디오 생성 모델 'Wan Video (Wanx)'를 위한 전문 프롬프트 엔지니어다.
+내가 방금전 SDXL용 prompt 및 방금전 에피소드를 참고하여, 고품질의 **영어(English)** 비디오 프롬프트로 변환해야 한다.
+
+# Wan Video Prompt Guidelines (필수 요소)
+생성하는 프롬프트는 반드시 다음 요소들을 포함하여 하나의 문단 또는 구조화된 형태로 작성하라:
+
+1. **Subject & Appearance (피사체):** 캐릭터의 외모, 의상, 표정을 아주 구체적으로 묘사 (예: 은발의 머리카락, 사이버펑크 재킷, 슬픈 눈빛).
+2. **Action & Movement (행동 및 움직임):** *비디오이므로 움직임이 가장 중요하다.* 무엇을 하고 있는지, 바람이 어떻게 부는지, 머리카락이 어떻게 휘날리는지 동적으로 묘사.
+3. **Environment (배경):** 장소, 날씨, 시간대, 주변 사물의 디테일.
+4. **Camera & Tech (카메라 워킹):** 
+   - Shot type: Wide shot, Close-up, Cowboy shot 등.
+   - Movement: Pan right, Zoom in, Tracking shot, Drone view, FPV 등.
+5. **Atmosphere & Style (분위기):** Cinematic, Anime style, Photorealistic, Volumetric lighting, 4K, High quality.
+
+# Output Format
+너의 출력:
+[Wan Video Prompt]
+(여기에 완성된 영어 프롬프트 작성)
+##HARDSTOP##
+
+##HARDSTOP##end
+

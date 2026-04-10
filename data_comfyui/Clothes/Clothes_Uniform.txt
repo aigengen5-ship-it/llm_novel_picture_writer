@@ -1,0 +1,43 @@
+suit
+(school uniform:1.2), school uniform under jacket, (opened navy blue jacket:1.15)
+band uniform
+gakuran
+bikesuit
+cheerleader
+gym uniform
+magical girl, top hat
+maid, maid headdress
+miko
+military uniform
+military uniform, military hat
+naked bandage
+nun
+cow girl
+cow bikini
+nurse, nurse cap
+office lady, (black jacket, tight black pencil skirt, white collared shirt, black necktie, black pantyhose:1.1)
+overalls
+playboy bunny
+police uniform
+racing suit
+sailor
+santa costume, santa hat
+school uniform
+serafuku
+sweatpants
+sweatshirt
+tactical clothes, bulletproof vest
+tutu
+waitress
+white serafuku shirt, red neckerchief, blue serafuku skirt
+witch, witch hat
+white robe
+belly dancer
+black suit, office lady, lanyard
+detective, {monocle|holding magnifying_glass}
+pirate
+yellow raincoat
+work uniform, hat, mouth mask
+slave, bottomless, dirty clothes
+otaku, holding paper bag
+hip hop

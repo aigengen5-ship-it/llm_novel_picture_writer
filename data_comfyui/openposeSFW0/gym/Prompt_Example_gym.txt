@@ -1,0 +1,15 @@
+<Prompt Example>
+photo of a 18 year old girl,having workout at the gym,happy,ray tracing,detail shadow,shot on Fujifilm X-T4,85mm f1.2,sharp focus,depth of field,blurry background,bakeh,
+
+photo of a 18 year old girl,super strength pose:flexing muscles with a determined look,ready to showcase incredible strength,happy,ray tracing,detail shadow,shot on Fujifilm X-T4,85mm f1.2,sharp focus,depth of field,blurry background,bakeh,
+
+
+
+<Camera Angle for some poses>
+from below
+from above
+from behind
+
+<Option for feet shape of some poses>
+floating in the air
+jumping in the air

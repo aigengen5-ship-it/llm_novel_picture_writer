@@ -1,0 +1,54 @@
+아래 plot을 리뷰하고 주어진 캐릭터 시트에 맞도록 최소한도로 수정할 것.
+
+## EPISODE START
+발단 1:
+[INTRODUCTION1]
+
+발단 2:
+[INTRODUCTION2]
+
+발단 3:
+[INTRODUCTION3]
+
+발단 4:
+[INTRODUCTION4]
+
+전개 1:
+[DEVELOPMENT1]
+
+전개 2:
+[DEVELOPMENT2]
+
+전개 3:
+[DEVELOPMENT3]
+
+전개 4:
+[DEVELOPMENT4]
+
+절정 1:
+[CLIMAX1]
+
+절정 2:
+[CLIMAX2]
+
+절정 3:
+[CLIMAX3]
+
+절정 4:
+[CLIMAX4]
+
+결말 1:
+[CONCLUSION1]
+
+결말 2:
+[CONCLUSION2]
+
+결말 3:
+[CONCLUSION3]
+
+결말 4:
+[CONCLUSION4]
+## EPISODE END
+
+##HARDSTOP##
+

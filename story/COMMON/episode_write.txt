@@ -1,0 +1,30 @@
+[NAME]의 character sheet를 아래 danbooru tag를 확인한 후 업데이트 한 후 **업데이트 결과**만 출력할 것.
+[NAME]의 현재 모습 tag: [BODY_TAG]
+캐릭터 시트:
+[CHARACTER_SHEET]
+##HARDSTOP##character_sheet
+
+##HARDSTOP##orderupdate
+##HARDSTOP##storypre
+
+Order: 에피소드 요약을 기반으로 에피소드 [NUM]의 '기(introduction)를 600자 정도로 작성할 것. #INNER는 화자의 속마음, #TALK는 그들의 대화임. 이 헤더는 에피소드 작성시 꼭 지울 것.
+narrative point of view:[POV]
+##HARDSTOP##story
+
+Order: 에피소드 요약을 기반으로 에피소드 [NUM]의 '승(development)을 2500자 정도로 작성할 것. #INNER는 화자의 속마음, #TALK는 그들의 대화임. 이 헤더는 에피소드 작성시 꼭 지울 것. 
+narrative point of view:[POV]
+##HARDSTOP##story
+
+Order: 에피소드 요약을 기반으로 에피소드 [NUM]의 '전(turn)을 1100자 정도로 작성할 것. #INNER는 화자의 속마음, #TALK는 그들의 대화임. 이 헤더는 에피소드 작성시 꼭 지울 것.
+narrative point of view:[POV]
+##HARDSTOP##story
+
+Order: 에피소드 요약을 기반으로 에피소드 [NUM]의 '결(conclusion)을 800자 정도로 작성할 것. #INNER는 화자의 속마음, #TALK는 그들의 대화임. 이 헤더는 에피소드 작성시 꼭 지울 것.
+narrative point of view:[POV]
+##HARDSTOP##story
+
+현재까지의 스토리를 반영하여 [NAME]과 [NAME2] 캐릭터 시트 포맷은 유지하면서 내용을 업데이트 한 후 **업데이트 결과**만 출력할 것.
+[CHARACTER_SHEET]
+##HARDSTOP##character_sheet
+##HARDSTOP##anima
+##HARDSTOP##episodeup

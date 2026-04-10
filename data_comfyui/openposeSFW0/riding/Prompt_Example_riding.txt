@@ -1,0 +1,14 @@
+<Prompt Example>
+photo of a 18 year old girl,riding on a horse,happy,ray tracing,detail shadow,shot on Fujifilm X-T4,85mm f1.2,sharp focus,depth of field,blurry background,bakeh,
+
+<Riding other animals>
+tiger,lion,dog,cat,eagle...etc
+
+<Camera Angle for some poses>
+from below
+from above
+from behind
+
+<Option for feet shape of some poses>
+floating in the air
+jumping in the air
