@@ -2,7 +2,6 @@
 copy.scr
 *.log
 venv/
-result/
 /__pycache__
 data_extended/
 llm_def_extended.py
